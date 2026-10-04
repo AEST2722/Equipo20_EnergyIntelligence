@@ -1,0 +1,41 @@
+# Configuración central ML-SEDP. Todo parámetro que afecte resultados vive aquí (reproducibilidad).
+project: ML-SEDP
+corridor_id: MEX-095D_CDMX_ACAPULCO
+
+crs:
+  geographic: "EPSG:4326"
+  projected: "EPSG:6372"   # Mexico ITRF2008 / LCC: distancias y buffers en metros
+
+rnc:
+  gpkg_path: "01_RAW/road_network/"          # se toma el primer .gpkg encontrado (o .shp)
+  road_layer: null                           # null = autodetectar capa de red vial
+  route_field: null                          # null = autodetectar campo con código de ruta
+  route_pattern: "95D"                       # patrón del código de la autopista (95D evita confundir con la libre 95); confirmar con --inspect
+  origin_lonlat: [-99.1660, 19.2880]         # inicio Viaducto Tlalpan / caseta (ajustar y documentar)
+  destination_lonlat: [-99.8650, 16.8650]    # Acapulco (ajustar y documentar)
+  snap_tolerance_m: 2000                     # distancia máx. para pegar origen/destino a la red
+
+ctn:
+  spacing_m: 10000
+  include_toll_plazas: true
+  min_gap_m: 2000                            # no crear puntos estratégicos a menos de 2 km de un CTN nominal
+
+nasa_power:
+  parameters: ["ALLSKY_SFC_SW_DWN", "T2M", "T2M_MAX", "PRECTOTCORR", "WS10M"]
+  start_year: 2015
+  end_year: 2024                             # mismo periodo para TODOS los CTN
+  community: "RE"
+
+denue:
+  radius_m: 5000                             # máximo permitido por la API Buscar
+  token_env_var: "DENUE_TOKEN"               # NUNCA escribir el token aquí
+
+censo:
+  buffers_m: [5000, 10000, 20000]
+  rural_threshold: 2500                      # localidad rural INEGI < 2,500 hab.
+
+dgsiap:
+  year: 2024                                 # cambiar a 2025 cuando el cierre definitivo esté disponible
+
+sict:
+  max_top_distance_m: 25000                  # si el TOP más cercano está más lejos, TDPA queda como faltante
