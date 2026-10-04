@@ -1,0 +1,462 @@
+Anio,id_ent,Nomestado,Idddr,Nomddr,Idcader,Nomcader,id_mun,nom_mun,Idciclo,ciclo,Idmodalidad,modalidad,Idunidadmedida,Nomunidad,Idcultivo,cultivo,sembrada_ha,cosechada_ha,siniestrada_ha,Volumenproduccion,Rendimiento,Preciomediorural,valor_mxn,cve_mun
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,1,Otoño-Invierno,1,Riego,200206,Planta,5780000,CALANCOE (PLANTA),1.8,1.8,0.0,138600.0,77000.0,14.89,2063659.75,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,1,Otoño-Invierno,1,Riego,200206,Planta,6920000,GERANIO (PLANTA),1.4,1.4,0.0,140000.0,100000.0,13.24,1853986.4,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,1,Otoño-Invierno,2,Temporal,200201,Tonelada,6670000,ESPINACA,12.0,12.0,0.0,81.0,6.75,7300.0,591300.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,1,Riego,200206,Planta,6920000,GERANIO (PLANTA),1.0,1.0,0.0,148320.0,148320.0,13.05,1935872.64,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,1,Riego,200206,Planta,7900000,NOCHEBUENA (PLANTA),3.0,3.0,0.0,344334.15,114778.05,75.0,25825061.25,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200203,Gruesa,5230000,ALHELÍ (GRUESA),0.3,0.3,0.0,165.0,550.0,120.0,19800.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,5490000,AVENA FORRAJERA EN VERDE,3090.0,3090.0,0.0,56021.7,18.13,1596.99,89466094.68,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,5740000,CALABACITA,15.0,15.0,0.0,112.5,7.5,11693.54,1315523.38,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,6190000,CILANTRO,7.0,7.0,0.0,49.0,7.0,9257.14,453599.86,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,6540000,EBO (JANAMARGO O VEZA),20.0,20.0,0.0,220.0,11.0,1488.63,327498.6,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,6610000,ELOTE,550.0,550.0,0.0,4950.0,9.0,11166.67,55275016.5,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,6670000,ESPINACA,62.0,62.0,0.0,558.0,9.0,8170.16,4558949.28,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,4.0,4.0,0.0,3.12,0.78,25622.58,79942.45,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,7110000,HABA VERDE,27.0,27.0,0.0,113.4,4.2,9000.0,1020600.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,680.0,680.0,0.0,897.6,1.32,7390.0,6633264.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200205,Manojo,7950000,NUBE (MANOJO),0.7,0.7,0.0,700.0,1000.0,45.0,31500.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,8100000,PAPA,850.0,850.0,0.0,41752.0,49.12,7898.04,329758966.1,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,8490000,RÁBANO,17.0,17.0,0.0,269.96,15.88,8383.33,2263163.77,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,9270000,ZANAHORIA,7.0,7.0,0.0,154.0,22.0,8376.62,1289999.48,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,2,Primavera-Verano,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,8.0,8.0,0.0,72.0,9.0,1331.25,95850.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200206,Planta,5390000,ÁRBOL DE NAVIDAD (PLANTA),26.0,13.0,0.0,13892.19,1068.63,687.8,9555023.4,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200201,Tonelada,5840000,CAPULÍN,1.0,1.0,0.0,0.9,0.9,7800.0,7020.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200201,Tonelada,6220000,CIRUELA,4.0,4.0,0.0,13.52,3.38,8629.63,116672.6,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200201,Tonelada,6530000,DURAZNO,2.5,2.0,0.0,11.0,5.5,10000.0,110000.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200201,Tonelada,7580000,MANZANA,2.5,2.0,0.0,13.0,6.5,15000.0,195000.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200201,Tonelada,8230000,PERA,8.0,7.0,0.0,42.0,6.0,13000.0,546000.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200203,Gruesa,8610000,ROSA (GRUESA),3.4,3.4,0.0,2499.99,735.29,367.57,918921.32,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,12,Tlalpan,3,Perennes,2,Temporal,200201,Tonelada,8930000,TEJOCOTE,0.5,0.5,0.0,2.0,4.0,12600.0,25200.0,09012
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200201,Tonelada,5010000,ACELGA,4.0,4.0,0.0,32.0,8.0,7101.56,227249.92,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,5780000,CALANCOE (PLANTA),6.0,6.0,0.0,478950.0,79825.0,12.54,6006013.84,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,6210000,CINERARIA (PLANTA),5.5,5.5,0.0,427707.5,77765.0,12.96,5543790.64,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,6460000,CYCLAMEN (PLANTA),6.5,6.5,0.0,498777.5,76735.0,23.41,11678017.27,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200201,Tonelada,6670000,ESPINACA,12.0,12.0,0.0,90.0,7.5,7557.78,680200.2,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,6920000,GERANIO (PLANTA),10.5,10.5,0.0,1050798.0,100076.0,12.96,13620065.39,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200201,Tonelada,7330000,LECHUGA,46.0,46.0,0.0,519.34,11.29,8663.68,4499395.57,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,7375000,LILIUM (PLANTA),4.2,4.2,0.0,648900.0,154500.0,17.5,11355568.31,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,8205000,PENSAMIENTO (PLANTA),6.0,6.0,0.0,614700.0,102450.0,11.2,6887492.21,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,8270000,PETUNIA (PLANTA),7.5,7.5,0.0,628147.5,83753.0,14.9,9359397.75,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200201,Tonelada,8580000,ROMERITO,13.0,13.0,0.0,91.0,7.0,8154.84,742090.44,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200206,Planta,9115000,TULIPÁN HOLANDÉS,3.0,3.0,0.0,494400.0,164800.0,41.23,20385000.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,1,Riego,200201,Tonelada,9170000,VERDOLAGA,39.0,39.0,0.0,291.33,7.47,7299.64,2126604.12,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,1,Otoño-Invierno,2,Temporal,200201,Tonelada,6670000,ESPINACA,8.0,8.0,0.0,54.0,6.75,6000.0,324000.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,1504000,DALIA (PLANTA),1.45,1.45,0.0,222092.24,153167.06,14.66,3255516.89,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,5010000,ACELGA,8.0,7.0,1.0,98.0,14.0,8387.75,821999.5,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200203,Gruesa,5230000,ALHELÍ (GRUESA),1.4,1.4,0.0,855.58,611.13,114.25,97752.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,5395000,ARETILLO (PLANTA),2.8,2.8,0.0,290899.48,103892.67,14.56,4234914.63,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,5600000,BEGONIA (PLANTA),3.4,3.4,0.0,495708.1,145796.5,15.06,7465363.99,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,5605000,BELÉN (PLANTA),4.0,4.0,0.0,575879.6,143969.9,13.72,7903763.23,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,5670000,BRÓCOLI,3.5,3.5,0.0,42.0,12.0,9664.29,405900.18,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,5740000,CALABACITA,2.5,2.5,0.0,22.5,9.0,10017.78,225400.05,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,6120000,CHILE VERDE,0.3,0.3,0.0,1.35,4.5,10500.0,14175.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,6210000,CINERARIA (PLANTA),3.2,3.2,0.0,445179.74,139118.67,15.06,6704406.88,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,6310000,COL (REPOLLO),0.8,0.8,0.0,7.0,8.75,9857.14,68999.98,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,6455000,CRISANTEMO (PLANTA),3.7,3.7,0.0,536500.0,145000.0,13.71,7357904.36,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,6460000,CYCLAMEN (PLANTA),4.0,4.0,0.0,495327.0,123831.75,30.54,15128158.36,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,6670000,ESPINACA,27.0,25.0,2.0,275.0,11.0,7346.82,2020375.5,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,6920000,GERANIO (PLANTA),14.0,14.0,0.0,2119755.4,151411.1,13.7,29050399.85,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,7330000,LECHUGA,60.0,54.0,6.0,561.0,10.39,8758.07,4913275.05,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,7375000,LILIUM (PLANTA),3.9,3.9,0.0,595567.13,152709.52,19.6,11671972.26,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,7900000,NOCHEBUENA (PLANTA),22.0,22.0,0.0,2596000.0,118000.0,71.77,186314920.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,8270000,PETUNIA (PLANTA),4.0,4.0,0.0,552000.0,138000.0,16.71,9223920.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,8490000,RÁBANO,1.0,1.0,0.0,18.0,18.0,8933.33,160799.94,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,8580000,ROMERITO,11.0,10.6,0.4,74.2,7.0,8059.3,598000.06,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,8620000,ROSA (PLANTA),9.5,9.5,0.0,992499.96,104473.68,16.98,16850307.02,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200201,Tonelada,9170000,VERDOLAGA,29.0,25.8,3.2,309.6,12.0,8248.71,2553800.62,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,1,Riego,200206,Planta,9380000,ZEMPOALXOCHITL (PLANTA),12.6,12.6,0.0,1946700.0,154500.0,13.05,25408328.4,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,5010000,ACELGA,2.5,2.5,0.0,32.5,13.0,7584.3,246489.75,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,5340000,AMARANTO,75.0,75.0,0.0,95.25,1.27,24636.84,2346659.01,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,5490000,AVENA FORRAJERA EN VERDE,270.0,270.0,0.0,3898.8,14.44,1607.69,6268061.77,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,5740000,CALABACITA,20.0,20.0,0.0,160.0,8.0,12790.6,2046495.38,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,6540000,EBO (JANAMARGO O VEZA),45.0,45.0,0.0,495.0,11.0,1536.82,760725.9,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,6610000,ELOTE,105.0,105.0,0.0,735.0,7.0,10500.0,7717500.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,4.0,4.0,0.0,3.2,0.8,26843.75,85900.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,7110000,HABA VERDE,30.0,30.0,0.0,120.0,4.0,8696.83,1043619.6,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,548.0,548.0,0.0,701.44,1.28,6894.57,4836127.18,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200205,Manojo,7950000,NUBE (MANOJO),0.4,0.4,0.0,400.0,1000.0,45.0,18000.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,2,Primavera-Verano,2,Temporal,200201,Tonelada,8490000,RÁBANO,4.0,4.0,0.0,60.0,15.0,8630.0,517800.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,5000000,ACEITUNA,3.0,1.0,0.0,1.2,1.2,7500.0,9000.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,5840000,CAPULÍN,3.0,3.0,0.0,2.7,0.9,7559.26,20410.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,6220000,CIRUELA,5.0,5.0,0.0,15.0,3.0,8979.33,134689.95,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,6530000,DURAZNO,7.0,6.0,0.0,31.8,5.3,9000.0,286200.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,7580000,MANZANA,2.5,2.0,0.0,13.0,6.5,14500.0,188500.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,7920000,NOPALITOS,29.0,29.0,0.0,2349.87,81.03,3691.12,8673652.15,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,8230000,PERA,4.5,4.0,0.0,24.0,6.0,11900.0,285600.0,09013
+2024,9,Ciudad de México,42,Xochimilco,1,San Mateo Xalpa,13,Xochimilco,3,Perennes,2,Temporal,200201,Tonelada,8930000,TEJOCOTE,0.6,0.6,0.0,2.3,3.83,12600.0,28980.0,09013
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,15.6,15.6,0.0,209.04,13.4,8768.02,1832866.1,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,6110000,CHILE SECO,7.5,7.5,0.0,5.48,0.73,68169.01,373566.17,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,6120000,CHILE VERDE,9.25,9.25,0.0,82.79,8.95,13938.9,1154001.53,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,6840000,FRIJOL,108.1,108.1,0.0,92.53,0.86,15075.01,1394890.72,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,421.0,421.0,0.0,1469.29,3.49,5556.76,8164491.9,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,8210000,PEPINO,8.0,8.0,0.0,133.36,16.67,8009.13,1068097.58,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,8710000,SANDÍA,184.7,184.7,0.0,4288.93,23.22,7457.08,31982876.52,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,8810000,SORGO GRANO,18.6,18.6,0.0,64.17,3.45,5576.9,357869.67,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),10.75,10.75,0.0,203.6,18.94,8704.36,1772207.95,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,90.5,90.5,0.0,1387.37,15.33,8816.56,12231830.85,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,2,Temporal,200201,Tonelada,6120000,CHILE VERDE,6.0,6.0,0.0,47.88,7.98,12879.5,616670.46,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,2,Temporal,200201,Tonelada,6840000,FRIJOL,7.0,7.0,0.0,5.11,0.73,15688.9,80170.28,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,145.5,145.5,0.0,465.6,3.2,5452.81,2538828.34,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,2,Temporal,200201,Tonelada,8710000,SANDÍA,12.0,12.0,0.0,233.64,19.47,5973.4,1395625.18,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,4.0,4.0,0.0,13.12,3.28,5674.45,74448.78,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,2,Temporal,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),4.0,4.0,0.0,63.84,15.96,8674.9,553805.62,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,1,Otoño-Invierno,2,Temporal,200201,Tonelada,8980000,TOMATE VERDE,8.0,8.0,0.0,130.48,16.31,8116.03,1058979.59,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,5690000,CACAHUATE,11.3,11.3,0.0,22.6,2.0,15955.1,360585.26,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,5740000,CALABACITA,40.0,40.0,0.0,490.8,12.27,6342.18,3112743.15,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,6120000,CHILE VERDE,13.9,13.9,0.0,111.62,8.03,8988.55,1003301.95,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,6840000,FRIJOL,62.55,62.55,0.0,70.06,1.12,15450.45,1082458.53,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,276.0,276.0,0.0,954.96,3.46,5976.81,5707614.48,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,8210000,PEPINO,10.9,10.9,0.0,160.67,14.74,4811.05,772991.4,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,8710000,SANDÍA,36.3,36.3,0.0,799.08,22.01,4926.91,3936996.91,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,46.25,46.25,0.0,769.14,16.63,7605.5,5849694.27,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,5080000,AJONJOLÍ,262.8,262.8,0.0,178.7,0.68,0.99,176.91,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,52.0,52.0,0.0,84.24,1.62,15959.68,1344443.44,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,5760000,CALABAZA,258.1,258.1,0.0,2289.35,8.87,4953.37,11339997.61,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,5770000,CALABAZA SEMILLA O CHIHUA,1273.55,1273.55,0.0,878.75,0.69,33903.05,29792305.19,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,6120000,CHILE VERDE,7.5,7.5,0.0,45.68,6.09,12303.13,562006.98,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,319.4,319.4,0.0,252.33,0.79,15318.9,3865418.04,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,7220000,JAMAICA,1522.3,1522.3,0.0,548.03,0.36,35799.01,19618931.45,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,19795.5,19795.5,0.0,65325.15,3.3,5969.12,389933659.4,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,8210000,PEPINO,9.65,9.65,0.0,136.26,14.12,4179.61,569513.66,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,8710000,SANDÍA,263.6,263.6,0.0,6070.52,23.03,4575.28,27774351.02,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,21.0,21.0,0.0,61.95,2.95,4925.81,305153.93,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,2,Primavera-Verano,2,Temporal,200201,Tonelada,8980000,TOMATE VERDE,65.8,65.8,0.0,935.68,14.22,4978.61,4658385.8,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,5060000,AGUACATE,2.0,2.0,0.0,15.78,7.89,9590.95,151345.19,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,5822000,CAÑA DE AZÚCAR PILONCILLO,7.0,7.0,0.0,63.56,9.08,896.32,56970.1,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,6300000,COCO FRUTA,35.0,35.0,0.0,417.55,11.93,3862.77,1612899.61,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,6400000,COPRA,22.0,18.0,0.0,44.46,2.47,8969.08,398765.3,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,7390000,LIMÓN,265.0,263.0,0.0,3324.32,12.64,5947.76,19772257.52,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,31.0,22.0,0.0,328.43,14.93,7831.14,2571981.2,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,7600000,MARACUYÁ,5.0,5.0,0.0,39.5,7.9,4765.44,188234.88,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,8130000,PAPAYA,19.0,19.0,0.0,365.75,19.25,6704.83,2452291.57,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200217,Metro cuadrado,8150000,PASTO TAPETE (M2),22.0,22.0,0.0,209990.22,9545.01,36.15,7590629.2,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,8390000,PLÁTANO,37.0,37.0,0.0,878.25,23.74,5932.67,5210368.32,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200203,Gruesa,8610000,ROSA (GRUESA),5.0,5.0,0.0,5932.8,1186.56,293.34,1740303.83,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,1,Riego,200201,Tonelada,15050000,PASTOS Y PRADERAS,9.0,9.0,0.0,211.5,23.5,832.41,176054.72,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,5060000,AGUACATE,9.0,9.0,0.0,61.02,6.78,9048.36,552130.93,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,6220000,CIRUELA,38.0,34.0,0.0,197.2,5.8,5768.25,1137498.9,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,6300000,COCO FRUTA,83.0,83.0,0.0,979.4,11.8,3295.17,3227289.5,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,6400000,COPRA,4751.0,4745.0,0.0,9490.0,2.0,9137.16,86711648.4,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,7050000,GUANÁBANA,8.0,6.0,0.0,39.0,6.5,5831.08,227412.12,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,7390000,LIMÓN,2502.0,2498.0,0.0,31774.56,12.72,6246.19,198469938.9,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,7560000,MANGO,879.0,857.0,0.0,11896.04,13.88,7378.07,87769791.24,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,7610000,MARAÑÓN,4.5,4.5,0.0,21.6,4.8,4235.85,91494.36,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,7830000,NANCHE,7.0,5.0,0.0,26.0,5.2,4819.05,125295.3,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,7850000,NARANJA,3.0,3.0,0.0,34.47,11.49,5180.05,178556.32,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,7920000,NOPALITOS,4.0,4.0,0.0,22.8,5.7,5645.55,128718.54,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,8390000,PLÁTANO,21.5,17.5,0.0,404.72,23.13,5999.82,2428247.66,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,8880000,TAMARINDO,30.0,26.0,0.0,128.7,4.95,6341.46,816145.9,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,1,Acapulco de Juárez,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,402.0,402.0,0.0,9599.76,23.88,876.84,8417453.56,12001
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,1,Otoño-Invierno,1,Riego,200201,Tonelada,6120000,CHILE VERDE,5.0,5.0,0.0,46.25,9.25,12642.8,584729.5,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,1,Otoño-Invierno,1,Riego,200201,Tonelada,6840000,FRIJOL,28.25,28.25,0.0,24.01,0.85,14704.43,353053.36,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,174.5,174.5,0.0,602.03,3.45,5097.99,3069142.92,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,1,Otoño-Invierno,1,Riego,200201,Tonelada,8710000,SANDÍA,51.8,51.8,0.0,1176.35,22.71,6697.32,7878397.68,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,1,Otoño-Invierno,1,Riego,200201,Tonelada,8810000,SORGO GRANO,10.5,10.5,0.0,38.22,3.64,6005.45,229528.3,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),0.52,0.52,0.0,13.85,26.63,9346.5,129449.03,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,13.25,13.25,0.0,210.68,15.9,9422.28,1985085.95,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,2,Primavera-Verano,2,Temporal,200201,Tonelada,5080000,AJONJOLÍ,36.7,36.7,0.0,28.99,0.79,19395.07,562263.08,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,7.4,7.4,0.0,13.54,1.83,15982.61,216404.54,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,2,Primavera-Verano,2,Temporal,200201,Tonelada,5770000,CALABAZA SEMILLA O CHIHUA,813.8,813.8,0.0,528.97,0.65,33990.51,17979960.07,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,2,Primavera-Verano,2,Temporal,200201,Tonelada,6120000,CHILE VERDE,7.0,7.0,0.0,37.24,5.32,5017.0,186833.08,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,31.3,31.3,0.0,25.18,0.8,14995.79,377593.9,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,2,Primavera-Verano,2,Temporal,200201,Tonelada,7220000,JAMAICA,744.0,744.0,0.0,290.16,0.39,34653.6,10055088.58,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,5734.2,5734.2,0.0,17661.34,3.08,5790.49,102267812.7,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,53.0,42.5,0.0,634.63,14.93,7265.79,4611089.77,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,1,Riego,200201,Tonelada,8130000,PAPAYA,27.0,27.0,0.0,579.3,21.46,7907.55,4580841.85,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,1,Riego,200201,Tonelada,15050000,PASTOS Y PRADERAS,25.0,25.0,0.0,587.5,23.5,859.71,505079.63,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,6220000,CIRUELA,88.0,78.0,0.0,401.7,5.15,5330.25,2141161.43,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,6400000,COPRA,46.0,40.0,0.0,82.4,2.06,8895.67,733003.21,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,7050000,GUANÁBANA,8.0,6.0,0.0,37.14,6.19,5129.48,190508.89,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,7390000,LIMÓN,37.0,35.0,0.0,450.1,12.86,6075.39,2734533.04,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,7540000,MAMEY,4.0,4.0,0.0,34.0,8.5,6454.83,219464.22,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,7560000,MANGO,334.0,329.0,0.0,4360.25,13.25,5713.12,24910616.33,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,7830000,NANCHE,56.0,52.0,0.0,293.8,5.65,4573.68,1343747.18,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,8130000,PAPAYA,25.0,25.0,0.0,538.0,21.52,6926.79,3726610.7,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,8880000,TAMARINDO,15.0,15.0,0.0,76.05,5.07,6406.87,487242.46,12039
+2024,12,Guerrero,54,Las Vigas,2,Acapulco,39,Juan R. Escudero,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,7453.0,7453.0,0.0,165083.95,22.15,819.81,135337473.1,12039
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,1,Riego,200201,Tonelada,6120000,CHILE VERDE,6.0,6.0,0.0,52.68,8.78,11482.38,604891.78,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,1,Riego,200201,Tonelada,6840000,FRIJOL,63.0,63.0,0.0,55.44,0.88,14003.73,776366.79,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,530.0,530.0,0.0,2061.7,3.89,5096.09,10506608.75,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,1,Riego,200201,Tonelada,8710000,SANDÍA,6.5,6.5,0.0,175.89,27.06,4862.13,855200.05,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,1,Riego,200201,Tonelada,8790000,SORGO FORRAJERO EN VERDE,63.4,63.4,0.0,2020.56,31.87,996.38,2013245.57,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),45.0,45.0,0.0,1460.7,32.46,8188.95,11961599.27,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,12.5,12.5,0.0,245.38,19.63,7152.11,1754984.75,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,1,Otoño-Invierno,2,Temporal,200201,Tonelada,6900000,GARBANZO GRANO,8.5,8.5,0.0,7.48,0.88,9965.32,74540.59,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),5.9,5.9,0.0,194.82,33.02,8072.22,1572629.9,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,13.8,13.8,0.0,13.94,1.01,12297.71,171430.08,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,2,Temporal,200201,Tonelada,5770000,CALABAZA SEMILLA O CHIHUA,1147.25,1147.25,0.0,516.26,0.45,20384.33,10523614.21,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,547.09,547.09,0.0,426.73,0.78,13785.13,5882528.52,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,2,Temporal,200201,Tonelada,7240000,JÍCAMA,7.8,7.8,0.0,234.62,30.08,4447.5,1043472.45,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,7874.69,7874.69,0.0,22600.36,2.87,5369.22,121346304.9,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,62.4,62.4,0.0,230.26,3.69,4130.25,951031.37,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,2,Primavera-Verano,2,Temporal,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),54.3,54.3,0.0,1468.27,27.04,7985.97,11725560.17,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,1,Riego,200201,Tonelada,5060000,AGUACATE,201.0,100.0,0.0,860.0,8.6,9989.43,8590909.8,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,1,Riego,200201,Tonelada,5170000,ALFALFA VERDE,7.5,7.5,0.0,414.0,55.2,989.05,409466.7,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,1,Riego,200201,Tonelada,7390000,LIMÓN,20.0,18.0,0.0,100.26,5.57,4725.72,473800.69,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,11.0,10.0,0.0,69.1,6.91,3870.55,267455.01,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,1,Riego,200201,Tonelada,7850000,NARANJA,14.0,14.0,0.0,128.17,9.16,4016.57,514803.75,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,1,Riego,200201,Tonelada,15050000,PASTOS Y PRADERAS,19.0,19.0,0.0,625.1,32.9,955.75,597439.33,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,150.0,120.0,0.0,4280.4,35.67,5751.52,24618806.21,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,2,Temporal,200201,Tonelada,5710000,CAFÉ CEREZA,228.0,216.0,0.0,144.72,0.67,8780.27,1270680.67,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,2,Temporal,200201,Tonelada,6220000,CIRUELA,1.0,1.0,0.0,3.87,3.87,3926.17,15194.28,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,2,Temporal,200201,Tonelada,6530000,DURAZNO,9.0,8.0,0.0,46.16,5.77,6155.33,284130.03,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,2,Temporal,200201,Tonelada,7390000,LIMÓN,9.0,7.0,0.0,47.6,6.8,4530.53,215653.43,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,2,Temporal,200201,Tonelada,7580000,MANZANA,3.5,3.5,0.0,14.98,4.28,5796.0,86824.08,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,29,Chilpancingo de Los Bravo,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,450.0,450.0,0.0,9796.5,21.77,986.35,9662777.78,12029
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,1,Otoño-Invierno,2,Temporal,200201,Tonelada,6900000,GARBANZO GRANO,65.0,65.0,0.0,51.35,0.79,9737.0,499994.95,12042
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),1.62,1.62,0.0,54.01,33.34,8210.05,443424.8,12042
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,2,Primavera-Verano,2,Temporal,200201,Tonelada,5080000,AJONJOLÍ,7.0,7.0,0.0,3.85,0.55,18620.43,71688.66,12042
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,81.8,81.8,0.0,67.08,0.82,13995.48,938816.8,12042
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,3411.97,3411.97,0.0,9280.56,2.72,5213.84,48387354.95,12042
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,290.08,290.08,0.0,1119.71,3.86,4029.74,4512140.18,12042
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,3,Perennes,1,Riego,200201,Tonelada,15050000,PASTOS Y PRADERAS,2.5,2.5,0.0,74.2,29.68,987.71,73288.08,12042
+2024,12,Guerrero,56,Chilpancingo,1,Tixtla,42,Mártir de Cuilapan,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,480.0,450.0,0.0,16798.5,37.33,5589.29,93891688.07,12042
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,22.5,22.5,0.0,90.0,4.0,5161.22,464509.8,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,1,Otoño-Invierno,1,Riego,200201,Tonelada,8790000,SORGO FORRAJERO EN VERDE,7.0,7.0,0.0,221.48,31.64,998.17,221074.69,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),20.5,20.5,0.0,631.2,30.79,7796.9,4921403.28,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),2.4,2.4,0.0,85.92,35.8,8860.95,761332.82,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,178.38,178.38,0.0,140.92,0.79,13762.5,1939411.5,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,6514.28,6514.28,0.0,17849.13,2.74,5464.03,97528181.79,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,2,Primavera-Verano,2,Temporal,200201,Tonelada,8710000,SANDÍA,44.98,44.98,0.0,1120.0,24.9,3695.5,4138960.0,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,2,Primavera-Verano,2,Temporal,200201,Tonelada,8790000,SORGO FORRAJERO EN VERDE,67.62,67.62,0.0,2077.96,30.73,929.5,1931463.82,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,2,Primavera-Verano,2,Temporal,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),75.8,75.8,0.0,2146.66,28.32,8033.47,17245128.71,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,1,Riego,200201,Tonelada,5060000,AGUACATE,27.0,26.0,0.0,156.26,6.01,10115.31,1580618.35,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,1,Riego,200201,Tonelada,5170000,ALFALFA VERDE,5.84,5.84,0.0,325.0,55.65,1036.97,337015.25,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,85.0,80.0,0.0,3360.0,42.0,4357.99,14642846.4,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,2,Temporal,200201,Tonelada,5060000,AGUACATE,5.0,5.0,0.0,41.15,8.23,7779.88,320142.06,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,2,Temporal,200201,Tonelada,6530000,DURAZNO,5.0,5.0,0.0,39.35,7.87,3755.13,147764.37,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,2,Temporal,200201,Tonelada,7060000,GUAYABA,2.5,2.5,0.0,11.9,4.76,3969.55,47237.65,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,2,Temporal,200201,Tonelada,7390000,LIMÓN,11.0,10.0,0.0,94.64,9.46,5865.75,555134.33,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,2,Temporal,200201,Tonelada,7560000,MANGO,3.0,3.0,0.0,21.09,7.03,4561.9,96210.47,12075
+2024,12,Guerrero,56,Chilpancingo,2,Chichihualco,75,Eduardo Neri,3,Perennes,2,Temporal,200201,Tonelada,8130000,PAPAYA,7.0,7.0,0.0,180.95,25.85,4017.64,726991.96,12075
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,53.0,53.0,0.0,225.25,4.25,5678.75,1279138.44,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,1,Otoño-Invierno,1,Riego,200201,Tonelada,8710000,SANDÍA,12.5,12.5,0.0,259.75,20.78,4890.66,1270348.94,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,2.8,2.8,0.0,58.04,20.73,7921.43,459759.8,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,31.48,31.48,0.0,40.61,1.29,18675.95,758430.33,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,2,Primavera-Verano,2,Temporal,200201,Tonelada,6110000,CHILE SECO,5.41,5.41,0.0,2.87,0.53,30614.9,87864.76,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,3296.29,3296.29,0.0,8073.95,2.45,4991.27,40299277.48,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,322.79,322.79,0.0,1384.77,4.29,4497.18,6227559.95,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,10.0,10.0,0.0,59.7,5.97,4970.68,296749.49,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,3,Perennes,1,Riego,200201,Tonelada,8390000,PLÁTANO,2.0,2.0,0.0,11.8,5.9,5476.68,64624.82,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,42.0,27.0,0.0,1015.47,37.61,2391.27,2428262.95,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,3,Perennes,2,Temporal,200201,Tonelada,8880000,TAMARINDO,6.0,6.0,0.0,30.9,5.15,5313.19,164177.57,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,8,Atenango del Río,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,60.0,60.0,0.0,684.0,11.4,1039.2,710812.8,12008
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,1,Otoño-Invierno,1,Riego,200201,Tonelada,6900000,GARBANZO GRANO,10.2,10.2,0.0,9.69,0.95,1.95,18.9,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,22.5,22.5,0.0,113.63,5.05,5913.3,671928.28,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),9.45,9.45,0.0,243.52,25.77,6376.64,1552839.08,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,108.5,108.5,0.0,2175.43,20.05,8231.25,17906508.19,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),0.75,0.75,0.0,22.08,29.44,7931.92,175136.79,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,5080000,AJONJOLÍ,5.8,5.8,0.0,3.36,0.58,15937.55,53550.17,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,353.68,353.68,0.0,845.3,2.39,18127.85,15323471.61,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,6110000,CHILE SECO,3.46,3.46,0.0,1.63,0.47,54891.8,89473.63,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,6120000,CHILE VERDE,44.59,44.59,0.0,1198.58,26.88,8224.95,9858260.57,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,12.21,12.21,0.0,9.16,0.75,14876.75,136271.03,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,9075.5,9075.5,0.0,22688.75,2.5,4988.16,113175115.2,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,8710000,SANDÍA,37.25,37.25,0.0,740.9,19.89,5378.48,3984915.83,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,511.28,511.28,0.0,2556.4,5.0,4182.33,10691708.41,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),29.16,29.16,0.0,561.04,19.24,7214.7,4047735.29,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,2,Primavera-Verano,2,Temporal,200201,Tonelada,8980000,TOMATE VERDE,41.95,41.95,0.0,711.47,16.96,5681.4,4042145.66,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,90.1,90.1,0.0,476.17,5.28,5133.27,2444311.41,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,45.0,5.0,0.0,179.0,35.8,3085.68,552336.72,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,3,Perennes,2,Temporal,200201,Tonelada,6220000,CIRUELA,22.0,22.0,0.0,89.98,4.09,5142.1,462686.16,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,3,Perennes,2,Temporal,200201,Tonelada,8880000,TAMARINDO,16.0,16.0,0.0,89.6,5.6,5323.76,477008.9,12034
+2024,12,Guerrero,58,Iguala,2,Huitzuco,34,Huitzuco de Los Figueroa,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,177.0,177.0,0.0,1750.53,9.89,1045.72,1830564.23,12034
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,51.0,51.0,0.0,219.3,4.3,5979.34,1311269.26,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,1,Otoño-Invierno,1,Riego,200201,Tonelada,7980000,OKRA (ANGÚ O GOMBO),290.0,290.0,0.0,3393.0,11.7,5328.19,18078548.67,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,1,Otoño-Invierno,1,Riego,200201,Tonelada,8810000,SORGO GRANO,5.0,5.0,0.0,29.0,5.8,4300.0,124700.0,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),14.0,14.0,0.0,3359.86,239.99,6990.96,23488642.38,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,13.0,13.0,0.0,201.5,15.5,6711.41,1352349.12,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,5410000,ARROZ PALAY,19.0,19.0,0.0,195.7,10.3,5769.65,1129120.51,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,6610000,ELOTE,32.0,32.0,0.0,361.6,11.3,2379.42,860398.27,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,7240000,JÍCAMA,93.0,93.0,0.0,2985.3,32.1,5052.76,15084004.43,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,140.0,140.0,0.0,854.0,6.1,5203.87,4444104.98,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,7980000,OKRA (ANGÚ O GOMBO),36.0,36.0,0.0,424.8,11.8,5400.0,2293920.0,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,8790000,SORGO FORRAJERO EN VERDE,230.0,230.0,0.0,10051.0,43.7,460.28,4626274.28,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),35.0,35.0,0.0,8363.6,238.96,7721.5,64579525.5,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,3.0,3.0,0.0,43.5,14.5,5034.25,218989.88,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,295.0,295.0,0.0,1698.0,5.76,5208.61,8844227.22,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,1150.0,1150.0,0.0,7015.0,6.1,4335.08,30410586.2,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,5820000,CAÑA DE AZÚCAR,2265.0,1875.0,0.0,173437.5,92.5,1005.55,174400078.1,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,5830000,SEMILLA DE CAÑA DE AZÚCAR,220.0,220.0,0.0,25784.0,117.2,1013.91,26142655.44,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,7020000,GUAJE,4.0,4.0,0.0,66.72,16.68,3912.22,261023.32,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,7150000,HIGO,18.0,18.0,0.0,133.2,7.4,34900.0,4648680.0,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,7390000,LIMÓN,6.0,6.0,0.0,81.6,13.6,11225.74,916020.38,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,8.0,8.0,0.0,126.4,15.8,3442.01,435070.06,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,7850000,NARANJA,37.0,37.0,0.0,1084.1,29.3,2925.61,3171653.8,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,1,Riego,200201,Tonelada,8680000,SÁBILA,4.0,4.0,0.0,226.0,56.5,585.35,132289.1,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,32.0,0.0,0.0,0.0,,,0.0,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,2,Temporal,200201,Tonelada,9500000,JATROPHA,2.0,2.0,0.0,6.4,3.2,3400.0,21760.0,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,12,Jojutla,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,50.0,50.0,0.0,835.0,16.7,514.96,429991.6,17012
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,5690000,CACAHUATE,6.0,6.0,0.0,13.8,2.3,13500.0,186300.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,6.0,6.0,0.0,91.8,15.3,4231.37,388439.77,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,6120000,CHILE VERDE,4.0,4.0,0.0,38.0,9.5,4950.0,188100.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,6610000,ELOTE,31.0,31.0,0.0,353.4,11.4,3608.43,1275219.16,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,72.0,72.0,0.0,302.4,4.2,5917.29,1789388.5,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,8790000,SORGO FORRAJERO EN VERDE,19.0,19.0,0.0,775.2,40.8,985.0,763572.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,8810000,SORGO GRANO,14.0,14.0,0.0,77.0,5.5,4400.0,338800.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,1,Otoño-Invierno,1,Riego,200201,Tonelada,9212000,YUCA ALIMENTICIA,48.0,48.0,0.0,556.8,11.6,3698.28,2059202.3,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,5410000,ARROZ PALAY,7.0,7.0,0.0,72.1,10.3,5700.0,410970.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,5690000,CACAHUATE,12.0,12.0,0.0,26.4,2.2,18239.39,481519.9,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,5740000,CALABACITA,14.0,14.0,0.0,212.8,15.2,6061.31,1289846.55,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,6660000,ESPECIAS Y MEDICINALES,70.0,70.0,0.0,462.0,6.6,5600.0,2587200.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,7240000,JÍCAMA,70.0,70.0,0.0,2233.0,31.9,5300.0,11834900.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,215.0,215.0,0.0,1268.5,5.9,5232.39,6637286.72,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200203,Gruesa,7870000,NARDO (GRUESA),12.0,12.0,0.0,15060.0,1255.0,200.0,3012000.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,8790000,SORGO FORRAJERO EN VERDE,18.0,18.0,0.0,783.0,43.5,482.17,377539.11,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,8810000,SORGO GRANO,63.0,63.0,0.0,378.0,6.0,4252.65,1607501.7,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),1.0,1.0,0.0,212.0,212.0,8600.0,1823200.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,13.0,13.0,0.0,192.4,14.8,5362.06,1031660.34,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,1,Riego,200201,Tonelada,9212000,YUCA ALIMENTICIA,15.0,15.0,0.0,225.0,15.0,4817.6,1083960.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,200.0,200.0,0.0,360.0,1.8,19058.33,6860998.8,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,2,Temporal,200201,Tonelada,5740000,CALABACITA,29.0,29.0,0.0,394.4,13.6,4829.74,1904850.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,2,Temporal,200201,Tonelada,5770000,CALABAZA SEMILLA O CHIHUA,16.0,16.0,0.0,22.4,1.4,25000.0,560000.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,1080.0,1080.0,0.0,6336.0,5.87,5236.23,33176747.34,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,1020.0,1020.0,0.0,6324.0,6.2,4337.7,27431614.8,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,2,Primavera-Verano,2,Temporal,200201,Tonelada,8980000,TOMATE VERDE,4.0,4.0,0.0,52.8,13.2,5300.0,279840.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,1,Riego,200201,Tonelada,5820000,CAÑA DE AZÚCAR,1290.0,890.0,0.0,81969.0,92.1,1003.16,82228022.04,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,1,Riego,200201,Tonelada,7020000,GUAJE,12.0,12.0,0.0,201.36,16.78,3827.34,770673.18,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,1,Riego,200201,Tonelada,7390000,LIMÓN,47.0,47.0,0.0,629.8,13.4,11379.37,7166727.23,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,52.0,52.0,0.0,826.8,15.9,3464.39,2864357.65,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,1,Riego,200201,Tonelada,7830000,NANCHE,6.0,6.0,0.0,45.0,7.5,3939.56,177280.2,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,1,Riego,200201,Tonelada,7850000,NARANJA,24.0,24.0,0.0,662.4,27.6,2927.32,1939056.77,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,1,Riego,200201,Tonelada,8130000,PAPAYA,8.0,8.0,0.0,250.4,31.3,3867.57,968439.53,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,39.0,9.0,0.0,837.0,93.0,9700.0,8118900.0,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,2,Temporal,200201,Tonelada,9500000,JATROPHA,10.0,10.0,0.0,33.0,3.3,3549.09,117119.97,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,17,Puente de Ixtla,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,45.0,45.0,0.0,733.5,16.3,517.04,379248.84,17017
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,9.0,9.0,0.0,138.6,15.4,5233.84,725410.68,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,1,Otoño-Invierno,1,Riego,200201,Tonelada,5940000,CEBOLLA,28.0,28.0,0.0,826.0,29.5,5626.76,4647703.76,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,1,Otoño-Invierno,1,Riego,200201,Tonelada,6610000,ELOTE,36.0,36.0,0.0,414.0,11.5,3665.02,1517318.28,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,1,Otoño-Invierno,1,Riego,200201,Tonelada,7240000,JÍCAMA,13.0,13.0,0.0,379.6,29.2,3761.3,1427789.48,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,82.0,82.0,0.0,352.6,4.3,5973.91,2106400.67,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,1,Otoño-Invierno,1,Riego,200201,Tonelada,8710000,SANDÍA,6.0,6.0,0.0,112.8,18.8,6464.89,729239.59,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,1,Otoño-Invierno,1,Riego,200201,Tonelada,8790000,SORGO FORRAJERO EN VERDE,7.0,7.0,0.0,284.2,40.6,830.0,235886.0,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,1,Riego,200201,Tonelada,5740000,CALABACITA,8.0,8.0,0.0,122.4,15.3,6475.15,792557.82,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,1,Riego,200201,Tonelada,5940000,CEBOLLA,14.0,14.0,0.0,386.4,27.6,6800.0,2627520.0,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,1,Riego,200201,Tonelada,7240000,JÍCAMA,228.0,228.0,0.0,7318.8,32.1,5300.63,38794250.84,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,265.0,265.0,0.0,1563.5,5.9,5182.45,8102760.58,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,1,Riego,200201,Tonelada,8810000,SORGO GRANO,36.0,36.0,0.0,219.6,6.1,4261.74,935878.1,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),5.0,5.0,0.0,1220.55,244.11,7550.82,9216152.95,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,6.0,6.0,0.0,88.8,14.8,5168.02,458920.18,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,2,Temporal,200201,Tonelada,5770000,CALABAZA SEMILLA O CHIHUA,2.0,2.0,0.0,2.7,1.35,25100.0,67770.0,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,2095.0,2095.0,0.0,12722.5,6.07,5129.45,65259420.55,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,670.0,670.0,0.0,4020.0,6.0,4323.63,17380992.6,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,5820000,CAÑA DE AZÚCAR,2490.0,1810.0,0.0,167244.0,92.4,1001.35,167469779.4,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,7020000,GUAJE,8.0,6.0,0.0,100.92,16.82,3721.46,375569.74,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,7390000,LIMÓN,22.0,22.0,0.0,292.6,13.3,11480.11,3359080.19,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,8.0,8.0,0.0,129.6,16.2,3740.59,484780.46,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,7830000,NANCHE,3.0,3.0,0.0,22.2,7.4,3775.68,83820.1,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,7850000,NARANJA,15.0,15.0,0.0,423.0,28.2,2911.33,1231492.59,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,8130000,PAPAYA,6.0,6.0,0.0,191.4,31.9,4639.24,887950.54,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,1,Riego,200201,Tonelada,8680000,SÁBILA,1.0,1.0,0.0,56.8,56.8,590.1,33517.68,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,47.0,20.0,0.0,1864.0,93.2,9750.0,18174000.0,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,2,Temporal,200201,Tonelada,9500000,JATROPHA,20.0,20.0,0.0,68.0,3.4,3900.0,265200.0,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,25,Tlaquiltenango,3,Perennes,2,Temporal,200201,Tonelada,15050000,PASTOS Y PRADERAS,250.0,250.0,0.0,4080.0,16.32,505.55,2062635.48,17025
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,3.0,3.0,0.0,46.2,15.4,4019.7,185710.14,17035
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,7.0,7.0,0.0,30.1,4.3,6162.13,185480.11,17035
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,2,Primavera-Verano,1,Riego,200201,Tonelada,5740000,CALABACITA,3.0,3.0,0.0,45.6,15.2,5165.79,235560.02,17035
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,23.0,23.0,0.0,138.0,6.0,5161.07,712227.66,17035
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,2,Primavera-Verano,2,Temporal,200201,Tonelada,5740000,CALABACITA,5.0,5.0,0.0,67.5,13.5,4500.0,303750.0,17035
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,100.0,100.0,0.0,580.0,5.8,5149.34,2986617.2,17035
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,8.0,8.0,0.0,126.4,15.8,3510.13,443680.43,17035
+2024,17,Morelos,94,Zacatepec-Galeana,1,Galeana,35,Xoxocotla,3,Perennes,1,Riego,200201,Tonelada,7850000,NARANJA,5.0,5.0,0.0,141.0,28.2,2390.43,337050.63,17035
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,10.0,10.0,0.0,153.0,15.3,6123.24,936855.94,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,5940000,CEBOLLA,5.0,5.0,0.0,135.5,27.1,5225.54,708060.67,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,6610000,ELOTE,51.0,51.0,0.0,632.4,12.4,3396.48,2147933.95,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,6840000,FRIJOL,4.0,4.0,0.0,7.2,1.8,13405.56,96520.03,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,9.0,9.0,0.0,42.3,4.7,6000.0,253800.0,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200203,Gruesa,7870000,NARDO (GRUESA),9.0,9.0,0.0,11268.0,1252.0,172.8,1947110.4,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200217,Metro cuadrado,8150000,PASTO TAPETE (M2),12.0,12.0,0.0,110226.48,9185.54,29.05,3202079.24,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,8210000,PEPINO,4.0,4.0,0.0,1158.0,289.5,5844.63,6768081.54,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),7.0,7.0,0.0,1701.56,243.08,6692.91,11388394.08,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,5.0,5.0,0.0,64.0,12.8,5170.94,330940.16,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,1,Riego,200201,Tonelada,5410000,ARROZ PALAY,74.0,74.0,0.0,769.6,10.4,5650.0,4348240.0,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,1,Riego,200201,Tonelada,5940000,CEBOLLA,2.0,2.0,0.0,52.8,26.4,6900.0,364320.0,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,49.0,49.0,0.0,294.0,6.0,5174.04,1521167.76,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),1.0,1.0,0.0,255.44,255.44,6666.14,1702799.7,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,30.0,30.0,0.0,58.5,1.95,19800.0,1158300.0,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,30.0,30.0,0.0,42.0,1.4,13300.0,558600.0,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,360.0,360.0,0.0,2088.0,5.8,5200.83,10859333.04,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,350.0,350.0,0.0,2170.0,6.2,4346.45,9431796.5,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,3,Perennes,1,Riego,200201,Tonelada,7390000,LIMÓN,5.0,5.0,0.0,67.5,13.5,11057.63,746390.03,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,3,Perennes,1,Riego,200203,Gruesa,8610000,ROSA (GRUESA),137.0,137.0,0.0,337431.0,2463.0,200.82,67762893.42,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,3,Perennes,2,Temporal,200201,Tonelada,5050000,AGAVE,15.0,0.0,0.0,0.0,,,0.0,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,18,Temixco,3,Perennes,2,Temporal,200201,Tonelada,9500000,JATROPHA,40.0,40.0,0.0,112.0,2.8,3900.0,436800.0,17018
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,20.0,20.0,0.0,307.0,15.35,5234.65,1607036.29,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,1,Otoño-Invierno,1,Riego,200201,Tonelada,5940000,CEBOLLA,115.0,115.0,0.0,3139.5,27.3,5213.33,16367249.54,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,1,Otoño-Invierno,1,Riego,200201,Tonelada,6610000,ELOTE,46.0,46.0,0.0,570.4,12.4,3436.05,1959922.92,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,13.0,13.0,0.0,62.4,4.8,6250.0,390000.0,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,1,Otoño-Invierno,1,Riego,200217,Metro cuadrado,8150000,PASTO TAPETE (M2),13.0,13.0,0.0,128008.4,9846.8,28.56,3655620.8,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,1,Otoño-Invierno,1,Riego,200201,Tonelada,8210000,PEPINO,5.0,5.0,0.0,1370.0,274.0,5909.78,8096398.6,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),7.0,7.0,0.0,1672.72,238.96,6820.03,11407993.8,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,1,Riego,200201,Tonelada,5410000,ARROZ PALAY,84.0,84.0,0.0,856.8,10.2,5630.0,4823784.0,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,1,Riego,200201,Tonelada,5940000,CEBOLLA,7.0,7.0,0.0,186.2,26.6,6700.0,1247540.0,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,1,Riego,200201,Tonelada,7240000,JÍCAMA,15.0,15.0,0.0,414.0,27.6,6277.2,2598760.8,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,87.0,87.0,0.0,513.3,5.9,5128.23,2632320.46,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,1,Riego,200201,Tonelada,8210000,PEPINO,5.0,5.0,0.0,1485.0,297.0,7462.71,11082124.35,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),2.0,2.0,0.0,270.83,135.42,7071.58,1915195.0,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,2.0,2.0,0.0,28.4,14.2,4971.06,141178.1,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,2,Temporal,200201,Tonelada,5690000,CACAHUATE,26.0,26.0,0.0,50.18,1.93,20200.0,1013636.0,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,91.0,91.0,0.0,536.9,5.9,5211.18,2797882.54,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,170.0,170.0,0.0,1037.0,6.1,4320.67,4480534.79,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,3,Perennes,1,Riego,200201,Tonelada,5820000,CAÑA DE AZÚCAR,876.0,825.0,0.0,76312.5,92.5,996.78,76066773.75,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,3,Perennes,1,Riego,200201,Tonelada,7150000,HIGO,2.0,2.0,0.0,14.4,7.2,31000.0,446400.0,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,3,Perennes,1,Riego,200201,Tonelada,7390000,LIMÓN,13.0,13.0,0.0,150.3,11.56,10740.36,1614275.4,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,3,Perennes,1,Riego,200201,Tonelada,7560000,MANGO,9.0,9.0,0.0,133.2,14.8,3549.77,472829.36,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,3,Perennes,1,Riego,200203,Gruesa,8610000,ROSA (GRUESA),18.0,18.0,0.0,42552.0,2364.0,199.78,8501038.56,17028
+2024,17,Morelos,94,Zacatepec-Galeana,2,Alpuyeca,28,Xochitepec,3,Perennes,2,Temporal,200201,Tonelada,9500000,JATROPHA,40.0,40.0,0.0,112.0,2.8,3800.0,425600.0,17028
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,3.5,3.5,0.0,53.2,15.2,3850.0,204820.0,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200201,Tonelada,6840000,FRIJOL,2.0,2.0,0.0,3.6,1.8,13063.89,47030.0,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200203,Gruesa,6990000,GLADIOLA (GRUESA),7.2,7.2,0.0,7776.0,1080.0,180.7,1405123.2,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,13.0,13.0,0.0,59.8,4.6,5474.58,327379.88,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200217,Metro cuadrado,8150000,PASTO TAPETE (M2),10.0,10.0,0.0,99850.0,9985.0,29.68,2963548.0,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200201,Tonelada,8210000,PEPINO,4.7,4.7,0.0,81.31,17.3,6016.24,489180.47,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),2.5,2.5,0.0,62.5,25.0,6476.16,404760.0,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,1,Otoño-Invierno,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,2.5,2.5,0.0,35.0,14.0,3944.57,138059.95,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,1,Riego,200201,Tonelada,5410000,ARROZ PALAY,4.0,4.0,0.0,41.6,10.4,5305.77,220720.03,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,1,Riego,200201,Tonelada,5740000,CALABACITA,4.0,4.0,0.0,60.8,15.2,4362.5,265240.0,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,30.0,30.0,0.0,174.0,5.8,5163.98,898532.52,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,1,Riego,200206,Planta,7900000,NOCHEBUENA (PLANTA),50.0,50.0,0.0,3110600.0,62212.0,41.56,129275100.0,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,1,Riego,200217,Metro cuadrado,8150000,PASTO TAPETE (M2),13.0,13.0,0.0,133632.2,10279.4,26.38,3525093.0,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),12.5,12.5,0.0,400.2,32.02,5656.87,2263879.97,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,1,Riego,200201,Tonelada,8980000,TOMATE VERDE,4.0,4.0,0.0,59.6,14.9,4942.28,294559.89,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,40.0,40.0,0.0,72.0,1.8,13236.12,953000.64,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,1080.0,1080.0,0.0,6340.0,5.87,5207.28,33014161.4,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,145.0,145.0,0.0,870.0,6.0,4300.39,3741339.3,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,2,Primavera-Verano,2,Temporal,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),30.0,30.0,0.0,756.0,25.2,5591.01,4226803.56,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,3,Perennes,1,Riego,200201,Tonelada,7060000,GUAYABA,3.0,3.0,0.0,25.5,8.5,4717.65,120300.08,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,3,Perennes,1,Riego,200203,Gruesa,8610000,ROSA (GRUESA),17.0,17.0,0.0,39389.0,2317.0,178.65,7036844.85,17007
+2024,17,Morelos,94,Zacatepec-Galeana,3,Cuernavaca,7,Cuernavaca,3,Perennes,2,Temporal,200201,Tonelada,5060000,AGUACATE,266.0,266.0,0.0,2473.8,9.3,19864.13,49139884.79,17007
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,2,Primavera-Verano,2,Temporal,200201,Tonelada,5490000,AVENA FORRAJERA EN VERDE,1700.0,1700.0,0.0,25840.0,15.2,953.83,24646967.2,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,2,Primavera-Verano,2,Temporal,200201,Tonelada,7100000,HABA GRANO,29.0,29.0,0.0,107.3,3.7,5800.0,622340.0,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,2,Primavera-Verano,2,Temporal,200201,Tonelada,7110000,HABA VERDE,15.0,15.0,0.0,93.0,6.2,5112.9,475499.7,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,245.0,245.0,0.0,1406.0,5.74,5178.06,7280348.82,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,2,Primavera-Verano,2,Temporal,200201,Tonelada,8100000,PAPA,94.0,94.0,0.0,2068.0,22.0,5857.18,12112648.24,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,3,Perennes,2,Temporal,200201,Tonelada,5060000,AGUACATE,21.0,21.0,0.0,199.5,9.5,21187.67,4226940.17,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,3,Perennes,2,Temporal,200201,Tonelada,6530000,DURAZNO,4.0,4.0,0.0,34.4,8.6,8313.66,285989.9,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,9,Huitzilac,3,Perennes,2,Temporal,200201,Tonelada,7580000,MANZANA,3.0,3.0,0.0,44.7,14.9,6868.68,307030.0,17009
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,1,Otoño-Invierno,1,Riego,200201,Tonelada,5740000,CALABACITA,11.0,11.0,0.0,171.6,15.6,4518.41,775359.57,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,1,Otoño-Invierno,1,Riego,200201,Tonelada,6610000,ELOTE,7.5,7.5,0.0,90.0,12.0,3212.22,289099.8,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,1,Otoño-Invierno,1,Riego,200201,Tonelada,6840000,FRIJOL,1.0,1.0,0.0,1.5,1.5,13100.0,19650.0,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,1,Otoño-Invierno,1,Riego,200203,Gruesa,6990000,GLADIOLA (GRUESA),5.3,5.3,0.0,5909.5,1115.0,247.25,1461123.88,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,1,Otoño-Invierno,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),33.0,33.0,0.0,834.9,25.3,4706.82,3929724.02,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200203,Gruesa,5040000,AGAPANDO (GRUESA),4.0,4.0,0.0,2460.0,615.0,314.07,772612.2,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200201,Tonelada,6610000,ELOTE,10.0,10.0,0.0,115.0,11.5,1800.0,207000.0,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200201,Tonelada,6840000,FRIJOL,1.0,1.0,0.0,1.9,1.9,13100.0,24890.0,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200203,Gruesa,6990000,GLADIOLA (GRUESA),6.0,6.0,0.0,8550.0,1425.0,219.02,1872621.0,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200201,Tonelada,7490000,MAÍZ GRANO,12.0,12.0,0.0,69.6,5.8,5183.33,360759.77,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200206,Planta,7900000,NOCHEBUENA (PLANTA),17.0,17.0,0.0,1089122.0,64066.0,43.69,47583000.0,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200201,Tonelada,8210000,PEPINO,12.0,12.0,0.0,214.8,17.9,5450.47,1170760.96,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,1,Riego,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),1.0,1.0,0.0,212.0,212.0,7604.72,1612200.64,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,2,Temporal,200201,Tonelada,5490000,AVENA FORRAJERA EN VERDE,108.0,108.0,0.0,1684.8,15.6,896.63,1510642.22,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,2,Temporal,200201,Tonelada,6840000,FRIJOL,8.0,8.0,0.0,14.8,1.85,13500.0,199800.0,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,2,Temporal,200203,Gruesa,6990000,GLADIOLA (GRUESA),34.0,34.0,0.0,40290.0,1185.0,203.14,8184510.6,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,2,Temporal,200201,Tonelada,7490000,MAÍZ GRANO,1900.0,1900.0,0.0,10785.0,5.68,5133.24,55361958.9,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,2,Temporal,200201,Tonelada,8810000,SORGO GRANO,26.0,26.0,0.0,161.2,6.2,4319.04,696229.25,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,2,Temporal,200201,Tonelada,8970000,TOMATE ROJO (JITOMATE),250.0,250.0,0.0,6275.0,25.1,5682.07,35654989.25,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,2,Primavera-Verano,2,Temporal,200201,Tonelada,8980000,TOMATE VERDE,25.0,25.0,0.0,370.0,14.8,5400.0,1998000.0,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,3,Perennes,1,Riego,200201,Tonelada,5820000,CAÑA DE AZÚCAR,16.0,16.0,0.0,1845.76,115.36,751.23,1386581.73,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,3,Perennes,2,Temporal,200203,Gruesa,5040000,AGAPANDO (GRUESA),4.0,4.0,0.0,860.0,215.0,235.33,202383.8,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,3,Perennes,2,Temporal,200201,Tonelada,5060000,AGUACATE,114.0,88.0,0.0,827.2,9.4,21568.18,17841198.5,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,3,Perennes,2,Temporal,200201,Tonelada,6220000,CIRUELA,57.0,57.0,0.0,467.4,8.2,5756.23,2690461.9,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,3,Perennes,2,Temporal,200201,Tonelada,6530000,DURAZNO,8.0,8.0,0.0,76.8,9.6,8573.96,658480.13,17020
+2024,17,Morelos,94,Zacatepec-Galeana,4,Yautepec,20,Tepoztlán,3,Perennes,2,Temporal,200201,Tonelada,7920000,NOPALITOS,61.0,61.0,0.0,5910.9,96.9,3073.73,18168510.66,17020

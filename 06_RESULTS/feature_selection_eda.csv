@@ -1,0 +1,53 @@
+feature,decisión,class,source,spatial_resolution
+n_intersections_1km,seleccionada,P,INEGI RNC,buffer 1 km
+road_dist_m,seleccionada,D,INEGI RNC,punto
+road_carriles,seleccionada,O,INEGI RNC,tramo vial
+road_nivel,seleccionada,O,INEGI RNC,tramo vial
+road_velocidad,seleccionada,O,INEGI RNC,tramo vial
+road_ancho,seleccionada,O,INEGI RNC,tramo vial
+allsky_sfc_sw_dwn_mean,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+prectotcorr_mean,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+t2m_mean,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+t2m_max_mean,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+ws10m_mean,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+allsky_sfc_sw_dwn_std,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+prectotcorr_std,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+t2m_std,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+t2m_max_std,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+ws10m_std,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+allsky_sfc_sw_dwn_p10,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+prectotcorr_p10,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+t2m_p10,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+t2m_max_p10,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+ws10m_p10,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+allsky_sfc_sw_dwn_p90,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+prectotcorr_p90,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+t2m_p90,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+t2m_max_p90,seleccionada,D,NASA POWER,malla ~0.5° x 0.625°
+ws10m_p90,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+allsky_sfc_sw_dwn_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+prectotcorr_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+t2m_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+t2m_max_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+ws10m_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
+pop_5km,seleccionada,D,INEGI Censo 2020 ITER,buffer 5 km
+n_localities_5km,seleccionada,D,INEGI Censo 2020 ITER,buffer 5 km
+rural_pop_share_5km,seleccionada,D,INEGI Censo 2020 ITER,buffer 5 km
+pop_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km
+n_localities_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km
+rural_pop_share_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km
+schooling_mean_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km
+pct_dwellings_electricity_10km,descartada: varianza ~0,P,INEGI Censo 2020 ITER,buffer 10 km
+pop_20km,seleccionada,D,INEGI Censo 2020 ITER,buffer 20 km
+n_localities_20km,descartada: redundante (|rho|>0.9),D,INEGI Censo 2020 ITER,buffer 20 km
+rural_pop_share_20km,seleccionada,D,INEGI Censo 2020 ITER,buffer 20 km
+dist_nearest_locality_m,seleccionada,D,INEGI Censo 2020 ITER,punto
+pop_nearest_locality,seleccionada,D,INEGI Censo 2020 ITER,localidad
+mun_agri_sown_ha,seleccionada,D,SIAP/DGSIAP,municipal
+mun_agri_harvested_ha,descartada: redundante (|rho|>0.9),D,SIAP/DGSIAP,municipal
+mun_agri_value_mxn,seleccionada,D,SIAP/DGSIAP,municipal
+mun_agri_n_crops,seleccionada,D,SIAP/DGSIAP,municipal
+mun_agri_crop_shannon,seleccionada,D,SIAP/DGSIAP,municipal
+mun_agri_top_crop_share,descartada: redundante (|rho|>0.9),D,SIAP/DGSIAP,municipal
+mun_agri_irrigated_share,seleccionada,D,SIAP/DGSIAP,municipal
+mun_agri_loss_share,seleccionada,D,SIAP/DGSIAP,municipal

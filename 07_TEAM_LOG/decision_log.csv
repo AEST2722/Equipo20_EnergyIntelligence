@@ -1,0 +1,37 @@
+timestamp,step,decision,reason
+2026-10-04T14:21:00-04:00,data_acquisition,"Descargar y conservar localmente los originales RNC 2025, ITER 2020, SIAP 2024 y SICT 2024; excluir datos RAW de Git. La edición SICT 2024 queda provisional hasta acuerdo del equipo.","Las fuentes crudas se documentan en download_log.csv y no se versionan; la compañera reportó sitios SICT 2026, por lo que el año final de aforo sigue pendiente de confirmación."
+2026-10-04T14:25:46,s01,Regla de ruta: CODIGO en ['95'] y PEAJE en ['Si'] (551 tramos),Corredor definido por atributo + continuidad topológica (guía §3)
+2026-10-04T14:25:50,s01,Snap de origen a la red: 82 m,Distancia del punto configurado al nodo RNC más cercano
+2026-10-04T14:25:50,s01,Snap de destino a la red: 40 m,Distancia del punto configurado al nodo RNC más cercano
+2026-10-04T14:25:50,s01,Longitud corredor 354.0 km; 91.4% sobre tramos de la regla (CODIGO en ['95'] y PEAJE en ['Si']),Porcentaje bajo indica que el patrón/campo no captura bien la ruta
+2026-10-04T14:25:50,s01,Plaza 'Las Cruces (Maxitúnel)' a 945 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Las Cruces (Maxitúnel)' a 927 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'La Venta' a 0 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Palo Blanco' a 1 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Paso Morelos' a 0 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Ing. Francisco Velasco Durán' a 4 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Aeropuerto' a 8 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Aeropuerto' a 51 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Aeropuerto' a 56 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Emiliano Zapata' a 1090 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Emiliano Zapata' a 1095 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Alpuyeca' a 36 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Paso Morelos' a 0 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Paso Morelos' a 0 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Alpuyeca' a 0 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Emiliano Zapata' a 1146 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Emiliano Zapata' a 1148 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Emiliano Zapata' a 1167 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Emiliano Zapata' a 1155 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Paso Morelos' a 0 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Paso Morelos' a 0 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Xochitepec' a 1 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Tres Marías (1A)' a 619 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Tlalpan (V.E.T.)' a 290 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Tlalpan' a 810 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Tlalpan' a 810 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Caminero' a 1675 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Caminero' a 1096 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:25:50,s01,Plaza 'Caminero' a 1628 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
+2026-10-04T14:26:18,s01b,"Atributos RNC usados (ctn): ['TIPO_VIAL', 'COND_PAV', 'RECUBRI', 'CARRILES', 'NIVEL', 'PEAJE', 'ADMINISTRA', 'JURISDI', 'CIRCULA', 'VELOCIDAD', 'ANCHO']",Detectados por nombre de campo
+2026-10-04T14:27:48,s04,Municipio asignado por localidad más cercana,No se encontró Marco Geoestadístico; puede fallar cerca de límites municipales

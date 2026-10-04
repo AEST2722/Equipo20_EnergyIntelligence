@@ -8,7 +8,12 @@
 01_RAW/**/*.dbf
 01_RAW/**/*.prj
 01_RAW/**/*.zip
+01_RAW/road_network/**
 01_RAW/censo2020/*.csv
 01_RAW/dgsiap/*.csv
+01_RAW/sict_tdpa/*.pdf
+01_RAW/nasa_power/*.json
+01_RAW/denue/*.json
 __pycache__/
+.venv/
 .ipynb_checkpoints/

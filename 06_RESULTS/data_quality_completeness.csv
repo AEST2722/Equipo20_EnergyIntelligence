@@ -1,0 +1,83 @@
+feature,dtype,completeness_pct,n_unique,class,source,source_period,spatial_resolution,uncertainty,leakage_risk
+ctn_id,str,100.0,46,,,,,,
+chainage_m,float64,100.0,46,,,,,,
+ctn_type,str,100.0,4,D,INEGI RNC,2025,punto,,medio si se usa como variable explicativa
+strategic_label,str,100.0,13,,,,,,
+chainage_km,float64,100.0,46,D,INEGI RNC,2025,tramo vial,Depende de la definición de origen y del campo de ruta,bajo
+geometry_status,str,100.0,1,,,,,,
+snap_distance_m,float64,100.0,1,,,,,,
+n_intersections_1km,int64,100.0,27,P,INEGI RNC,2025,buffer 1 km,Proxy de entronques; urbano infla,bajo
+lon,float64,100.0,46,,,,,,
+lat,float64,100.0,46,,,,,,
+road_dist_m,float64,100.0,46,D,INEGI RNC,2025,punto,"Control de calidad de coordenadas, no variable explicativa",bajo
+road_tipo_vial,str,100.0,3,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_cond_pav,str,89.1,1,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_recubri,str,89.1,1,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_carriles,int64,100.0,3,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_nivel,int64,100.0,3,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_peaje,str,100.0,2,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_administra,str,89.1,1,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_jurisdi,str,89.1,1,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_circula,str,100.0,2,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_velocidad,int64,100.0,4,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+road_ancho,float64,100.0,8,O,INEGI RNC,2025,tramo vial,Asignación al tramo más cercano,bajo
+allsky_sfc_sw_dwn_mean,float64,100.0,4,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+prectotcorr_mean,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_mean,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_max_mean,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+ws10m_mean,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+allsky_sfc_sw_dwn_std,float64,100.0,4,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+prectotcorr_std,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_std,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_max_std,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+ws10m_std,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+allsky_sfc_sw_dwn_p10,float64,100.0,4,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+prectotcorr_p10,float64,100.0,5,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_p10,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_max_p10,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+ws10m_p10,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+allsky_sfc_sw_dwn_p90,float64,100.0,4,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+prectotcorr_p90,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_p90,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_max_p90,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+ws10m_p90,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+allsky_sfc_sw_dwn_seasonal_amplitude,float64,100.0,4,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+prectotcorr_seasonal_amplitude,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_seasonal_amplitude,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_max_seasonal_amplitude,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+ws10m_seasonal_amplitude,float64,100.0,7,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+allsky_sfc_sw_dwn_min_month,int64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+prectotcorr_min_month,int64,100.0,3,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_min_month,int64,100.0,2,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_max_min_month,int64,100.0,3,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+ws10m_min_month,int64,100.0,4,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+allsky_sfc_sw_dwn_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+prectotcorr_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+t2m_max_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+ws10m_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+pop_5km,float64,100.0,45,D,INEGI Censo 2020 ITER,2020,buffer 5 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+n_localities_5km,int64,100.0,29,D,INEGI Censo 2020 ITER,2020,buffer 5 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+rural_pop_share_5km,float64,95.7,30,D,INEGI Censo 2020 ITER,2020,buffer 5 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+pop_10km,int64,100.0,46,D,INEGI Censo 2020 ITER,2020,buffer 10 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+n_localities_10km,int64,100.0,41,D,INEGI Censo 2020 ITER,2020,buffer 10 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+rural_pop_share_10km,float64,100.0,37,D,INEGI Censo 2020 ITER,2020,buffer 10 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+schooling_mean_10km,float64,100.0,46,D,INEGI Censo 2020 ITER,2020,buffer 10 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+pct_dwellings_electricity_10km,float64,100.0,46,P,INEGI Censo 2020 ITER,2020,buffer 10 km,"Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada; proxy débil de acceso a red, NO de capacidad de red",bajo
+pop_20km,int64,100.0,46,D,INEGI Censo 2020 ITER,2020,buffer 20 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+n_localities_20km,int64,100.0,45,D,INEGI Censo 2020 ITER,2020,buffer 20 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+rural_pop_share_20km,float64,100.0,46,D,INEGI Censo 2020 ITER,2020,buffer 20 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+dist_nearest_locality_m,float64,100.0,46,D,INEGI Censo 2020 ITER,2020,punto,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+pop_nearest_locality,int64,100.0,41,D,INEGI Censo 2020 ITER,2020,localidad,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
+cve_mun,str,100.0,18,,,,,,
+mun_assignment_method,str,100.0,1,,,,,,
+mun_agri_sown_ha,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_harvested_ha,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_value_mxn,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_n_crops,int64,100.0,16,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_crop_shannon,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_top_crop,str,100.0,4,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_top_crop_share,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_irrigated_share,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_loss_share,float64,100.0,2,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+spatial_block,int64,100.0,8,,,,,,
