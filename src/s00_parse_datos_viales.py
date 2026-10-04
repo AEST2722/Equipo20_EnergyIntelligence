@@ -15,6 +15,7 @@ Salidas:
 """
 from __future__ import annotations
 
+import argparse
 import re
 from pathlib import Path
 
@@ -171,9 +172,19 @@ def to_sites(rows: pd.DataFrame) -> pd.DataFrame:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Parsea PDFs SICT Datos Viales por edición.")
+    parser.add_argument("--edition", type=int, help="Edición SICT (p. ej. 2026; el año de aforo se lee de cada tabla).")
+    args = parser.parse_args()
     pdfs = sorted((RAW / "sict_tdpa").glob("*.pdf"))
     if not pdfs:
         raise SystemExit("No hay PDF de Datos Viales en 01_RAW/sict_tdpa/.")
+    editions = {p: int(m.group(1)) for p in pdfs if (m := re.search(r"DV[_ ]?(\d{4})", p.stem, re.I))}
+    edition = args.edition if args.edition is not None else max(editions.values(), default=None)
+    if edition is not None:
+        pdfs = [p for p in pdfs if editions.get(p) == edition]
+    if not pdfs:
+        raise SystemExit(f"No hay PDF SICT identificables para la edición {edition} en 01_RAW/sict_tdpa/.")
+    print(f"Edición SICT seleccionada: {edition or 'no identificada'} ({len(pdfs)} PDF)")
     frames = []
     for p in pdfs:
         df = parse_pdf(p)
@@ -183,6 +194,10 @@ def main() -> None:
                      license_="Información pública SICT", notes=f"{len(df)} filas extraídas con pdfplumber")
         print(f"{p.name}: {len(df)} filas, {df['TDPA'].notna().sum()} con TDPA")
     rows = validate(pd.concat(frames, ignore_index=True))
+    observed_years = sorted(rows["anio"].dropna().astype(int).unique().tolist())
+    if edition is not None:
+        log_decision("s00", f"Edición SICT {edition} seleccionada; años de aforo extraídos: {observed_years}",
+                     "Se excluyen otras ediciones presentes en 01_RAW para evitar mezclar periodos")
     INTERIM.mkdir(exist_ok=True)
     rows.to_csv(INTERIM / "datos_viales_rows.csv", index=False)
     bad = rows[rows["qa_flag"].fillna("") != ""]

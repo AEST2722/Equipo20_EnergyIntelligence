@@ -21,7 +21,7 @@ cp .env.example .env      # y pega tu token de DENUE dentro de .env (no se sube 
 | INEGI Censo 2020 | "Principales resultados por localidad (ITER)" en CSV para CDMX (09), Guerrero (12), Edomex (15), Morelos (17), Puebla (21): https://www.inegi.org.mx/programas/ccpv/2020/ | `01_RAW/censo2020/` |
 | INEGI Marco Geoestadístico (opcional, recomendado) | Capa municipal (`00mun.shp`): https://www.inegi.org.mx/temas/mg/ | `01_RAW/marco_geo/` |
 | SIAP/DGSIAP | CSV de cierre agrícola municipal del año en `config.yaml`: https://nube.agricultura.gob.mx/datosAbiertos/Agricola.php | `01_RAW/dgsiap/` |
-| SICT Datos Viales | PDF por estado (Morelos, CDMX, Edomex, Guerrero, Puebla): https://micrs.sct.gob.mx/infraestructura/direccion-general-de-servicios-tecnicos/datos-viales/ | `01_RAW/sict_tdpa/` (se extraen solos con `s00`) |
+| SICT Datos Viales | Edición 2026 (contiene aforos observados en 2025), PDF por estado: [portal oficial](https://micrs.sct.gob.mx/index.php/infraestructura/direccion-general-de-servicios-tecnicos/datos-viales/2026) | `01_RAW/sict_tdpa/` (se extraen solos con `s00`; PDF no versionados) |
 | INEGI DENUE | Token gratuito: https://www.inegi.org.mx/servicios/api_denue.html | `.env` |
 
 NASA POWER no requiere descarga ni token. Copernicus (NDVI) y Uso de Suelo y Vegetación quedan para el Avance 2.
@@ -43,7 +43,7 @@ de ahí el tamaño de bloque de 25 km.
 ## 4. Orden de ejecución
 
 ```bash
-python src/s00_parse_datos_viales.py             # PDF SICT -> sitios con TDPA (objetivo)
+python src/s00_parse_datos_viales.py --edition 2026 # PDF edición 2026 -> TOP con TDPA observado en 2025
 python src/s01_build_corridor_ctn.py --inspect   # revisar capas y el campo con el código de la carretera
 python src/s01_build_corridor_ctn.py             # corredor real + CTN por chainage de red
 
@@ -63,7 +63,9 @@ jupyter notebook 04_NOTEBOOKS/01_EDA_CTN_Master.ipynb        # EDA complementari
 ```
 
 PDF de Datos Viales: pongan en `01_RAW/sict_tdpa/` los de Morelos, CDMX, Estado de México, Guerrero y Puebla
-(más estados = más sitios de entrenamiento). Censo ITER: descarguen los mismos estados (09, 12, 15, 17, 21),
+(edición SICT 2026; observaciones de 2025). Si hay varias ediciones en RAW, `s00` selecciona por defecto
+la más reciente identificada en el nombre; se recomienda especificarla con `--edition 2026` para reproducir.
+Censo ITER: descarguen los mismos estados (09, 12, 15, 17, 21),
 porque las features se calculan alrededor de cada sitio. `s06_sict_tdpa.py` queda como alternativa manual.
 
 ## 5. Estructura

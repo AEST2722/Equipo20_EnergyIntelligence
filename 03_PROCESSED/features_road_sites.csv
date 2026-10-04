@@ -1,0 +1,1076 @@
+site_id,road_dist_m,road_tipo_vial,road_cond_pav,road_recubri,road_carriles,road_nivel,road_peaje,road_administra,road_jurisdi,road_circula,road_velocidad,road_ancho,n_intersections_1km
+S0000,0.1724504455013183,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,15
+S0001,1.0494447403259437,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,8.0,249
+S0002,1.164904622851416,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,CDMX,Dos sentidos,80,8.0,11
+S0003,6.175649906537026,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,8.0,42
+S0004,2.9694244947441235,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,50,8.0,9
+S0005,1.1920425125638552,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,8
+S0006,0.5336524553497132,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,CDMX,Dos sentidos,60,7.0,4
+S0007,15.948804051385878,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,20,6.0,282
+S0008,0.08866832163089587,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,50,6.0,25
+S0009,116.94652415466884,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,60,6.0,16
+S0010,0.9799148073507062,Enlace,N/A,N/A,1,-1,No,N/A,N/A,Un sentido,20,3.5,303
+S0011,3.794241493386533,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,60,10.5,234
+S0012,0.6313232777325932,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,6.0,76
+S0013,2.460369846442351,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,6
+S0014,3.4277490092057117,Carretera,Con pavimento,Asfalto,4,0,No,Federal,Fed.,Un sentido,80,12.0,26
+S0015,108.5537004905152,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,220
+S0016,18.595635129916573,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.0,262
+S0017,11.103884056236105,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.0,262
+S0018,15.087190773427052,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.0,247
+S0019,17.072758609731295,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.0,241
+S0020,5.7602240973839915,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,90,10.5,281
+S0021,75.24484133453366,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,40,10.5,219
+S0022,177.36637432091453,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,CDMX,Dos sentidos,50,6.0,52
+S0023,6.048783936129866,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,80,10.0,26
+S0024,10.430320706874351,Carretera,Con pavimento,Asfalto,9,0,Si,Federal,Fed.,Un sentido,80,32.5,126
+S0025,383.8348860743039,Camino,Sin pavimento,Tierra,N/A,0,No,Municipal,Mex.,Dos sentidos,30,7.0,24
+S0026,55.608855127360336,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,112
+S0027,442.5438022608619,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,100,12.0,13
+S0028,11.005992970010473,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,100,12.0,5
+S0029,20.04820137943525,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,100,12.0,29
+S0030,225.5190129079287,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,100,12.0,10
+S0031,44.62013507146876,Carretera,Con pavimento,Asfalto,2,-1,No,Estatal,Mex.,Dos sentidos,70,8.0,11
+S0032,24.55135471991644,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,100,12.0,0
+S0033,10.826726094531846,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,100,12.0,30
+S0034,16.11931879640816,Carretera,Con pavimento,Concreto,8,0,Si,Federal,Fed.,Un sentido,100,40.0,34
+S0035,719.9565627390373,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,8
+S0036,15.917681789451457,Carretera,Con pavimento,Concreto,3,0,No,Federal,Fed.,Un sentido,100,14.0,9
+S0037,12.339361635746455,Carretera,Con pavimento,Concreto,3,0,No,Federal,Fed.,Un sentido,100,14.0,270
+S0038,5.0992531873552025,Carretera,Con pavimento,Concreto,4,0,No,Federal,Fed.,Un sentido,100,20.0,184
+S0039,10.863605022794449,Carretera,Con pavimento,Concreto,3,0,No,Federal,Fed.,Un sentido,100,10.5,64
+S0040,43.282333042213,Enlace,N/A,N/A,2,1,No,N/A,N/A,Dos sentidos,20,6.0,13
+S0041,13.047203200474463,Carretera,Con pavimento,Concreto,4,0,No,Federal,Fed.,Un sentido,100,19.0,21
+S0042,11.973423488344721,Camino,Con pavimento,Bloques,N/A,0,No,Municipal,Qro.,Dos sentidos,40,6.0,25
+S0043,18.52680993545804,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,49
+S0044,6.019602360188044,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,8.0,80
+S0045,7.930662385847056,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,8.0,59
+S0046,3.6692077972770303,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,8.0,154
+S0047,3.286775527416518,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,28
+S0048,3.8622530935149992,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,118
+S0049,2.4905075780425956,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,228
+S0050,22.983472124840592,Privada,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,10,7.0,496
+S0051,41.28467927489988,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,7.0,470
+S0052,13.652407788175351,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,20,7.0,9
+S0053,12.443899650431737,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,7.0,428
+S0054,11.70544904450833,Boulevard,N/A,N/A,3,1,No,N/A,N/A,Un sentido,50,9.0,355
+S0055,5.6024451166186,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,8.0,609
+S0056,7.009985015352504,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,8.0,282
+S0057,7.368092732752285,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,8.0,269
+S0058,3.134228005739177,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,8.0,227
+S0059,2.663203068452386,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,10.0,98
+S0060,2.5092438389722327,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,10.0,516
+S0061,26.934762962634796,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,264
+S0062,88.8719598832609,Camino,Sin pavimento,Grava,N/A,0,No,Estatal,CDMX,Dos sentidos,40,3.5,193
+S0063,28.44779628867777,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,90
+S0064,1.6287471142623282,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,237
+S0065,2.9931740967978873,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,3
+S0066,114.13619517433526,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,8
+S0067,18.869726367815282,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,6.0,60
+S0068,2.276813759840647,Carretera,Con pavimento,Concreto,2,1,Si,Estatal,CDMX,Un sentido,50,7.0,290
+S0069,3.9409682268313864,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,90,10.5,309
+S0070,413.2348362208968,Calle,N/A,N/A,N/A,0,No,N/A,N/A,Cerrada en ambos sentidos,5,0.5,91
+S0071,70.50888558861259,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,10.0,2
+S0072,2.6822718523978613,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,10.0,5
+S0073,0.5471757942050233,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,83
+S0074,0.7649265720108516,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,14
+S0075,1.8724522525817722,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,26
+S0076,0.8553960533860877,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,3
+S0077,1.6263429947834322,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,87
+S0078,2.538000547789601,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,13
+S0079,9.44000684129119,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,297
+S0080,1.4442188523452486,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,11.0,897
+S0081,4.427323392297017,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,9.0,254
+S0082,51.51113023789446,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,19
+S0083,4.602947742691383,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,372
+S0084,4.444869121699622,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,80,10.0,83
+S0085,2.906987573570253,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,7.0,230
+S0086,3.293905274090564,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,70,10.5,23
+S0087,3.7147787933688585,Privada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,3.5,312
+S0088,3.08222434742528,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,90,14.0,575
+S0089,0.22235234654345515,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,8.0,570
+S0090,2.988755078396062,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,7.0,567
+S0091,45.59889549996201,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,8.0,526
+S0092,7.324627066558605,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,90,14.0,138
+S0093,27.771272314999408,Avenida,N/A,N/A,3,0,No,N/A,N/A,Dos sentidos,50,10.0,208
+S0094,0.947353931229689,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,205
+S0095,2.9843567852722717,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,16
+S0096,6.1746260589446145,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,13.0,4
+S0097,1.726955816521883,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,170
+S0098,3.337100712239831,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,4
+S0099,6.546705344845529,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,7
+S0100,26.8492997122756,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,202
+S0101,4.058089678344652,Carretera,Con pavimento,Asfalto,2,1,Si,Estatal,Pue.,Un sentido,80,7.0,56
+S0102,4.052338477435737,Carretera,Con pavimento,Asfalto,2,2,Si,Estatal,Pue.,Un sentido,50,7.0,501
+S0103,3.501415479071936,Carretera,Con pavimento,Asfalto,2,2,Si,Estatal,Pue.,Un sentido,50,7.0,336
+S0104,7.281640595104725,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,80,10.0,113
+S0105,6.519373347339637,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,165
+S0106,6.209881752455043,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,80,12.0,35
+S0107,7.54125047461057,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,50,12.0,19
+S0108,9.02782859968775,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,50,12.0,14
+S0109,297.83570282837104,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,8.0,6
+S0110,115.86930141075732,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,14
+S0111,4.05417342683126,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,4
+S0112,1.393903694971009,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,26
+S0113,30.551090443541717,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,50,9.0,181
+S0114,1.2525631201893501,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,45
+S0115,1.5623132866832294,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,6.0,2
+S0116,1.8227981683189236,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,6.0,1
+S0117,67.78555735590515,Privada,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,10,6.0,315
+S0118,4.491091381749671,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,199
+S0119,4.854875545428871,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,195
+S0120,2.4910900727348753,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,7.0,1
+S0121,0.6621454375060486,Carretera,Con pavimento,Concreto,2,0,No,Estatal,Gro.,Dos sentidos,50,8.0,28
+S0122,4.712349855788355,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Un sentido,60,7.0,4
+S0123,0.0008035829081734312,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,7.0,11
+S0124,1.306842387133057,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,462
+S0125,7.201010585773825,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,40,7.0,71
+S0126,1.4471736413787117,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,7.0,165
+S0127,2.1098228721793113,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,7.0,54
+S0128,1.0681497121108825,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,50,7.0,157
+S0129,0.23195689217911747,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,7.0,10
+S0130,225.72812689081303,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,7.0,1
+S0131,1.0899355135672404,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,50,7.0,27
+S0132,3.415018344811139,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,7.0,2
+S0133,221.06350131799093,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,7.0,37
+S0134,1.7055455323783597,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,12.0,8
+S0135,0.1356140084470505,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,12.0,8
+S0136,0.6237920441144258,Enlace,N/A,N/A,1,0,No,N/A,N/A,Un sentido,30,4.0,20
+S0137,14.598336739296922,Enlace,N/A,N/A,1,0,No,N/A,N/A,Un sentido,30,4.0,20
+S0138,6.727620289290377,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,12.0,9
+S0139,9.180297368894669,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,60
+S0140,200.9804808432571,Carretera,Con pavimento,Asfalto,2,1,No,Estatal,Gro.,Un sentido,60,7.0,10
+S0141,0.29971596671644973,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,8.0,7
+S0142,4.294810918382481,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,8.0,2
+S0143,1.5926523411865168,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,8.0,6
+S0144,5.261727172879336,Calzada,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,225
+S0145,1.004653815775795,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,8.0,161
+S0146,1.298422401468727,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,6.0,17
+S0147,2.8356948637894233,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,90,8.0,11
+S0148,4.686493007866922,Carretera,Con pavimento,Asfalto,1,0,Si,Federal,Fed.,Un sentido,40,6.0,144
+S0149,1.0527268747510745,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,90,8.0,165
+S0150,1.7192151754645204,Carretera,Con pavimento,Asfalto,3,0,Si,Estatal,Gro.,Dos sentidos,80,11.0,14
+S0151,1.43608413429856,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Gro.,Dos sentidos,80,8.0,62
+S0152,0.45429200407940495,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Dos sentidos,110,12.0,12
+S0153,0.32092508934246106,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,8.0,2
+S0154,0.10763494370671459,Carretera,Con pavimento,Concreto,2,0,No,N/D,N/D,Dos sentidos,30,7.0,263
+S0155,1.9210341760934893,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,274
+S0156,1.1326399050689206,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,2
+S0157,1.263288616882433,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,71
+S0158,0.3930440109588784,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,7
+S0159,0.16067640426748417,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,55
+S0160,1.3502506392986193,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,0
+S0161,0.7242220969896926,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,0
+S0162,4.626498576982079,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,222
+S0163,4.364128272430261,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,467
+S0164,2.2830712571074323,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,467
+S0165,35.88874003966087,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,250
+S0166,27.74348608557784,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,265
+S0167,0.554860192544912,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,97
+S0168,2.9070971661315133,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,44
+S0169,1.5687524211823345,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,6
+S0170,0.337401120581589,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,4
+S0171,56.877213148467135,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,12
+S0172,0.16443184018784415,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,246
+S0173,6.598264150539737,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,2
+S0174,7.316362228915069,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,40,7.0,99
+S0175,2.9223547855517547,Carretera,Con pavimento,Concreto,2,2,No,Federal,Fed.,Un sentido,60,7.0,122
+S0176,6.306970246663945,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,481
+S0177,3.2329314505183695,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,100,6.0,404
+S0178,12.862126476859348,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,245
+S0179,114.96006084587349,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,100,6.0,193
+S0180,0.5993656478626237,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,150
+S0181,3.382916633224993,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,13
+S0182,0.07470025877289935,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,6.0,132
+S0183,12.771268380572682,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,129
+S0184,5.493257314630744,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,3
+S0185,1.9112594438968515,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,4
+S0186,0.16961152161451093,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,40,7.0,103
+S0187,2.9342412803184343,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,376
+S0188,0.8830730329036512,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,241
+S0189,0.30225482237412044,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,3
+S0190,0.7269700556344937,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,15
+S0191,7.129792443181584,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,66
+S0192,3.4204215978483528,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,1
+S0193,4.47434386709985,Carretera,Con pavimento,Concreto,2,0,No,N/D,N/D,Un sentido,50,7.0,427
+S0194,1.9239229509379028,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,12
+S0195,0.9190242224609056,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,1
+S0196,0.9068515983253916,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,321
+S0197,4.3801679200225365,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,238
+S0198,1.4559515662493763,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,470
+S0199,0.2895195479784549,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,330
+S0200,4.175436628974412,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,119
+S0201,4.105634201017333,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,76
+S0202,4.075020314558997,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,104
+S0203,38.40738346693856,Camino,Sin pavimento,Tierra,N/A,0,No,N/D,N/D,Dos sentidos,30,3.5,6
+S0204,8.645627422647484,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,110,12.0,5
+S0205,6.123102901710069,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,11
+S0206,5.039039147752412,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,20
+S0207,2.2476113823821326,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,5
+S0208,3.8675875469261682,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,23
+S0209,2.3814386883699172,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,32
+S0210,2.8652067085945103,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,30
+S0211,5.009178280913425,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,15
+S0212,1.246074387985327,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,17
+S0213,4.425345750298515,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,50,7.0,490
+S0214,2.592294061795528,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,60,9.0,29
+S0215,9.050543975750466,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,3
+S0216,7.4556837116651815,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,1
+S0217,12.460970596438782,Calzada,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.0,605
+S0218,3.6027875752271625,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,8.0,17
+S0219,6.026413293300657,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,0
+S0220,8.635227612520076,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,3
+S0221,9.289411262190105,Calle,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,30,4.0,11
+S0222,3.16459353566364,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,4
+S0223,53.87235625752466,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,6
+S0224,8.401117668698099,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,2
+S0225,1.1567502596386467,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,16
+S0226,2.5752708508051483,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,131
+S0227,1.1539411102949277,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,10
+S0228,1.6979087376178241,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,54
+S0229,2.401454137318906,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,6.0,21
+S0230,3.385937221394575,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,6.0,23
+S0231,0.8035122490590875,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,7
+S0232,2.572878624094273,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,6.0,23
+S0233,3.160458662976777,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,6.0,4
+S0234,1.2992636000715185,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,6.0,4
+S0235,0.9035564333268623,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,40,7.0,1
+S0236,2.4721169965760854,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,40,7.0,1
+S0237,0.9548639069684935,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,323
+S0238,3.8427447524309595,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,6.0,13
+S0239,0.05945121404551925,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,1
+S0240,1.881330355406437,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,181
+S0241,193.2246566919049,Camino,Sin pavimento,Tierra,N/A,0,No,N/D,N/D,Dos sentidos,30,3.5,180
+S0242,0.12505148316272438,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,0
+S0243,3.7690906259341324,Andador,N/A,N/A,N/A,0,No,N/A,N/A,Cerrada en ambos sentidos,5,2.5,378
+S0244,0.675370452548756,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,167
+S0245,4.931648919172894,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.5,82
+S0246,4.96856196215598,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,2
+S0247,4.050397294700606,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,3
+S0248,4.216088239414769,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,10
+S0249,4.896621280956006,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,99
+S0250,6.268552356895536,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,6
+S0251,6.917174603587321,Cerrada,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,10,6.0,473
+S0252,11.112495733237962,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.5,7
+S0253,2.684801440346786,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,4
+S0254,6.90319219464198,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,3
+S0255,3.068342587845729,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,8
+S0256,1.032834823027632,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.5,92
+S0257,39.006821021833055,Camino,Sin pavimento,Tierra,N/A,0,No,N/D,N/D,Dos sentidos,30,3.5,219
+S0258,1.21077686804098,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,212
+S0259,0.8973676639722747,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,6
+S0260,0.4063413889764448,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,197
+S0261,7.079419150618782,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,233
+S0262,5.1470554395346575,Carretera,Con pavimento,Concreto,2,0,No,Federal,Fed.,Un sentido,50,7.0,1199
+S0263,4.958271761627983,Carretera,Con pavimento,Concreto,2,0,No,Federal,Fed.,Un sentido,50,7.0,446
+S0264,3.9005563063299005,Carretera,Con pavimento,Concreto,2,0,No,Federal,Fed.,Un sentido,40,7.0,749
+S0265,114.94119563338307,Privada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,3.0,222
+S0266,7.760317757968152,Cerrada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,3.0,27
+S0267,6.860347913416294,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,7.0,66
+S0268,3.3057807417446576,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,104
+S0269,3.9619471204772485,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,12
+S0270,27.910919394263836,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,278
+S0271,0.01825144344173709,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,13
+S0272,2.8143498896104595,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,195
+S0273,24.80357483003419,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,232
+S0274,4.572811220534484,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,1
+S0275,2.832197741471554,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,240
+S0276,4.436623168030414,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,42
+S0277,197.57215683665433,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,6
+S0278,10.639614100315729,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,244
+S0279,0.06056092636843468,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,5
+S0280,50.21331798573365,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,4
+S0281,1.220098059140782,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,11
+S0282,1.7500247394729924,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Gro.,Dos sentidos,60,6.5,0
+S0283,3.541031309092977,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,7
+S0284,3.0000396758337105,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,99
+S0285,4.796126414182393,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,470
+S0286,4.046900916304747,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,72
+S0287,2.199145063261468,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,8
+S0288,0.09017239632720539,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.5,83
+S0289,42.179369573494014,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.5,3
+S0290,1.5357186871189559,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,2
+S0291,3.3000856865784796,Enlace,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,20,3.5,4
+S0292,1.843957022972992,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,10
+S0293,0.6581674286026834,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,7
+S0294,1.4671106271046235,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,4
+S0295,1.9593066008944036,Camino,Sin pavimento,Tierra,N/A,0,No,Municipal,Gro.,Dos sentidos,30,3.5,6
+S0296,3.593510926633852,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,5
+S0297,5.63646724724281,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,18
+S0298,3.4105847399879154,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,9
+S0299,2.5407186671696995,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,10.0,10
+S0300,5.4717308244635126,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,6.0,4
+S0301,1.6085414603180297,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,265
+S0302,7.639984962645491,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,399
+S0303,1.08614063519922,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,4
+S0304,0.0006961946041150064,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,252
+S0305,2.3496154004578025,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Gro.,Un sentido,80,7.0,192
+S0306,1.4913655509256942,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,80,7.0,8
+S0307,4.606905815658492,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,90,12.0,11
+S0308,8.600145260642915,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Dos sentidos,60,12.0,47
+S0309,2.8986576277882277,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,157
+S0310,0.45185707011281995,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,6
+S0311,0.5983200293746458,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,15
+S0312,0.9165606885987697,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,104
+S0313,0.9912591064362486,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,281
+S0314,32.804906278484715,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,215
+S0315,0.4161787994744058,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,17
+S0316,5.089379964480314,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,205
+S0317,16.869819241782057,Calle,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,30,4.0,395
+S0318,2.4273045895293817,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,213
+S0319,0.6343165655589937,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,18
+S0320,2.015545127332694,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,8.0,3
+S0321,0.603262059214843,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,3
+S0322,1.9393478837764793,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,13
+S0323,2.917608122154417,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,70,8.0,96
+S0324,0.4020903966599805,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,50,8.0,38
+S0325,4.875755632764595,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,7.0,26
+S0326,2.5173233357723004,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,7.0,143
+S0327,0.5797014677157754,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,38
+S0328,2.3731754318145333,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,109
+S0329,1.539665029464233,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,8.0,7
+S0330,0.7341721154523803,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,45
+S0331,0.5877019851562618,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,134
+S0332,0.8205901057604297,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,4
+S0333,12.47669088487957,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,34
+S0334,11.28853484579606,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,11.0,475
+S0335,0.6894089507217904,Calle,N/A,N/A,3,0,No,N/A,N/A,Un sentido,30,11.0,31
+S0336,2.9660944504145546,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,408
+S0337,5.766832265711402,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,531
+S0338,1.6515590624382794,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,60,8.0,105
+S0339,4.304503563307736,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,80,10.0,9
+S0340,7.953958050548984,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,80,10.0,21
+S0341,2.278013146712515,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,152
+S0342,4.427837410767396,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,8
+S0343,0.7058239508133551,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,22
+S0344,4.811786409873316,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,8
+S0345,2.543056033190931,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0346,1.1975502886181328,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,2
+S0347,63.413581123756,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,24
+S0348,0.8888916987687712,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,15
+S0349,3.756495000951359,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,8.0,9
+S0350,28.37586213141815,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,20,7.0,24
+S0351,2.2381090510615684,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,60,8.0,0
+S0352,1.6077607320797076,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,168
+S0353,23.864890110074242,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,7.0,21
+S0354,1.282958860475782,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,117
+S0355,23.311936617827484,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,12
+S0356,1.206627566497994,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,14
+S0357,1.1655737893444595,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,13
+S0358,1.9939871811504803,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,6.0,120
+S0359,7.921395929043681,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,11
+S0360,3.5737399424023297,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,8
+S0361,4.748641426974435,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,46
+S0362,2.3875135740619116,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,5
+S0363,2.644750848742038,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,70,8.0,12
+S0364,0.391189079940593,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,7
+S0365,0.4753466559779211,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,6
+S0366,0.33869424570200546,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,197
+S0367,0.8138268932874038,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,62
+S0368,6.73158965363761,Prolongación,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,5
+S0369,0.2921831848120169,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,1
+S0370,8.534766504829845,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,5
+S0371,5.755535919242283,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0372,4.248882119900862,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,3
+S0373,3.469541981355224,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,2
+S0374,1.5749189893083348,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,7.0,5
+S0375,1.9878504629796794,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,12
+S0376,6.816279802701357,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0377,5.209840989958399,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,6.0,3
+S0378,0.05257479004681803,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,9
+S0379,0.3965246456618687,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,50
+S0380,0.07499917312447336,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,7.0,3
+S0381,0.07901799767043152,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,7.0,7
+S0382,0.45824847428279664,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,296
+S0383,0.8166559159994186,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,181
+S0384,0.23461254651687216,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,208
+S0385,3.260787178586857,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,19
+S0386,0.8381686484174622,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,3
+S0387,13.920840621321819,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,80,10.0,52
+S0388,23.226546709804406,Carretera,Con pavimento,Asfalto,3,0,No,Estatal,Mex.,Un sentido,80,10.0,52
+S0389,1.7768761269203563,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,23
+S0390,14.889777517029756,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,7.0,19
+S0391,8.766265310902362,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,8
+S0392,15.236581004963353,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,75
+S0393,4.815708997386846,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,60
+S0394,193.4982516623965,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,5
+S0395,1.0728756795069478,Circuito,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.0,423
+S0396,92.21809268344391,Camino,Sin pavimento,Tierra,N/A,0,No,Municipal,Mex.,Dos sentidos,30,3.5,20
+S0397,0.6106545747930578,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,67
+S0398,71.93322111627063,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,8.0,5
+S0399,3.2379197149037435,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,10.0,12
+S0400,2.2956805506599944,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,10.0,7
+S0401,5.88440711138345,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,10.0,34
+S0402,2.321017420401888,Avenida,N/A,N/A,4,0,No,N/A,N/A,Un sentido,50,12.0,29
+S0403,4.711197500653421,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,2
+S0404,5.877765118471073,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,6
+S0405,2.399839689014648,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0406,1.8942104951453158,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,11
+S0407,4.996587828278325,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,32
+S0408,1.7659524577356789,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,8.0,6
+S0409,167.49172371242068,Camino,Sin pavimento,Tierra,N/A,0,No,Municipal,Mex.,Dos sentidos,30,7.0,10
+S0410,311.7750170405123,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,80,8.0,7
+S0411,616.1040360619378,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,0
+S0412,1.6954365163102985,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,24
+S0413,1.2344528705424542,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,9
+S0414,0.16288534023041443,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,16
+S0415,2.6492391243191045,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,3
+S0416,0.14945762098399443,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,60,7.0,14
+S0417,0.8763126854527796,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mich.,Dos sentidos,70,7.0,2
+S0418,2.830405353592931,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,45
+S0419,127.67583964059686,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,12
+S0420,1.0568831704751198,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,3
+S0421,1.4244298690578698,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,19
+S0422,11.399854878985932,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,1
+S0423,0.9305037882365845,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0424,0.03520033669172722,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,23
+S0425,1.8272050263978896,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0426,2.8201528928324797,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,20
+S0427,6.794020809202968,Carretera,Con pavimento,Asfalto,4,0,No,Estatal,Mex.,Dos sentidos,80,14.0,21
+S0428,1.5852088277524548,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,7.0,11
+S0429,0.20406373950185333,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,8.0,5
+S0430,4.59168562393557,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,4
+S0431,3.278296853935488,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,50,7.0,5
+S0432,2.041874733793166,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,2
+S0433,68.29462179144447,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,8
+S0434,2.011780111684489,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,356
+S0435,3.3296786854403932,Avenida,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.5,291
+S0436,2.6686819989157615,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,37
+S0437,7.941462231280185,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,50,7.0,6
+S0438,53.87447339830197,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,7.0,8
+S0439,0.3541991953046016,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,7.0,6
+S0440,224.25493614966726,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,5
+S0441,1.0662928582214806,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,8
+S0442,6.8926589727684995,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,8.0,69
+S0443,4.4674488412504445,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,4
+S0444,1.3393468508666113,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,40,7.0,4
+S0445,111.96726980445115,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,6
+S0446,1.0988292512065116,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,19
+S0447,3.038211135598664,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,2
+S0448,0.2915242108845457,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,363
+S0449,0.41406373656930245,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,51
+S0450,0.37219390932864055,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,46
+S0451,4.578990590281233,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,6.0,201
+S0452,7.0066679472228275,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,8
+S0453,1.7299502625725873,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,3
+S0454,2.644101219779651,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,4
+S0455,4.913864909562146,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,108
+S0456,1.6905403070938145,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,52
+S0457,0.26232377327746326,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,7
+S0458,5.9382134781268565,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,61
+S0459,1.1509396794408029,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,2
+S0460,4.486411864949226,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,20
+S0461,0.3925426167395818,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,12
+S0462,1.227202183500303,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,19
+S0463,0.574495431224121,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,9.0,77
+S0464,4.815787635189932,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0465,0.6211381476233249,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,5
+S0466,8.14457951385591,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,8
+S0467,7.6003434098123055,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,6
+S0468,0.07728822805854485,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0469,0.9873918723692051,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,31
+S0470,0.2704555917263523,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,5
+S0471,1.907334755408531,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,4
+S0472,2.0747762524142543,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,6
+S0473,1.9921993249940286,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,8
+S0474,3.1335107611659017,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,1
+S0475,6.926639544102044,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,2
+S0476,1.432688098537461,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,2
+S0477,6.175144433598626,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,13
+S0478,0.7005337473209675,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,11
+S0479,0.0700136782976689,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,5
+S0480,2.1009405503647187,Carretera,Con pavimento,Asfalto,4,0,No,Estatal,Mex.,Dos sentidos,80,22.0,2
+S0481,1.0504496131505732,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,12.0,6
+S0482,2.546201508118032,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Hgo.,Un sentido,80,12.0,10
+S0483,4.895327215169415,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,2
+S0484,64.49624897723355,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,80,7.0,5
+S0485,3.578668806290044,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,50,7.0,258
+S0486,7.398179835787064,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0487,0.850090128062244,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,13
+S0488,1.5946930068274225,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,22
+S0489,2.1174548633073633,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,12
+S0490,2.589815346281502,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,7.0,5
+S0491,0.18502676471468918,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,8
+S0492,2.8319207750577116,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,5
+S0493,0.9771768636773781,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,33
+S0494,1.733776010856291,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,7.0,45
+S0495,3.359890331770227,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,397
+S0496,7.092172876700555,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,8.0,228
+S0497,2.9183535729918266,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,50,7.0,125
+S0498,3.5381566987261097,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0499,134.1608094656529,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,5
+S0500,1.442367351032759,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,23
+S0501,87.63797592123912,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,10
+S0502,20.604230062391494,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,175
+S0503,78.30271303870097,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,12
+S0504,34.35654547584587,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,19
+S0505,0.3898809213428601,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,11
+S0506,294.2563639372438,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,3
+S0507,5.997880985893958,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,1
+S0508,3.831298560550681,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,8
+S0509,0.2632602941810343,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,10
+S0510,0.28825670106218526,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,12
+S0511,6.531477477225258,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,4
+S0512,3.4248905737923265,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,111
+S0513,3.0234337723120195,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,233
+S0514,3.064583096778318,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,12.0,59
+S0515,3.752139420172816,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,20
+S0516,0.44242628615388313,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,40
+S0517,7.867091482849027,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0518,2.0835382501995015,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,1
+S0519,3.5602727164597323,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,3
+S0520,2.0204560469653283,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,6.0,8
+S0521,19.38652444072979,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,7.0,25
+S0522,1.811336187568726,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,7.0,19
+S0523,1.8353006636212263,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,7.0,17
+S0524,0.06752684560256249,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,9
+S0525,1.38480361145776,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,7
+S0526,4.42269525837565,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,0
+S0527,5.510076273959346,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,5
+S0528,52.337235156000496,Circuito,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,40,4.0,7
+S0529,7.082689693145663,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,6
+S0530,7.060305507844481,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,3
+S0531,3.279812921164445,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,5
+S0532,7.842592268322031,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,8
+S0533,0.008332610898962263,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0534,61.622603107920135,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,1
+S0535,35.86057053258232,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,60,7.0,5
+S0536,6.960685578291194,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mex.,Dos sentidos,60,7.0,7
+S0537,2.6536125573957903,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,10.0,51
+S0538,0.3858552876329332,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,10.0,9
+S0539,0.5654268946268396,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,12.0,137
+S0540,0.40309430217381204,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,12.0,0
+S0541,5.648903936564986,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,118
+S0542,5.28266721232514,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,7.0,51
+S0543,38.17693883068589,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,7
+S0544,4.950197224614846,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,9.0,3
+S0545,15.613588890837713,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,50,8.0,30
+S0546,4.869861417913957,Carretera,Con pavimento,Asfalto,2,1,Si,Estatal,Mex.,Un sentido,80,8.0,214
+S0547,58.51664356081598,Cerrada,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,10,7.0,43
+S0548,4.690668497525551,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,130
+S0549,5.5632389929429715,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,10.0,4
+S0550,0.05560127462354288,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,10.0,15
+S0551,206.36750663733793,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,7.0,3
+S0552,0.6010003542075445,Calle,N/A,N/A,1,-1,No,N/A,N/A,Dos sentidos,30,4.0,25
+S0553,1.0392041029298453,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,7.0,0
+S0554,5.059476002911925,Carretera,Con pavimento,Asfalto,2,1,Si,Estatal,Mex.,Dos sentidos,80,12.0,5
+S0555,7.077531237176316,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,12.0,11
+S0556,10.318951405820348,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,12.0,14
+S0557,0.31733976444250445,Boulevard,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.5,125
+S0558,0.21906898434185174,Boulevard,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.5,136
+S0559,3.787976474889702,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,7.0,18
+S0560,410.70415485947643,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,0
+S0561,0.31284230561246895,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,80,8.0,19
+S0562,4.0000568868693644,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,50,8.0,30
+S0563,3.3992043677815715,Carretera,Con pavimento,Asfalto,3,0,Si,Estatal,Mex.,Un sentido,50,10.5,16
+S0564,3.7975770092236067,Carretera,Con pavimento,Asfalto,3,0,Si,Estatal,Mex.,Un sentido,50,10.5,390
+S0565,4.835276608369768,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Un sentido,70,8.0,3
+S0566,0.4519047497804917,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,2
+S0567,233.76793728488448,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,10
+S0568,3.025283009551729,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,3
+S0569,3.7138823896409607,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Hgo.,Dos sentidos,40,9.0,9
+S0570,2.21271226526092,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Hgo.,Dos sentidos,40,9.0,15
+S0571,2.9314325456598724,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,7.0,173
+S0572,135.53382777882783,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,337
+S0573,0.6650228203309284,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,60,7.0,0
+S0574,1.8855166072061889,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,40,8.0,131
+S0575,1.6134369236992157,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,9.0,9
+S0576,0.4463458784298279,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,8.0,119
+S0577,3.2964275859121446,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,114
+S0578,4.1609157063060325,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Hgo.,Un sentido,40,9.0,92
+S0579,0.7636748545656692,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,154
+S0580,5.116804544544487,Carretera,Con pavimento,Asfalto,4,0,No,Estatal,Hgo.,Dos sentidos,60,18.0,45
+S0581,0.28721446113376004,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,9
+S0582,3.4671125172785047,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,80,8.0,14
+S0583,3.895404847127649,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,50,7.0,85
+S0584,3.8733750791778565,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,506
+S0585,0.3579555750615551,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,7.0,28
+S0586,0.8022626197732085,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,404
+S0587,8.137726859716409,Boulevard,N/A,N/A,4,0,No,N/A,N/A,Un sentido,50,12.0,598
+S0588,9.072645010501722,Boulevard,N/A,N/A,5,0,No,N/A,N/A,Un sentido,40,16.0,249
+S0589,9.976940025290645,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,8
+S0590,2.2715938779254294,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,4
+S0591,59.93077031665283,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,18
+S0592,78.58389900653539,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,7.0,20
+S0593,122.43935609146514,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,12.0,12
+S0594,130.2021347194869,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Mex.,Dos sentidos,80,12.0,2
+S0595,2.405615042249066,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,14
+S0596,501.17140357181535,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,2
+S0597,11.141064556706748,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,7
+S0598,0.9298631038659695,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,5
+S0599,161.03009393552705,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,6
+S0600,2.155014077959445,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,210
+S0601,1.839354492532679,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,466
+S0602,3.251072318443022,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,4
+S0603,2.088822958984685,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,3
+S0604,6.35373826544495,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,2
+S0605,4.517702150406371,Carretera,Con pavimento,Asfalto,2,1,No,Federal,Fed.,Un sentido,70,7.0,564
+S0606,7.64977067864145,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,7.0,1
+S0607,5.9191721670695365,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,7.0,0
+S0608,7.623336435759043,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,8.0,0
+S0609,3.9383225263810977,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,8.0,13
+S0610,19.556743182104444,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,8.0,0
+S0611,6.329718211378833,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,10.0,7
+S0612,9.335451359029662,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,10.0,99
+S0613,4.856557057492071,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,80,7.0,16
+S0614,22.13087760091397,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,80,7.0,4
+S0615,1.4936691959534902,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,40,7.0,13
+S0616,27.882474563749017,Carretera,Con pavimento,Concreto,2,0,No,N/D,N/D,Dos sentidos,40,7.0,18
+S0617,299.6566317828371,Carretera,Con pavimento,Asfalto,3,0,No,Municipal,Mex.,Un sentido,50,12.0,67
+S0618,3.174229070674196,Carretera,Con pavimento,Concreto,2,0,Si,Federal,Fed.,Un sentido,100,8.0,15
+S0619,0.35855114128187654,Enlace,N/A,N/A,1,1,No,N/A,N/A,Un sentido,40,4.0,20
+S0620,327.54784941712836,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,23
+S0621,3.8641315244533043,Cerrada,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,10,7.0,118
+S0622,32.30956631569896,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,20,7.0,23
+S0623,7.236186765656818,Carretera,Con pavimento,Concreto,2,1,Si,Federal,Fed.,Un sentido,90,10.0,14
+S0624,4.19795625469196,Carretera,Con pavimento,Concreto,2,0,Si,Federal,Fed.,Un sentido,90,10.0,16
+S0625,5.251183376772985,Carretera,Con pavimento,Concreto,2,0,Si,Federal,Fed.,Un sentido,90,10.0,25
+S0626,65.83824779524731,Carretera,Con pavimento,Concreto,2,0,Si,Federal,Fed.,Un sentido,110,8.0,26
+S0627,21.78199542240243,Enlace,N/A,N/A,2,1,No,N/A,N/A,Un sentido,30,8.0,50
+S0628,57.524229283653696,Carretera,Con pavimento,Concreto,4,0,Si,Federal,Fed.,Un sentido,40,20.0,83
+S0629,1.8578839842692338,Carretera,Con pavimento,Concreto,4,0,Si,Federal,Fed.,Un sentido,40,20.0,77
+S0630,6.188361401531659,Carretera,Con pavimento,Concreto,2,1,Si,Federal,Fed.,Un sentido,70,10.0,234
+S0631,3.94519080872759,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,80,8.0,1
+S0632,24.864595890308692,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,327
+S0633,4.028755470714149,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,8.0,103
+S0634,15.62895824494248,Carretera,Con pavimento,Concreto,2,0,No,Estatal,Mex.,Un sentido,60,7.0,39
+S0635,3.8025914285234,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Un sentido,40,7.0,57
+S0636,10.044353430968458,Carretera,Con pavimento,Asfalto,3,1,No,N/D,N/D,Un sentido,60,10.5,1
+S0637,3.7387588044160593,Carretera,Con pavimento,Concreto,2,0,No,Estatal,Mex.,Un sentido,60,7.0,6
+S0638,35.938125300842366,Carretera,Con pavimento,Concreto,2,0,No,Estatal,Mex.,Un sentido,60,7.0,64
+S0639,0.6076335919600324,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,28
+S0640,5.621670418041891,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,9.0,60
+S0641,6.248270914907189,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,9.0,26
+S0642,0.12994489254975639,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,8.0,113
+S0643,2.282449352180655,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,8.0,3
+S0644,1.3665374689189747,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,8.0,1
+S0645,3.0331791652668016,Carretera,Con pavimento,Asfalto,2,1,No,Federal,Fed.,Un sentido,80,7.0,58
+S0646,0.0714078499579723,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,67
+S0647,4.1695633811557995,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,21
+S0648,3.768101714085196,Carretera,Con pavimento,Asfalto,2,1,No,Federal,Fed.,Un sentido,80,8.0,19
+S0649,0.44537888122496533,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,88
+S0650,33.53393170466703,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,19
+S0651,4.910204635306403,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,976
+S0652,59.609825631002124,Avenida,N/A,N/A,3,0,No,N/A,N/A,Dos sentidos,50,10.0,153
+S0653,2.03157890299022,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,53
+S0654,3.1806975981813417,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,160
+S0655,4.057937456673884,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,20
+S0656,3.5380094089706566,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,31
+S0657,61.98915425174053,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,127
+S0658,12.20257532628674,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,189
+S0659,1.2127127996015694,Avenida,N/A,N/A,3,0,No,N/A,N/A,Dos sentidos,50,9.0,113
+S0660,4.239302373936671,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,7.0,90
+S0661,4.014144743750246,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,7.0,23
+S0662,2.8603133494767734,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,7.0,230
+S0663,2.8832297317681643,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,7.0,380
+S0664,3.273489423417375,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,6.0,162
+S0665,122.42154677655827,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,44
+S0666,58.68134485126293,Privada,N/A,N/A,N/A,0,No,N/A,N/A,Cerrada en ambos sentidos,5,1.0,181
+S0667,2.773214626831196,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,6.0,12
+S0668,172.77942490755396,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,4
+S0669,4.077112304818049,Avenida,N/A,N/A,1,1,No,N/A,N/A,Un sentido,50,4.0,290
+S0670,3.5099114374053286,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,80,8.0,3
+S0671,0.8753447534362729,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,7.0,2
+S0672,2.9492811830315384,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,7.0,21
+S0673,21.548625615226563,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,100,10.0,40
+S0674,6.036452155152973,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,100,10.0,31
+S0675,4.433909063141832,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,8.0,136
+S0676,2.3842014192484307,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,220
+S0677,1.2302755851895402,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,246
+S0678,0.6701799138267195,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,227
+S0679,38.177500172059524,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,20,7.0,35
+S0680,49.51295316566081,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,10.0,18
+S0681,1.0314162709116113,Carretera,Con pavimento,Concreto,2,1,Si,Federal,Fed.,Un sentido,90,10.0,16
+S0682,5.273512041920222,Carretera,Con pavimento,Concreto,2,0,No,Federal,Fed.,Un sentido,80,10.0,27
+S0683,56.138709829518895,Enlace,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,16
+S0684,5.169169200048434,Carretera,Con pavimento,Concreto,2,0,No,Federal,Fed.,Un sentido,80,9.0,18
+S0685,7.858624269705796,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,10.0,122
+S0686,1.7876581852376097,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,10.0,131
+S0687,7.196271286820432,Carretera,Con pavimento,Asfalto,2,1,Si,Federal,Fed.,Un sentido,100,10.0,149
+S0688,30.057048713119208,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,193
+S0689,3.825978752722049,Avenida,N/A,N/A,2,-1,No,N/A,N/A,Dos sentidos,50,7.0,223
+S0690,5.333053018622913,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,9
+S0691,0.7848454966384516,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,12
+S0692,1.4746221517746705,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,40,7.0,10
+S0693,1.5151625458051838,Carretera,Con pavimento,Asfalto,2,1,Si,Estatal,Mex.,Un sentido,80,8.0,48
+S0694,3.566711973285732,Carretera,Con pavimento,Asfalto,2,1,Si,Estatal,Mex.,Un sentido,80,8.0,48
+S0695,7.0571651706640495,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,60,10.5,199
+S0696,9.377855975856235,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,397
+S0697,7.0419396466035264,Carretera,Con pavimento,Concreto,3,0,No,Federal,Fed.,Un sentido,50,9.0,40
+S0698,6.215045900420297,Calle,N/A,N/A,3,0,No,N/A,N/A,Un sentido,30,9.0,107
+S0699,23.780033023721867,Carretera,Con pavimento,Asfalto,1,0,No,Municipal,Mex.,Dos sentidos,40,6.0,23
+S0700,0.35235131665280117,Calle,N/A,N/A,2,-1,No,N/A,N/A,Dos sentidos,30,7.0,7
+S0701,5.563205537006027,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,12
+S0702,0.9458467545984456,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,22
+S0703,5.878936630228437,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,5
+S0704,187.44129053358148,Privada,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,10,7.0,126
+S0705,0.7512977129224678,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,9.0,6
+S0706,4.335154153984749,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,9.0,20
+S0707,11.044717443947063,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,189
+S0708,3.461565423969879,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,9.0,165
+S0709,4.263452623078023,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,9.0,55
+S0710,7.497075478089763,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,9.0,71
+S0711,0.4108795035662744,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,10.0,136
+S0712,7.667501901747874,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,779
+S0713,2.4064005442692924,Prolongación,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,268
+S0714,4.888772641833113,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,10.0,43
+S0715,4.350977807279736,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,10.0,50
+S0716,4.078421475255939,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,10.0,5
+S0717,5.429520729966352,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,7.0,7
+S0718,2.370553607647673,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,7.0,20
+S0719,4.1265207769652195,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,66
+S0720,16.045958156843657,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,199
+S0721,2.9591458696836166,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,0
+S0722,0.05124912758867785,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,8.0,3
+S0723,2.864561006450744,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,8.0,11
+S0724,8.389097295734372,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,80,6.0,10
+S0725,13.687128448279209,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,8.0,49
+S0726,3.601633429991182,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,80,7.0,18
+S0727,4.3981534356826,Calle,N/A,N/A,3,0,No,N/A,N/A,Un sentido,30,10.0,21
+S0728,73.02406892657886,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,51
+S0729,12.64555259970964,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,80,10.0,24
+S0730,14.485076805910207,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,8.0,29
+S0731,3.2790467721888747,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,8.0,91
+S0732,3.9432091591708454,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,12
+S0733,5.302886625674328,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,5
+S0734,11.130490868255347,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,8
+S0735,1.77079347465951,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,3
+S0736,4.0094305810173605,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,4
+S0737,1.9585398876152695,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mex.,Dos sentidos,80,7.0,3
+S0738,1.049297520663364,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,7.0,11
+S0739,1.773892984435575,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,40,7.0,11
+S0740,0.03391299188156614,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,7.0,6
+S0741,10.047340487330395,Carretera,Con pavimento,Asfalto,2,0,No,Municipal,Mor.,Dos sentidos,50,6.0,28
+S0742,3.2331216219318217,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,7.0,7
+S0743,3.1628818908765393,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,10.0,100
+S0744,2.5555368769610483,Carretera,Con pavimento,Asfalto,2,1,No,Federal,Fed.,Un sentido,80,7.0,118
+S0745,3.331435517658089,Enlace,N/A,N/A,1,0,No,N/A,N/A,Un sentido,40,4.0,160
+S0746,2.2657006173581453,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,8.0,107
+S0747,68.46821928348506,Boulevard,N/A,N/A,4,0,No,N/A,N/A,Un sentido,50,12.0,383
+S0748,8.519719856471133,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,394
+S0749,17.377418273346173,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,469
+S0750,5.228081721023979,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,100,8.0,300
+S0751,39.6674322080998,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,307
+S0752,189.30195106255303,Calle,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,30,3.5,104
+S0753,1.7441091165778357,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,12.0,208
+S0754,4.296276608572173,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,100,12.0,530
+S0755,3.4899871555613227,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,6.0,356
+S0756,5.426209586652476,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,7
+S0757,11.433894489778625,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.5,140
+S0758,10.120377850573263,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,140
+S0759,71.00710106820559,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,24
+S0760,3.5886118608089346,Carretera,Con pavimento,Asfalto,2,1,Si,Federal,Fed.,Un sentido,110,8.0,54
+S0761,2.0284981426113764,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,8.0,161
+S0762,4.392636573510672,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,8.0,336
+S0763,3.943559469039077,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,6.0,100
+S0764,1.0629404129291353,Carretera,Con pavimento,Asfalto,4,0,No,Federal,Fed.,Dos sentidos,90,12.0,1
+S0765,0.09367453944766918,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,96
+S0766,2.3114197866673836,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,7.0,196
+S0767,2.6858054998755487,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,6.0,4
+S0768,1.3217066699883744,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,6.0,80
+S0769,0.025476236568199348,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,60,7.0,148
+S0770,17.232641197868347,Cerrada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,4.0,114
+S0771,78.13444203945727,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,80,6.0,89
+S0772,2.4975190221751564,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,214
+S0773,2.681104279256826,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,178
+S0774,0.39740837446928545,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,6.0,10
+S0775,0.8394692178357118,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,71
+S0776,0.12304825778254228,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,113
+S0777,0.14661886491493056,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,13
+S0778,0.5965558116004527,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,161
+S0779,0.2055649881873415,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,10
+S0780,0.9459152567462031,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,64
+S0781,2.66607391695153,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,50
+S0782,0.40334329199177976,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,76
+S0783,1.6364053291362795,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,42
+S0784,6.5395312874653895,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,6
+S0785,2.2150570276732537,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,3
+S0786,1.4535332842951187,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,88
+S0787,2.399904023179993,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,11
+S0788,6.373122913209062,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,6.0,440
+S0789,2.3464323002345795,Carretera,Con pavimento,Concreto,1,0,No,Estatal,Mor.,Un sentido,50,5.0,95
+S0790,0.13487591961478126,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,8.0,214
+S0791,3.9268179182092604,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,11
+S0792,1.2444975742465865,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,7
+S0793,3.2542374054975536,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,70,6.0,11
+S0794,2.58564811422498,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,98
+S0795,1.6132595583839984,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,57
+S0796,1.105463919767199,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,6.0,275
+S0797,1.7630650311075518,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,80,6.0,63
+S0798,1.4774336062371092,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,133
+S0799,2.2699083723931897,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,28
+S0800,3.5420510227792446,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,60,6.0,129
+S0801,1.9280160910488093,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,113
+S0802,1.5254124778736438,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,122
+S0803,0.5115068556381953,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,6.0,239
+S0804,1.2655110454090268,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,95
+S0805,29.90408861630776,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,397
+S0806,0.26336395218621783,Carretera,Con pavimento,Concreto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,83
+S0807,0.7376411848982761,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,157
+S0808,0.4170260241319496,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,6.0,170
+S0809,5.618263860081536,Avenida,N/A,N/A,4,0,No,N/A,N/A,Dos sentidos,50,12.0,145
+S0810,4.2309125125075235,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,60,7.0,82
+S0811,1.6736507816948551,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,60,7.0,169
+S0812,3.4868140342789244,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,60,7.0,94
+S0813,5.264218320359368,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,60,7.0,7
+S0814,1.1164446712429756,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,111
+S0815,3.6517302537090752,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,6.0,254
+S0816,1.9862933855569236,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,6.0,114
+S0817,2.3520898432439297,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,60,6.0,221
+S0818,2.688781854333082,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,50,6.0,259
+S0819,101.24329219160109,Camino,Sin pavimento,Tierra,N/A,0,No,N/D,N/D,Dos sentidos,30,3.5,142
+S0820,0.31879132187224896,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,6.0,154
+S0821,0.22206000465026668,Carretera,Con pavimento,Asfalto,4,0,No,Estatal,Mor.,Dos sentidos,80,14.0,230
+S0822,0.28660024376459475,Carretera,Con pavimento,Asfalto,4,0,No,Estatal,Mor.,Dos sentidos,50,14.0,141
+S0823,2.280175307022646,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,3
+S0824,1.8484861932906338,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,7.0,93
+S0825,3.2930213885102746,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,80,6.0,21
+S0826,1.8350022764926204,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,25
+S0827,2.433679940453707,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,6.0,122
+S0828,1.9210179735847361,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,31
+S0829,0.9431243244538152,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,7.0,67
+S0830,0.8618001222611128,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,218
+S0831,1.0056226689026966,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,6.0,288
+S0832,2.9760948047919267,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,50,6.0,337
+S0833,1.3030521378813054,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,207
+S0834,1.7659429821780057,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,124
+S0835,0.004078967276860666,Carretera,Con pavimento,Concreto,2,0,No,Estatal,Mor.,Dos sentidos,80,6.0,56
+S0836,1.013718306715156,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,60,6.0,51
+S0837,1.290686992794866,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,7.0,188
+S0838,1.4660034514499622,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,7.0,116
+S0839,1.6164670552680978,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,50,7.0,84
+S0840,0.8192807382621026,Carretera,Con pavimento,Asfalto,4,0,No,Estatal,Mor.,Dos sentidos,50,12.0,93
+S0841,0.9163597312159607,Carretera,Con pavimento,Asfalto,4,0,No,Estatal,Mor.,Dos sentidos,80,12.0,58
+S0842,4.9024515323315185,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,80,6.0,60
+S0843,4.222376282372621,Carretera,Con pavimento,Concreto,2,0,No,Estatal,Mor.,Un sentido,80,6.0,94
+S0844,3.8005559008982948,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,50,6.0,113
+S0845,2.905472618223771,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,80,6.0,74
+S0846,3.172314179637918,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Un sentido,60,7.0,67
+S0847,26.764416754969886,Privada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,4.0,231
+S0848,1.846288824369085,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,8.0,3
+S0849,0.8193303833720426,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,50,8.0,40
+S0850,60.146673781257824,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,50,8.0,229
+S0851,4.649369081150383,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,222
+S0852,1.753722595168495,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,234
+S0853,0.9057459972522148,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Mor.,Dos sentidos,70,8.0,23
+S0854,1.59190672953278,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Pue.,Dos sentidos,80,9.0,186
+S0855,1.2939405861765392,Carretera,Con pavimento,Concreto,2,0,Si,Estatal,Mor.,Dos sentidos,80,7.0,17
+S0856,5.909817798771829,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,269
+S0857,0.10897875569525163,Carretera,Con pavimento,Asfalto,2,1,No,Federal,Fed.,Dos sentidos,50,6.0,157
+S0858,1.0139126520056636,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,6.0,230
+S0859,2.115926333483651,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,8.0,136
+S0860,27.963021687794473,Privada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,3.5,239
+S0861,56.34582404017204,Privada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,3.5,286
+S0862,0.33608494267138395,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,8.0,309
+S0863,6.447390382349402,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,50,7.0,157
+S0864,3.2233175473777114,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,40,15.0,157
+S0865,57.5323904358635,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,8.0,251
+S0866,4.301586267699021,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,8.0,250
+S0867,4.977063973839963,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,90,14.0,172
+S0868,2.3088467472980687,Carretera,Con pavimento,Asfalto,3,-1,Si,Federal,Fed.,Un sentido,90,10.5,121
+S0869,1.4881574553220946,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,10.0,193
+S0870,0.8722321887551793,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,10.0,106
+S0871,2.427490556582687,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,10.0,9
+S0872,39.94623264903839,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,270
+S0873,4.084192605600767,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,9.0,7
+S0874,1.7823051735792936,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,8.0,142
+S0875,2.0410641375992262,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,11
+S0876,0.7601996783361877,Carretera,Con pavimento,Asfalto,4,0,No,Federal,Fed.,Dos sentidos,60,14.0,457
+S0877,0.45420439523206,Carretera,Con pavimento,Asfalto,4,0,No,Federal,Fed.,Dos sentidos,60,14.0,456
+S0878,2.183204664740119,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,141
+S0879,2.4551339422030107,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,40,9.0,214
+S0880,2.5553354237591317,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,40,9.0,400
+S0881,1.8952117750410091,Carretera,Con pavimento,Asfalto,2,1,No,Federal,Fed.,Un sentido,50,9.0,206
+S0882,4.4939304604752115,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,40,9.0,138
+S0883,5.530087595204478,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,428
+S0884,5.6034896594257955,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,429
+S0885,0.30756025504586026,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,8.0,545
+S0886,4.590126017996477,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,402
+S0887,6.780733422471398,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,50,9.0,138
+S0888,0.8562368340176401,Carretera,Con pavimento,Asfalto,2,2,No,Federal,Fed.,Un sentido,40,9.0,475
+S0889,3.2824622701126263,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,8.0,348
+S0890,1.0120262188359106,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,8.0,6
+S0891,136.3900122719956,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,9
+S0892,4.944461392131237,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,5
+S0893,0.5311071941101511,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,4
+S0894,0.2607502408638873,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,7.0,204
+S0895,0.9898759604215128,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,231
+S0896,240.63763822100856,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,117
+S0897,2.046875037879805,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,7.0,120
+S0898,62.15595848270971,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,566
+S0899,3.951856076016367,Enlace,N/A,N/A,1,1,No,N/A,N/A,Un sentido,30,4.0,17
+S0900,0.3613682163343138,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,7.0,27
+S0901,1.3790090311171643,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,10
+S0902,10.511189449336955,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,2
+S0903,1.6965877279354338,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,102
+S0904,4.210282374727709,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,8.0,268
+S0905,0.9058751924540263,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,112
+S0906,75.86736035402883,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,6.0,12
+S0907,1.2418268438318643,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,83
+S0908,10.948772389476611,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,6.0,11
+S0909,9.368525359799875,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,6
+S0910,3.32408010181815,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Pue.,Dos sentidos,80,10.0,6
+S0911,0.8358360133107788,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Pue.,Dos sentidos,80,10.0,5
+S0912,41.94615216781692,Enlace,N/A,N/A,1,0,No,N/A,N/A,Un sentido,30,4.0,83
+S0913,5.963533851243579,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Pue.,Dos sentidos,80,10.0,83
+S0914,5.567521319869766,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,90,9.0,335
+S0915,8.086859684361363,Carretera,Con pavimento,Asfalto,3,0,No,Federal,Fed.,Un sentido,90,9.0,269
+S0916,4.136730862146825,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,9.0,43
+S0917,2.0893701831964537,Retorno U,N/A,N/A,2,0,No,N/A,N/A,Un sentido,20,8.0,18
+S0918,244.58853535928523,Calle,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,30,3.5,19
+S0919,1.704744707806822,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,40,9.0,69
+S0920,0.22226511954808387,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,40,9.0,105
+S0921,0.029753872734825142,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,40,9.0,7
+S0922,1.8344308806562968,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,359
+S0923,0.6611394792714912,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,6.0,47
+S0924,157.83306683269254,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,8.0,10
+S0925,1.8708458482897492,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,7
+S0926,4.2651444142526955,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,8
+S0927,128.4920003242767,Carretera,Con pavimento,Concreto,3,0,No,Federal,Fed.,Un sentido,60,10.5,48
+S0928,497.60845101475473,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,28
+S0929,2.092337646817179,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,9
+S0930,2.325060249654307,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,81
+S0931,1.6653529977054147,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,8.0,84
+S0932,2.9196292257704437,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,8.0,98
+S0933,3.8563577103704523,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,8.0,205
+S0934,0.9462283692978338,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,50,8.0,53
+S0935,1.6627479617684524,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,2
+S0936,1.5376935242816259,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,26
+S0937,0.976104125464107,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,110,7.0,7
+S0938,4.9887754802029045,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,12.0,17
+S0939,0.4168412539808815,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,12.0,6
+S0940,0.46575526915903803,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,8.0,9
+S0941,21.737119287519757,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,8.0,2
+S0942,2.5978193585736986,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,12.0,8
+S0943,14.972518123700022,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,7.0,81
+S0944,1.9782194210870683,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,8.0,11
+S0945,1.1564909788367492,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,6.0,8
+S0946,8.074195878018868,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Dos sentidos,80,16.0,46
+S0947,1.3508052129683614,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,6.0,111
+S0948,0.3067999393125206,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,6.0,8
+S0949,7.092134464680436,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,8.0,10
+S0950,2.7538498440106793,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,100,7.0,1
+S0951,1.7786644311710773,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,100,7.0,9
+S0952,3.0376644500893626,Enlace,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,20,8.0,14
+S0953,95.5263291950236,Calle,N/A,N/A,2,1,No,N/A,N/A,Dos sentidos,30,7.0,18
+S0954,2.621780965484626,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,12.0,5
+S0955,3.5597772426455485,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,100,12.0,14
+S0956,3.925688728727594,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,2
+S0957,1.7877344725552982,Carretera,Con pavimento,Asfalto,4,0,No,Federal,Fed.,Dos sentidos,80,14.0,19
+S0958,1.5936127363583983,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,6.0,140
+S0959,0.17587494807687104,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,13
+S0960,90.45666685123797,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,16
+S0961,3.2664197845723986,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,110,7.0,4
+S0962,3.1213291785908863,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,110,7.0,1
+S0963,113.89220769028164,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,7.0,23
+S0964,3.8995601010420824,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,12
+S0965,3.9814524120219836,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,20
+S0966,0.26962551162811105,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,11.0,105
+S0967,4.745638419001856,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,178
+S0968,4.414698601921445,Boulevard,N/A,N/A,4,0,No,N/A,N/A,Un sentido,50,14.0,544
+S0969,1.9538428065374838,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,8.0,10
+S0970,9.365874786763897,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,8.0,14
+S0971,0.9754984025988472,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,90,10.0,8
+S0972,4.363928046886815,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,70,10.0,22
+S0973,42.393595209982074,Enlace,N/A,N/A,1,1,No,N/A,N/A,Un sentido,30,4.0,16
+S0974,0.9297153174956092,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,110,10.0,4
+S0975,0.230510188147749,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,100,8.0,21
+S0976,0.5023883473693358,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,139
+S0977,2.4856915775689306,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,4
+S0978,0.10588783587155025,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,24
+S0979,5.15072581801386,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,8
+S0980,4.092590110437385,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,323
+S0981,4.1397588404106465,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,8.0,402
+S0982,37.03558786718764,Calle,N/A,N/A,4,0,No,N/A,N/A,Dos sentidos,30,15.0,420
+S0983,20.519997102373008,Privada,N/A,N/A,1,0,No,N/A,N/A,Dos sentidos,10,3.5,190
+S0984,2.7416762330678557,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,80,7.0,21
+S0985,5.6826558999813095,Avenida,N/A,N/A,6,0,No,N/A,N/A,Dos sentidos,50,21.0,11
+S0986,1.676820365032991,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,7.0,375
+S0987,14.051946824659108,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,11
+S0988,1.952183217156256,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,6.0,37
+S0989,3.7719729440396375,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,49
+S0990,0.14923804759431364,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,6.0,278
+S0991,0.10219910757170435,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,7
+S0992,6.533780809061152,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,5
+S0993,29.844406709118203,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,8.0,360
+S0994,21.76709629101978,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,6.0,433
+S0995,23.7004483172136,Privada,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,10,8.0,214
+S0996,3.6803463487559913,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,7.0,223
+S0997,5.088320193291007,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,11.0,129
+S0998,4.858869767284004,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,11.0,16
+S0999,25.10692414829452,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,6.0,13
+S1000,5.50961794898535,Enlace,N/A,N/A,1,0,No,N/A,N/A,Un sentido,40,4.0,23
+S1001,1.3636461557233752,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,11.0,0
+S1002,3.3981028235419535,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,11.0,300
+S1003,3.07639696925776,Carretera,Con pavimento,Asfalto,2,1,Si,Estatal,Pue.,Un sentido,80,7.0,64
+S1004,3.1294220144150753,Carretera,Con pavimento,Asfalto,2,2,Si,Estatal,Pue.,Un sentido,50,7.0,452
+S1005,3.63589277383835,Carretera,Con pavimento,Asfalto,2,2,Si,Estatal,Pue.,Un sentido,50,7.0,250
+S1006,4.941287366968331,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,547
+S1007,2.126006769555897,Carretera,Con pavimento,Asfalto,4,1,Si,Federal,Fed.,Un sentido,110,20.0,314
+S1008,15.847256395540112,Carretera,Con pavimento,Asfalto,4,1,Si,Federal,Fed.,Un sentido,110,20.0,288
+S1009,3.603746877744755,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,11.0,61
+S1010,8.440390093141701,Boulevard,N/A,N/A,3,0,No,N/A,N/A,Un sentido,50,10.5,462
+S1011,28.992908768330242,Camino,Sin pavimento,Grava,N/A,0,No,N/D,N/D,Dos sentidos,10,6.0,154
+S1012,3.418770989576945,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,60,7.0,92
+S1013,6.622324582643964,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,70,7.0,34
+S1014,23.95741094792295,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,134
+S1015,5.971608707647778,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Un sentido,90,7.0,32
+S1016,0.5108421393797471,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,11.0,17
+S1017,1.331786140175562,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,12.0,52
+S1018,1.804675764419,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,122
+S1019,0.01815612786514439,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,15
+S1020,1.7873828044693671,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,5
+S1021,3.236466217357248,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,8.0,1
+S1022,0.6303260274430793,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,5
+S1023,2.032605074932731,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,175
+S1024,1.611139825241861,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,7
+S1025,2.9526010711465855,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,8.0,1
+S1026,2.1725370607774916,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,80,8.0,1
+S1027,1.2954318124111983,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,40,6.0,9
+S1028,5.229701809684215,Boulevard,N/A,N/A,2,0,No,N/A,N/A,Un sentido,50,7.0,388
+S1029,4.64645366015874,Calle,N/A,N/A,2,1,No,N/A,N/A,Dos sentidos,30,7.0,425
+S1030,0.9014201760137036,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,6.0,11
+S1031,4.61782379992643,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,6.0,4
+S1032,2.1278470622962793,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,8.0,13
+S1033,0.3520977524073673,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,8.0,2
+S1034,3.0101891324646632,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,8.0,12
+S1035,1.2864205448666541,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,8.0,4
+S1036,3.707654794149845,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,8.0,43
+S1037,2.029365933260816,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,8.0,109
+S1038,0.5138871057357485,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,8.0,8
+S1039,2.1789663230999676,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,8.0,2
+S1040,0.4124748406017076,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,9.0,9
+S1041,1.9695025477056323,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,9.0,19
+S1042,2.1268706094042797,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,8.0,6
+S1043,4.794230293945547,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,70,8.0,8
+S1044,4.736317757797271,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,7.0,6
+S1045,1.573478850426047,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,60,6.0,30
+S1046,0.9657652689232067,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,8.0,4
+S1047,5.060373112716223,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,8.0,1
+S1048,1.471237764075329,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,8.0,1
+S1049,1.3550206054684646,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,8.0,4
+S1050,2.7783211560616,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Un sentido,80,6.0,27
+S1051,0.4561806362030962,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,50,6.0,4
+S1052,1.0201156947395487,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,6.0,6
+S1053,0.90350404155016,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,60,6.0,9
+S1054,12.674303056915322,Carretera,Con pavimento,Asfalto,2,1,No,Estatal,Pue.,Dos sentidos,60,6.0,18
+S1055,2.007988160973699,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,50,7.0,238
+S1056,9.705771000653495,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Pue.,Un sentido,80,9.0,302
+S1057,3.4637135684681737,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Pue.,Un sentido,70,8.5,149
+S1058,0.7980600175098411,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Dos sentidos,80,12.0,302
+S1059,142.6180455612676,Enlace,N/A,N/A,1,1,No,N/A,N/A,Un sentido,20,3.5,19
+S1060,0.7329088207552642,Carretera,Con pavimento,Asfalto,2,1,Si,Federal,Fed.,Dos sentidos,80,12.0,139
+S1061,1.8352771825820378,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,8.0,3
+S1062,0.3080603021769351,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,8.0,1
+S1063,1.3280549690971366,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,9.0,7
+S1064,1.2811399882995247,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,90,9.0,0
+S1065,0.28365341786634135,Prolongación,N/A,N/A,4,0,No,N/A,N/A,Dos sentidos,50,14.0,217
+S1066,0.5951640657621016,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,6.0,12
+S1067,0.9727558309591124,Carretera,Con pavimento,Asfalto,2,0,No,Estatal,Pue.,Dos sentidos,80,6.0,2
+S1068,1.6627132385674142,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,50
+S1069,44.81415444915486,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,2
+S1070,2.189518515520078,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,4
+S1071,2.3337410049426484,Carretera,Con pavimento,Asfalto,2,0,No,Federal,Fed.,Dos sentidos,100,8.0,10
+S1072,1.2959550654080318,Avenida,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,40,8.0,15
+S1073,0.6403437883008934,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Tlax.,Dos sentidos,80,8.0,20
+S1074,5.979745310289551,Carretera,Con pavimento,Asfalto,2,0,Si,Estatal,Pue.,Dos sentidos,80,8.0,5

@@ -35,3 +35,16 @@ timestamp,step,decision,reason
 2026-10-04T14:25:50,s01,Plaza 'Caminero' a 1628 m de un CTN; se anota en ese CTN,min_gap_m: no se duplica el punto
 2026-10-04T14:26:18,s01b,"Atributos RNC usados (ctn): ['TIPO_VIAL', 'COND_PAV', 'RECUBRI', 'CARRILES', 'NIVEL', 'PEAJE', 'ADMINISTRA', 'JURISDI', 'CIRCULA', 'VELOCIDAD', 'ANCHO']",Detectados por nombre de campo
 2026-10-04T14:27:48,s04,Municipio asignado por localidad más cercana,No se encontró Marco Geoestadístico; puede fallar cerca de límites municipales
+2026-10-04T14:49:24,s00,1928 filas duplicadas entre PDF de distintos estados eliminadas,Mismo tramo publicado en dos archivos estatales
+2026-10-04T14:49:25,s00,Agregación a sitio: SC1+SC2 (incluye plazas TE=2); SC0 directo; Lateral+Central sumadas; mediana entre TE,Ver docstring de to_sites()
+2026-10-04T14:50:28,s00,728 filas duplicadas entre PDF de distintos estados eliminadas,Mismo tramo publicado en dos archivos estatales
+2026-10-04T14:50:29,s00,Agregación a sitio: SC1+SC2 (incluye plazas TE=2); SC0 directo; Lateral+Central sumadas; mediana entre TE,Ver docstring de to_sites()
+2026-10-04T14:53:13,s00,Edición SICT 2026 seleccionada; años de aforo extraídos: [2025],Se excluyen otras ediciones presentes en 01_RAW para evitar mezclar periodos
+2026-10-04T14:53:13,s00,728 filas duplicadas entre PDF de distintos estados eliminadas,Mismo tramo publicado en dos archivos estatales
+2026-10-04T14:53:14,s00,Agregación a sitio: SC1+SC2 (incluye plazas TE=2); SC0 directo; Lateral+Central sumadas; mediana entre TE,Ver docstring de to_sites()
+2026-10-04T14:53:15,s08,"Tabla de modelado: 1075 sitios, 2 features, 23 en prueba externa",Target log_tdpa; prueba externa = sitios sobre MEX-095D
+2026-10-04T14:57:08,s01b,"Atributos RNC usados (sites): ['TIPO_VIAL', 'COND_PAV', 'RECUBRI', 'CARRILES', 'NIVEL', 'PEAJE', 'ADMINISTRA', 'JURISDI', 'CIRCULA', 'VELOCIDAD', 'ANCHO']",Detectados por nombre de campo
+2026-10-04T14:57:24,s01b,3 puntos a más de 500 m de un tramo RNC (sites),Revisar coordenadas o cobertura de la caja leída
+2026-10-04T14:57:39,s04,Municipio asignado por localidad más cercana,No se encontró Marco Geoestadístico; puede fallar cerca de límites municipales
+2026-10-04T14:57:39,s05,Municipios sin registro agrícola 2024: ['15058'],"Puede ser municipio urbano (p. ej. alcaldías CDMX) -> faltante estructural, no aleatorio"
+2026-10-04T14:57:40,s08,"Tabla de modelado: 1075 sitios, 36 features, 23 en prueba externa",Target log_tdpa; prueba externa = sitios sobre MEX-095D
