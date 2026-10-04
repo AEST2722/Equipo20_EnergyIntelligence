@@ -9,8 +9,13 @@ crs:
 rnc:
   gpkg_path: "01_RAW/road_network/"          # se toma el primer .gpkg encontrado (o .shp)
   road_layer: null                           # null = autodetectar capa de red vial
-  route_field: null                          # null = autodetectar campo con código de ruta
-  route_pattern: "95D"                       # patrón del código de la autopista (95D evita confundir con la libre 95); confirmar con --inspect
+  route_field: null                          # (modo antiguo) campo con código de ruta; se ignora si hay route_match
+  route_pattern: "95D"                       # (modo antiguo) patrón "contiene"; se ignora si hay route_match
+  # Regla exacta para identificar la autopista en la RNC 2025 (verificada con --inspect el 2026-10-03):
+  # la libre y la cuota comparten CODIGO=95; la autopista se distingue por PEAJE=Si.
+  route_match:
+    CODIGO: ["95"]
+    PEAJE: ["Si"]
   origin_lonlat: [-99.1660, 19.2880]         # inicio Viaducto Tlalpan / caseta (ajustar y documentar)
   destination_lonlat: [-99.8650, 16.8650]    # Acapulco (ajustar y documentar)
   snap_tolerance_m: 2000                     # distancia máx. para pegar origen/destino a la red

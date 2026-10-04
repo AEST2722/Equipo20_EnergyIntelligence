@@ -91,6 +91,29 @@ def detect_route_fields(gdf: gpd.GeoDataFrame, pattern: str, forced: str | None)
     return fields
 
 
+def route_match_mask(gdf: gpd.GeoDataFrame, cfg: dict) -> tuple[np.ndarray, str]:
+    """Devuelve (máscara de tramos de la ruta, descripción de la regla).
+    Modo preferido: rnc.route_match = {campo: [valores]} con coincidencia EXACTA en todos los campos.
+    Modo antiguo: rnc.route_pattern contenido en cualquier campo de texto."""
+    rule = cfg["rnc"].get("route_match")
+    if rule:
+        mask = np.ones(len(gdf), dtype=bool)
+        for field, values in rule.items():
+            if field not in gdf.columns:
+                sys.exit(f"El campo '{field}' de route_match no existe en la RNC. Columnas: {list(gdf.columns)}")
+            vals = {str(v).strip().lower() for v in values}
+            mask &= gdf[field].astype(str).str.strip().str.lower().isin(vals).to_numpy()
+        return mask, " y ".join(f"{k} en {v}" for k, v in rule.items())
+    pattern = cfg["rnc"]["route_pattern"]
+    fields = detect_route_fields(gdf, pattern, cfg["rnc"]["route_field"])
+    if not fields:
+        sys.exit(f"Ningún campo contiene '{pattern}'. Corre --inspect y define rnc.route_match en config.yaml.")
+    mask = np.zeros(len(gdf), dtype=bool)
+    for f in fields:
+        mask |= gdf[f].astype(str).str.contains(pattern, case=False, na=False).to_numpy()
+    return mask, f"campos {fields} contienen '{pattern}'"
+
+
 def inspect(cfg: dict) -> None:
     path = locate_rnc()
     print(f"Archivo RNC: {path}\n")
@@ -101,11 +124,18 @@ def inspect(cfg: dict) -> None:
     gdf = read_bbox(path, road, bbox, cfg["crs"]["geographic"])
     print(f"Capa de red vial: {road} | tramos en la caja del corredor: {len(gdf)}")
     print("Columnas:", list(gdf.columns), "\n")
-    pat = cfg["rnc"]["route_pattern"]
-    for c in detect_route_fields(gdf, pat, None):
-        vals = gdf.loc[gdf[c].astype(str).str.contains(pat, case=False, na=False), c]
-        print(f"Campo '{c}' contiene '{pat}':", vals.value_counts().head(10).to_dict())
-    print("\nSi la autodetección no es correcta, fija rnc.road_layer y rnc.route_field en config.yaml.")
+    if cfg["rnc"].get("route_match"):
+        mask, desc = route_match_mask(gdf, cfg)
+        print(f"Regla de ruta: {desc} -> {mask.sum()} tramos")
+        name_col = "NOMBRE" if "NOMBRE" in gdf.columns else gdf.columns[0]
+        print("Nombres de los tramos que cumplen la regla:")
+        print(gdf.loc[mask, name_col].value_counts().head(15).to_string())
+    else:
+        pat = cfg["rnc"]["route_pattern"]
+        for c in detect_route_fields(gdf, pat, None):
+            vals = gdf.loc[gdf[c].astype(str).str.contains(pat, case=False, na=False), c]
+            print(f"Campo '{c}' contiene '{pat}':", vals.value_counts().head(10).to_dict())
+    print("\nSi la regla no es correcta, ajusta rnc.route_match en config.yaml.")
 
 
 def corridor_bbox(cfg: dict, margin_deg: float = 0.3) -> tuple:
@@ -175,14 +205,9 @@ def main() -> None:
     roads = roads.explode(index_parts=False).reset_index(drop=True)
     roads = roads[roads.geometry.notna() & ~roads.geometry.is_empty]
 
-    pattern = cfg["rnc"]["route_pattern"]
-    fields = detect_route_fields(roads, pattern, cfg["rnc"]["route_field"])
-    if not fields:
-        sys.exit(f"Ningún campo contiene '{pattern}'. Corre --inspect y fija rnc.route_field.")
-    match = np.zeros(len(roads), dtype=bool)
-    for f in fields:
-        match |= roads[f].astype(str).str.contains(pattern, case=False, na=False).to_numpy()
-    log_decision("s01", f"Campos de ruta usados: {fields}; patrón '{pattern}'",
+    match, rule_desc = route_match_mask(roads, cfg)
+    pattern = rule_desc
+    log_decision("s01", f"Regla de ruta: {rule_desc} ({match.sum()} tramos)",
                  "Corredor definido por atributo + continuidad topológica (guía §3)")
 
     G = build_graph(roads, pd.Series(match))
@@ -207,9 +232,9 @@ def main() -> None:
     total = line.length
     route_len = sum(l for l, r in edges if r)
     share = route_len / total
-    log_decision("s01", f"Longitud corredor {total/1000:.1f} km; {share:.1%} sobre tramos '{pattern}'",
+    log_decision("s01", f"Longitud corredor {total/1000:.1f} km; {share:.1%} sobre tramos de la regla ({pattern})",
                  "Porcentaje bajo indica que el patrón/campo no captura bien la ruta")
-    print(f"Corredor: {total/1000:.1f} km | {share:.1%} sobre tramos con código '{pattern}'")
+    print(f"Corredor: {total/1000:.1f} km | {share:.1%} sobre tramos que cumplen la regla ({pattern})")
 
     INTERIM.mkdir(exist_ok=True)
     gpd.GeoDataFrame({"corridor_id": [cfg["corridor_id"]], "length_km": [total / 1000],
