@@ -1,47 +1,47 @@
 ctn_id,road_dist_m,road_tipo_vial,road_cond_pav,road_recubri,road_carriles,road_nivel,road_peaje,road_administra,road_jurisdi,road_circula,road_velocidad,road_ancho,n_intersections_1km
-CTN_000,0.03537919849241341,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,276
-CTN_001,0.004202226557548594,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,90,10.5,257
-CTN_002,0.014241735474591188,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,7.0,20
-CTN_003,0.013457742758061483,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,7.0,7
-CTN_004,0.032176136164198746,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
-CTN_005,0.03230530967674148,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,245
-CTN_006,0.040678386145189996,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,5
-CTN_007,0.028625507453488713,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,3
-CTN_008,0.04255690721727067,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,5
-CTN_009,0.03569852546884153,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,85
-CTN_010,1.7621335402155647e-05,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,117
-CTN_011,0.003788849627531449,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,88
-CTN_012,0.006123708610857098,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,360
-CTN_013,0.009565227813323132,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,137
-CTN_014,0.05387358297238579,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,36
-CTN_015,0.0317601927980931,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,110,12.0,5
-CTN_016,0.03906082392867289,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,2
-CTN_017,0.007366031936817134,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,60
-CTN_018,0.008418055148809837,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,0
-CTN_019,0.0009859143778250038,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,12
-CTN_020,0.007225122770682749,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
-CTN_021,0.012104145608069092,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_022,0.04572908051700635,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,23
-CTN_023,0.022692178523947525,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_024,0.0412185185462545,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
-CTN_025,0.016183309560638515,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,11
-CTN_026,0.027362019013684,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
-CTN_027,0.024048550379700516,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
-CTN_028,0.022051363773150152,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_029,0.06053423938148335,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_030,0.01441720464023081,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
-CTN_031,0.022203337205773548,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
-CTN_032,0.012871215494954496,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,7.0,758
-CTN_033,0.002418992822942395,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,2
-CTN_034,0.008275249450747665,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,110,14.0,16
-CTN_035,0.031847812483667214,Carretera,Con pavimento,Asfalto,2,1,Si,Federal,Fed.,Un sentido,110,7.0,44
-CTN_036,0.028558753983608073,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_037,0.029325974113486634,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,62
-CTN_038,0.02024922096505637,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,5
-CTN_039,0.040559674538915964,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_040,0.01208734349024285,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_041,0.00477294666086363,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_042,0.03975115272618617,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
-CTN_043,0.03153313906262158,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,32
-CTN_044,0.05488946867734533,Avenida,N/A,N/A,2,-1,Si,N/A,N/A,Un sentido,40,7.0,736
-CTN_045,0.02702594822140841,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,484
+CTN_000,0.0353791982808922,Calle,N/A,N/A,2,0,No,N/A,N/A,Un sentido,30,7.0,276
+CTN_001,0.004202227310001394,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,90,10.5,257
+CTN_002,0.014241735006188218,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,7.0,20
+CTN_003,0.01345774296799074,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,90,7.0,7
+CTN_004,0.03217613672181075,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
+CTN_005,0.032305309468492784,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,245
+CTN_006,0.04067838603857055,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,5
+CTN_007,0.02862550800038478,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,3
+CTN_008,0.04255690775847121,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,10.0,5
+CTN_009,0.035698525430660405,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,7.0,85
+CTN_010,1.762146067365051e-05,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,117
+CTN_011,0.003788849660352144,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,88
+CTN_012,0.006123708451009386,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,360
+CTN_013,0.009565227093291691,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,137
+CTN_014,0.05387358204128628,Carretera,Con pavimento,Asfalto,3,0,Si,Federal,Fed.,Un sentido,110,9.0,36
+CTN_015,0.03176019256160971,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,110,12.0,5
+CTN_016,0.03906082397765825,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,2
+CTN_017,0.007366030896140318,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,60
+CTN_018,0.008418055575154435,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,0
+CTN_019,0.000985914328371366,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,6.0,12
+CTN_020,0.0072251227466763384,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
+CTN_021,0.012104145408221415,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_022,0.045729080792965664,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,23
+CTN_023,0.022692178527728864,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_024,0.041218518717605776,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
+CTN_025,0.016183310610282477,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,11
+CTN_026,0.027362019329203346,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
+CTN_027,0.02404855015813515,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
+CTN_028,0.02205136382326575,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_029,0.06053423929474933,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_030,0.014417204386727394,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
+CTN_031,0.022203337367951315,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,1
+CTN_032,0.012871215580378032,Avenida,N/A,N/A,2,0,No,N/A,N/A,Un sentido,40,7.0,758
+CTN_033,0.002418993398345111,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,2
+CTN_034,0.008275249480837642,Carretera,Con pavimento,Asfalto,4,0,Si,Federal,Fed.,Un sentido,110,14.0,16
+CTN_035,0.03184781299064979,Carretera,Con pavimento,Asfalto,2,1,Si,Federal,Fed.,Un sentido,110,7.0,44
+CTN_036,0.02855875378231887,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_037,0.02932597402622535,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,62
+CTN_038,0.020249220698147278,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,5
+CTN_039,0.040559674811727564,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_040,0.012087344682252827,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_041,0.004772946435399134,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_042,0.039751152758922874,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,0
+CTN_043,0.031533138546199733,Carretera,Con pavimento,Asfalto,2,0,Si,Federal,Fed.,Un sentido,110,7.0,32
+CTN_044,0.0548894698306575,Avenida,N/A,N/A,2,-1,Si,N/A,N/A,Un sentido,40,7.0,736
+CTN_045,0.02702594843624879,Calle,N/A,N/A,2,0,No,N/A,N/A,Dos sentidos,30,8.0,484

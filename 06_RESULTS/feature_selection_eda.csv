@@ -30,10 +30,18 @@ prectotcorr_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,m
 t2m_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
 t2m_max_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
 ws10m_seasonal_amplitude,descartada: redundante (|rho|>0.9),D,NASA POWER,malla ~0.5° x 0.625°
-pop_5km,seleccionada,D,INEGI Censo 2020 ITER,buffer 5 km
+denue_n_est_5km,seleccionada,D,INEGI DENUE,buffer 5 km (radio API)
+denue_n_food_lodging_5km,descartada: redundante (|rho|>0.9),D,INEGI DENUE,buffer 5 km (radio API)
+denue_n_retail_5km,descartada: redundante (|rho|>0.9),D,INEGI DENUE,buffer 5 km (radio API)
+denue_n_gas_stations_5km,seleccionada,D,INEGI DENUE,buffer 5 km (radio API)
+denue_n_auto_repair_5km,descartada: redundante (|rho|>0.9),D,INEGI DENUE,buffer 5 km (radio API)
+denue_n_large_est_5km,descartada: redundante (|rho|>0.9),D,INEGI DENUE,buffer 5 km (radio API)
+denue_sector_shannon_5km,seleccionada,D,INEGI DENUE,buffer 5 km (radio API)
+denue_n_distinct_activities_5km,descartada: redundante (|rho|>0.9),D,INEGI DENUE,buffer 5 km (radio API)
+pop_5km,descartada: redundante (|rho|>0.9),D,INEGI Censo 2020 ITER,buffer 5 km
 n_localities_5km,seleccionada,D,INEGI Censo 2020 ITER,buffer 5 km
 rural_pop_share_5km,seleccionada,D,INEGI Censo 2020 ITER,buffer 5 km
-pop_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km
+pop_10km,descartada: redundante (|rho|>0.9),D,INEGI Censo 2020 ITER,buffer 10 km
 n_localities_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km
 rural_pop_share_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km
 schooling_mean_10km,seleccionada,D,INEGI Censo 2020 ITER,buffer 10 km

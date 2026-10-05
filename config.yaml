@@ -40,7 +40,7 @@ censo:
   rural_threshold: 2500                      # localidad rural INEGI < 2,500 hab.
 
 dgsiap:
-  year: 2024                                 # cambiar a 2025 cuando el cierre definitivo esté disponible
+  year: 2025                                 # se encontro el definitivo 2025
 
 sict:
   max_top_distance_m: 25000                  # si el TOP más cercano está más lejos, TDPA queda como faltante
