@@ -91,4 +91,4 @@ src/               scripts s01–s07 y utilidades
 | División aleatoria con R² alto | GroupKFold por bloques de 25 km y por carretera; prueba externa en la MEX-095D; comparación random vs. espacial |
 | Confundir predicción con decisión | Lenguaje de caracterización en todos los productos |
 
-Todo CTN sale con `geometry_status = RNC_SNAPPED` (criterio de salida de la guía §3).
+Todo CTN sale con `geometry_status = RNC_SNAPPED` (criterio de salida de la guía §3) .
