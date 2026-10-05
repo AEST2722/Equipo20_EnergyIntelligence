@@ -76,7 +76,9 @@ def main() -> None:
     frames = []
     for _, r in pts.iterrows():
         pid = r[idc]
-        f = out_dir / f"{pid}.json"
+        # El nombre incluye las coordenadas: si los IDs se reasignan (p. ej. al agregar estados),
+        # nunca se reutiliza la respuesta de otro lugar.
+        f = out_dir / f"{pid}_{r.lat:.5f}_{r.lon:.5f}.json"
         if not f.exists():  # no re-descargar: RAW es inmutable
             payload = fetch(r.lat, r.lon, cfg)
             f.write_text(json.dumps(payload), encoding="utf-8")

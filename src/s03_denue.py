@@ -39,6 +39,40 @@ def get_token(var: str) -> str:
     return tok
 
 
+def fetch_denue(lat: float, lon: float, radius: int, token: str, attempts: int = 4):
+    """Consulta Buscar con reintentos. Devuelve (lista, estado) o (None, estado) si falla.
+    - HTTP 200 con lista JSON -> éxito (lista vacía = 0 establecimientos reales).
+    - HTTP 200 con el texto "No hay resultados." -> 0 establecimientos reales.
+    - HTTP 200 con cuerpo vacío -> INEGI no devolvió registros; se trata como 0 tras confirmar con reintentos.
+    - Cualquier otro caso (error HTTP, HTML, texto) -> fallo; no se guarda para reintentar después."""
+    url = URL_TMPL.format(lat=lat, lon=lon, r=radius, token=token)
+    status = "sin respuesta"
+    empty_bodies = 0
+    for k in range(attempts):
+        try:
+            resp = requests.get(url, timeout=180)
+            status = f"HTTP {resp.status_code}"
+            if resp.status_code == 200:
+                body = resp.text.strip()
+                # INEGI responde en texto plano "No hay resultados." cuando no hay establecimientos en el radio:
+                # es un cero real (verificado el 2026-10-04 en tramos de montaña de la MEX-095D).
+                if "no hay resultados" in body.lower():
+                    return [], "HTTP 200 'No hay resultados' (cero real)"
+                if body == "":
+                    empty_bodies += 1
+                    if empty_bodies >= 2:          # vacío confirmado dos veces -> sin establecimientos
+                        return [], "HTTP 200 vacío (confirmado)"
+                else:
+                    data = resp.json()
+                    if isinstance(data, list):
+                        return data, status
+                    status = f"HTTP 200 no es lista: {str(data)[:80]}"
+        except (requests.RequestException, ValueError) as e:
+            status = f"{type(e).__name__}"
+        time.sleep(5 * (k + 1))
+    return None, status
+
+
 def scian_from_clee(clee: str) -> str:
     """La CLEE codifica entidad(2) + municipio(3) + SCIAN(6) + ...
     Si el formato no cuadra, se devuelve vacío y queda como faltante."""
@@ -62,30 +96,39 @@ def main() -> None:
     out_dir = RAW / "denue"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    recs = []
+    recs, failed = [], []
     for _, r in ctn.iterrows():
-        f = out_dir / f"{r.ctn_id}.json"
+        # El nombre incluye las coordenadas para no reutilizar respuestas de otro lugar si cambian los IDs
+        f = out_dir / f"{r.ctn_id}_{r.lat:.5f}_{r.lon:.5f}.json"
         if not f.exists():
-            url = URL_TMPL.format(lat=r.lat, lon=r.lon, r=radius, token=token)
-            resp = requests.get(url, timeout=120)
-            data = resp.json() if resp.status_code == 200 else []
+            data, status = fetch_denue(r.lat, r.lon, radius, token)
+            if data is None:
+                # Fallo del servidor: NO se guarda nada, para reintentar en la siguiente corrida
+                failed.append(r.ctn_id)
+                print(f"{r.ctn_id}: FALLÓ la consulta ({status}); se reintentará al volver a correr")
+                continue
             f.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
             # El token NO se registra: se guarda la URL sin él.
             log_download("INEGI DENUE API Buscar",
                          URL_TMPL.format(lat=r.lat, lon=r.lon, r=radius, token="<TOKEN>"),
                          str(f.relative_to(ROOT)), version="DENUE vigente a la fecha de consulta",
                          license_="Términos de libre uso de la información del INEGI",
-                         notes=f"HTTP {resp.status_code}; {len(data) if isinstance(data, list) else 0} registros")
+                         notes=f"{status}; {len(data)} registros")
             time.sleep(1)
         data = json.loads(f.read_text(encoding="utf-8"))
-        if isinstance(data, list):
-            for e in data:
-                recs.append({"ctn_id": r.ctn_id, **e})
-        print(f"{r.ctn_id}: {len(data) if isinstance(data, list) else 0} establecimientos")
+        for e in data:
+            recs.append({"ctn_id": r.ctn_id, **e})
+        print(f"{r.ctn_id}: {len(data)} establecimientos")
+
+    if failed:
+        print(f"\n{len(failed)} puntos fallaron: {failed}. Vuelve a correr el mismo comando para reintentarlos "
+              "(los ya descargados no se repiten).")
 
     est = pd.DataFrame(recs)
     if est.empty:
         raise SystemExit("DENUE no devolvió datos. Revisa token y conexión.")
+    if "Clase_actividad" not in est:
+        est["Clase_actividad"] = np.nan
     est["scian"] = est["CLEE"].map(scian_from_clee) if "CLEE" in est else ""
     est["sector_2d"] = est["scian"].str[:2]
     est.to_csv(INTERIM / out_name("denue_establecimientos", kind), index=False)
@@ -107,6 +150,11 @@ def main() -> None:
 
     out = est.groupby("ctn_id").apply(feats, include_groups=False).reset_index()
     out = ctn[["ctn_id"]].merge(out, on="ctn_id", how="left")
+    # Puntos consultados con éxito pero sin establecimientos -> 0 (valor real).
+    # Puntos que fallaron -> se quedan como faltantes (NaN), nunca como 0.
+    ok_zero = [c for c in ctn["ctn_id"] if c not in failed and c not in set(est["ctn_id"])]
+    count_cols = [c for c in out.columns if c.startswith("denue_n_")]
+    out.loc[out["ctn_id"].isin(ok_zero), count_cols] = 0
     # CTN sin registros: 0 establecimientos es un valor real, no faltante, SI la consulta fue exitosa.
     out.rename(columns={"ctn_id": idc}).to_csv(PROCESSED / out_name("features_denue", kind), index=False)
     print(f"Features DENUE: {out.shape}")
