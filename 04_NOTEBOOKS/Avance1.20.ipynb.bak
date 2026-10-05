@@ -10,7 +10,7 @@
     "· **Fuente vigente:** edición SICT 2026, observaciones de 2025\n",
     "· **Conjunto de prueba externa preliminar:** sitios de `MEX-095D`\n",
     "\n",
-    "Los PDFs oficiales 2026 se parsean a nivel de estación-sentido y se agregan por sitio; se conserva el año de aforo indicado en las tablas. La tabla actual contiene 1,075 TOP de cinco estados. Se integraron 79 features de RNC 2025, ITER 2020, SIAP 2024, NASA POWER (2015–2024) y DENUE (establecimientos a 5 km, consulta de octubre de 2026).\n",
+    "Los PDFs oficiales 2026 se parsean a nivel de estación-sentido y se agregan por sitio; se conserva el año de aforo indicado en las tablas. La tabla actual contiene 1,075 TOP de cinco estados. Se integraron 36 features de RNC 2025, ITER 2020 y SIAP 2024. NASA POWER para TOP y DENUE todavía no están integrados; los análisis y conclusiones se limitan a las fuentes presentes.\n",
     "\n",
     "**Planteamiento.** El TDPA observado por SICT es un objetivo supervisado de clase O: no se construye a partir de las entradas y no representa una etiqueta de “sitio ideal”. Se busca estimar el tránsito en CTN sin aforo con validación espacial y prueba externa en MEX-095D. La estimación caracteriza nodos Green Stop; no decide dónde construir."
    ]
@@ -1287,7 +1287,7 @@
    "metadata": {},
    "source": [
     "## 3. Features explicativas integradas\n",
-    "Se incluyen atributos de carretera, intersecciones (RNC), población y vivienda alrededor del sitio (Censo ITER), y actividad agrícola municipal (SIAP). También se incluyen clima y radiación solar (NASA POWER, malla regional de ~0.5°) y establecimientos económicos a 5 km (DENUE), agregados por sector SCIAN."
+    "Se incluyen atributos de carretera, intersecciones (RNC), población y vivienda alrededor del sitio (Censo ITER), y actividad agrícola municipal (SIAP). NASA POWER para TOP y DENUE están pendientes; su ausencia limita el alcance de estas asociaciones."
    ]
   },
   {
@@ -3525,10 +3525,8 @@
     "- Se integró la edición SICT 2026 con observaciones de 2025. La tabla reproducida tiene 1,075 sitios con TDPA en cinco estados; todas las observaciones corresponden a 2025.\n",
     "- La ruta MEX-095D aporta 23 sitios detectados como prueba externa preliminar. Confirmar cobertura espacial/ruta antes de fijar el conjunto de prueba final.\n",
     "- `log_tdpa` es un objetivo observado, no una etiqueta de idoneidad. El TDPA tiene asimetría 3.054; `ln(TDPA)` tiene asimetría -0.017 y su mediana es 9.299 (TDPA mediano: 10,924 veh/día). La transformación reduce la asimetría; no prueba normalidad por sí sola.\n",
-    "- La tabla tiene 79 features territoriales de RNC, Censo, SIAP, NASA POWER y DENUE. Las features más asociadas con `ln(TDPA)` son `denue_n_gas_stations_5km` (ρ=+0.68), `denue_n_large_est_5km` (ρ=+0.67), `denue_n_auto_repair_5km` (ρ=+0.64), `denue_n_distinct_activities_5km` (ρ=+0.64), `denue_n_retail_5km` (ρ=+0.63). Estas correlaciones son exploratorias y no sustituyen la validación espacial.\n",
-    "- **Recurso solar (NASA POWER):** la radiación media es alta y casi uniforme (4.64–6.03 kWh/m²/día, sólo 28 valores distintos en 1,075 sitios por la malla regional). En esta escala el recurso solar no diferencia sitios: es contexto regional, no medición en sitio, y sus variables deben reducirse a unas pocas para no actuar como identificador de zona.\n",
-    "- **Actividad económica (DENUE):** el número de establecimientos a 5 km tiene correlación de Spearman +0.63 con `ln(TDPA)`. El 1.8% de los sitios no tiene ningún establecimiento en 5 km (INEGI responde \"No hay resultados\"; es un cero real, no un faltante). En el corredor, los tramos de montaña entre los km 140 y 200 no tienen servicios a 5 km, lo que es relevante para la caracterización de nodos Green Stop.\n",
-    "- Antes del modelado: reducir las variables redundantes de NASA POWER, revisar faltantes, confirmar la asignación del corredor y ejecutar la selección de features dentro de cada fold espacial."
+    "- La tabla tiene 36 features territoriales de RNC, Censo e SIAP; NASA POWER y DENUE para los sitios de entrenamiento aún faltan. Las correlaciones reportadas son exploratorias y no sustituyen validación espacial.\n",
+    "- Antes del modelado, incorporar NASA/DENUE si están disponibles, revisar faltantes, confirmar la asignación del corredor y ejecutar la selección dentro de cada fold espacial."
    ]
   }
  ],

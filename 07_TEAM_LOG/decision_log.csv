@@ -48,3 +48,4 @@ timestamp,step,decision,reason
 2026-10-04T14:57:39,s04,Municipio asignado por localidad más cercana,No se encontró Marco Geoestadístico; puede fallar cerca de límites municipales
 2026-10-04T14:57:39,s05,Municipios sin registro agrícola 2024: ['15058'],"Puede ser municipio urbano (p. ej. alcaldías CDMX) -> faltante estructural, no aleatorio"
 2026-10-04T14:57:40,s08,"Tabla de modelado: 1075 sitios, 36 features, 23 en prueba externa",Target log_tdpa; prueba externa = sitios sobre MEX-095D
+2026-10-04T22:30:39,s08,"Tabla de modelado: 1075 sitios, 79 features, 23 en prueba externa",Target log_tdpa; prueba externa = sitios sobre MEX-095D

@@ -1,16 +1,17 @@
 # Data Quality Report – CTN_Master
 
-Generado: 2026-10-04T14:28:06 | Corredor: MEX-095D_CDMX_ACAPULCO | CRS de cálculo: EPSG:6372
+Generado: 2026-10-04T22:30:40 | Corredor: MEX-095D_CDMX_ACAPULCO | CRS de cálculo: EPSG:6372
 
-- CTN: 46 | Features: 82 | Fuentes integradas: features_road.csv, features_nasa_power.csv, features_censo.csv, features_dgsiap.csv
+- CTN: 46 | Features: 90 | Fuentes integradas: features_road.csv, features_nasa_power.csv, features_denue.csv, features_censo.csv, features_dgsiap.csv
 - CTN con geometría RNC_SNAPPED: 46 de 46
 - Duplicados de ctn_id: 0
 
 ## Completeness por CTN
-- Mínima: 95.1% | Mediana: 100.0%
+- Mínima: 95.6% | Mediana: 100.0%
 
 ## Periodos por fuente (Consistency: no mezclar años sin registrarlo)
 - INEGI Censo 2020 ITER: 2020
+- INEGI DENUE: fecha de consulta
 - INEGI RNC: 2025
 - NASA POWER: 2015-2024
 - SIAP/DGSIAP: 2024
@@ -20,6 +21,7 @@ Generado: 2026-10-04T14:28:06 | Corredor: MEX-095D_CDMX_ACAPULCO | CRS de cálcu
 - road_recubri: 89.1%
 - road_administra: 89.1%
 - road_jurisdi: 89.1%
+- denue_sector_shannon_5km: 80.4%
 - rural_pop_share_5km: 95.7%
 
 ## Escalas espaciales (Resolution)
@@ -73,6 +75,14 @@ Generado: 2026-10-04T14:28:06 | Corredor: MEX-095D_CDMX_ACAPULCO | CRS de cálcu
 - t2m_missing_pct: malla ~0.5° x 0.625°
 - t2m_max_missing_pct: malla ~0.5° x 0.625°
 - ws10m_missing_pct: malla ~0.5° x 0.625°
+- denue_n_est_5km: buffer 5 km (radio API)
+- denue_n_food_lodging_5km: buffer 5 km (radio API)
+- denue_n_retail_5km: buffer 5 km (radio API)
+- denue_n_gas_stations_5km: buffer 5 km (radio API)
+- denue_n_auto_repair_5km: buffer 5 km (radio API)
+- denue_n_large_est_5km: buffer 5 km (radio API)
+- denue_sector_shannon_5km: buffer 5 km (radio API)
+- denue_n_distinct_activities_5km: buffer 5 km (radio API)
 - pop_5km: buffer 5 km
 - n_localities_5km: buffer 5 km
 - rural_pop_share_5km: buffer 5 km

@@ -56,6 +56,14 @@ prectotcorr_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.
 t2m_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
 t2m_max_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
 ws10m_missing_pct,float64,100.0,1,D,NASA POWER,2015-2024,malla ~0.5° x 0.625°,Reanálisis/satélite; no es medición en sitio; CTN vecinos comparten celda,bajo
+denue_n_est_5km,float64,100.0,37,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
+denue_n_food_lodging_5km,float64,100.0,33,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
+denue_n_retail_5km,float64,100.0,35,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
+denue_n_gas_stations_5km,float64,100.0,17,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
+denue_n_auto_repair_5km,float64,100.0,30,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
+denue_n_large_est_5km,float64,100.0,23,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
+denue_sector_shannon_5km,float64,80.4,36,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
+denue_n_distinct_activities_5km,float64,100.0,35,D,INEGI DENUE,fecha de consulta,buffer 5 km (radio API),Registro administrativo; informalidad subregistrada; geocodificación variable,bajo
 pop_5km,float64,100.0,45,D,INEGI Censo 2020 ITER,2020,buffer 5 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
 n_localities_5km,int64,100.0,29,D,INEGI Censo 2020 ITER,2020,buffer 5 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
 rural_pop_share_5km,float64,95.7,30,D,INEGI Censo 2020 ITER,2020,buffer 5 km,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
