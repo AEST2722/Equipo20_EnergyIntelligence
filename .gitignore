@@ -17,3 +17,5 @@
 __pycache__/
 .venv/
 .ipynb_checkpoints/
+# Listados completos de DENUE (pesados; el modelo usa features_denue*.csv)
+02_INTERIM/denue_establecimientos*.csv
