@@ -1,0 +1,57 @@
+feature,tipo,transformacion
+denue_n_gas_stations_5km,numérica,Yeo-Johnson
+schooling_mean_10km,numérica,Estandarización
+rural_pop_share_10km,numérica,Estandarización
+pct_dwellings_electricity_10km,numérica,Yeo-Johnson
+rural_pop_share_20km,numérica,Estandarización
+n_intersections_1km,numérica,Yeo-Johnson
+rural_pop_share_5km,numérica,Estandarización
+pop_10km,numérica,Yeo-Johnson
+fe_hay_gasolinera_5km,numérica,Yeo-Johnson
+road_carriles,numérica,Yeo-Johnson
+road_ancho,numérica,Yeo-Johnson
+fe_rnc_sin_atributos,numérica,Yeo-Johnson
+fe_est_por_1000hab_5km,numérica,Yeo-Johnson
+dist_nearest_locality_m,numérica,Yeo-Johnson
+fe_peaje,numérica,Yeo-Johnson
+mun_agri_value_mxn,numérica,Yeo-Johnson
+pop_nearest_locality,numérica,Yeo-Johnson
+mun_agri_sown_ha,numérica,Yeo-Johnson
+n_localities_10km,numérica,Estandarización
+mun_agri_n_crops,numérica,Estandarización
+fe_carriles_4mas,numérica,Yeo-Johnson
+road_velocidad,numérica,Estandarización
+fe_share_retail,numérica,Estandarización
+denue_sector_shannon_5km,numérica,Yeo-Johnson
+fe_agri_valor_por_ha,numérica,Yeo-Johnson
+mun_agri_loss_share,numérica,Yeo-Johnson
+mun_agri_irrigated_share,numérica,Estandarización
+mun_agri_top_crop_share,numérica,Estandarización
+fe_share_servicios_viajero,numérica,Yeo-Johnson
+fe_concentracion_pob,numérica,Yeo-Johnson
+road_tipo_vial,categórica,One-hot
+road_circula,categórica,One-hot
+road_cond_pav,categórica,One-hot
+road_recubri,categórica,One-hot
+road_administra,categórica,One-hot
+road_nivel,categórica,One-hot
+prectotcorr_mean,clima -> PCA,PCA (4 comp.)
+t2m_mean,clima -> PCA,PCA (4 comp.)
+t2m_max_mean,clima -> PCA,PCA (4 comp.)
+ws10m_mean,clima -> PCA,PCA (4 comp.)
+prectotcorr_std,clima -> PCA,PCA (4 comp.)
+t2m_std,clima -> PCA,PCA (4 comp.)
+t2m_max_std,clima -> PCA,PCA (4 comp.)
+ws10m_std,clima -> PCA,PCA (4 comp.)
+prectotcorr_p10,clima -> PCA,PCA (4 comp.)
+t2m_p10,clima -> PCA,PCA (4 comp.)
+t2m_max_p10,clima -> PCA,PCA (4 comp.)
+ws10m_p10,clima -> PCA,PCA (4 comp.)
+prectotcorr_p90,clima -> PCA,PCA (4 comp.)
+t2m_p90,clima -> PCA,PCA (4 comp.)
+t2m_max_p90,clima -> PCA,PCA (4 comp.)
+ws10m_p90,clima -> PCA,PCA (4 comp.)
+prectotcorr_seasonal_amplitude,clima -> PCA,PCA (4 comp.)
+t2m_seasonal_amplitude,clima -> PCA,PCA (4 comp.)
+t2m_max_seasonal_amplitude,clima -> PCA,PCA (4 comp.)
+ws10m_seasonal_amplitude,clima -> PCA,PCA (4 comp.)
