@@ -1,14 +1,14 @@
-paso,decision,razon
-1,Excluir columnas que solo existen donde hay aforo SICT,No están disponibles para los CTN del corredor; pct_C y pct_B se miden con el TDPA (fuga)
-1,Excluir lat/lon,Evitar que el modelo memorice ubicaciones; la validación es espacial
-1,"Conservar los 3 sitios a >500 m de la RNC, señalados para revisión",Son pocos; quitarlos reduce territorio de entrenamiento. Se revisa su error en el Avance 3
-1,Usar road_peaje (RNC) como indicador de cuota,Coincide con toll_road en el 93% de los sitios y es la única disponible para los CTN
-2,One-hot para nominales con min_frequency=10; faltantes como categoría 'Sin dato',Sin orden natural; agrupar raras evita columnas vacías; el faltante de la RNC es sistemático
-2,Baseline = media de log_tdpa por tipo de vía y cuota,Referencia simple pedida por el asesor
-3,Yeo-Johnson para 43 continuas con |asimetría| > 1; estandarización para el resto; 9 binarias quedan 0/1,Yeo-Johnson atiende colas largas en variables continuas; los indicadores conservan su interpretación y escala original
-4.1,Eliminar 5 columnas constantes,Varianza cero en entrenamiento
-4.1,Retirar 6 columnas de radiación del modelo de tráfico,Casi no varía entre sitios (comentario del asesor); se conserva para el dimensionamiento energético
-4.2,Filtro Spearman |ρ| ≥ 0.85: quedan 40 numéricas,De cada grupo redundante se conserva la más relacionada con log_tdpa; se comparan gasolineras y establecimientos totales en validación
-4.3,"Conservar categóricas con ANOVA p < 0.05: ['road_tipo_vial', 'road_circula', 'road_cond_pav', 'road_recubri', 'road_administra', 'road_nivel']",El log_tdpa medio difiere entre sus categorías
-4.4,PCA del clima: 20 columnas -> 4 componentes (≥90% de varianza),Bloque muy redundante y con solo 59 valores distintos por la resolución de NASA POWER
-4.5,Conjunto final: Filtro + PCA clima (establecimientos totales),"Menor RMSE promedio; entre resultados dentro de una desviación estándar se prioriza menos complejidad y, para DENUE, establecimientos totales por interpretación"
+paso,ambito,decision,razon
+1,regla de dominio o ajuste final,Excluir columnas que solo existen donde hay aforo SICT,No están disponibles para los CTN del corredor; pct_C y pct_B se miden con el TDPA (fuga)
+1,regla de dominio o ajuste final,Excluir lat/lon,Evitar que el modelo memorice ubicaciones; la validación es espacial
+1,regla de dominio o ajuste final,Excluir bloques externos y aplicar margen de 40 km,Evitar compartir bloques y buffers poblacionales de 20 km entre entrenamiento y prueba
+1,regla de dominio o ajuste final,Conservar asignaciones viales distantes para revisión,Una distancia grande no demuestra que los atributos sean erróneos
+2,regla de dominio o ajuste final,Faltantes estructurales=0 + flag; desconocidos=NaN + flag,"No atribuir población, comercios o agricultura inexistentes a datos ausentes"
+2,regla de dominio o ajuste final,One-hot entrenado dentro de cada fold; desconocidos como categoría,Sin orden artificial; categorías nuevas se manejan sin usar validación
+2,regla de dominio o ajuste final,Baseline = media de log_tdpa por tipo de vía y cuota,Referencia simple pedida por el asesor
+4.1,diagnostico exploratorio; no fija CV,Eliminar 135 columnas constantes,Varianza cero en entrenamiento
+4.1,diagnostico exploratorio; no fija CV,Retirar 6 columnas de radiación del modelo de tráfico,Casi no varía entre sitios (comentario del asesor); se conserva para el dimensionamiento energético
+4.2,diagnostico exploratorio; no fija CV,Filtro Spearman |ρ| ≥ 0.85: quedan 45 numéricas,De cada grupo redundante se conserva la más relacionada con log_tdpa; el modelo recalcula el filtro en cada fold
+4.3,diagnostico exploratorio; no fija CV,"Conservar categóricas con ANOVA p < 0.05: ['road_tipo_vial', 'road_circula', 'road_cond_pav', 'road_recubri', 'road_administra', 'road_nivel']",El log_tdpa medio difiere entre sus categorías
+4.4,diagnostico exploratorio; no fija CV,PCA del clima: 20 columnas -> 4 componentes (≥90% de varianza),Diagnóstico exploratorio de redundancia; el PCA de CV se aprende por fold
+4.5,regla de dominio o ajuste final,Elegido Filtro + PCA; recorte=False; modelo=GBoost,Menor RMSE CV espacial; prueba externa solo al final

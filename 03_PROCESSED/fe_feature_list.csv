@@ -1,34 +1,71 @@
 feature,tipo,transformacion
-denue_n_est_5km,numérica,Yeo-Johnson
-schooling_mean_10km,numérica,Estandarización
-rural_pop_share_10km,numérica,Estandarización
-pct_dwellings_electricity_10km,numérica,Yeo-Johnson
-rural_pop_share_20km,numérica,Estandarización
-n_intersections_1km,numérica,Yeo-Johnson
-rural_pop_share_5km,numérica,Estandarización
-pop_10km,numérica,Yeo-Johnson
+denue_n_gas_stations_5km,numérica,Yeo-Johnson + escalamiento robusto
+n_intersections_1km,numérica,Yeo-Johnson + escalamiento robusto
+rural_pop_share_10km,numérica,Escalamiento robusto
+rural_pop_share_20km,numérica,Escalamiento robusto
+rural_pop_share_5km,numérica,Yeo-Johnson + escalamiento robusto
 fe_hay_gasolinera_5km,numérica,Sin transformación (0/1)
-road_carriles,numérica,Yeo-Johnson
-road_ancho,numérica,Yeo-Johnson
-fe_rnc_sin_atributos,numérica,Sin transformación (0/1)
-fe_est_por_1000hab_5km,numérica,Yeo-Johnson
-dist_nearest_locality_m,numérica,Yeo-Johnson
+fe_pop_urbana_10km,numérica,Yeo-Johnson + escalamiento robusto
+pct_dwellings_electricity_10km,numérica,Yeo-Johnson + escalamiento robusto
+road_carriles,numérica,Yeo-Johnson + escalamiento robusto
+fe_pop_anillo_10_20km,numérica,Yeo-Johnson + escalamiento robusto
+road_ancho,numérica,Yeo-Johnson + escalamiento robusto
 fe_peaje,numérica,Sin transformación (0/1)
-mun_agri_value_mxn,numérica,Yeo-Johnson
-pop_nearest_locality,numérica,Yeo-Johnson
-n_localities_10km,numérica,Estandarización
-mun_agri_sown_ha,numérica,Yeo-Johnson
-mun_agri_n_crops,numérica,Estandarización
+fe_agri_cosechada_share,numérica,Yeo-Johnson + escalamiento robusto
+fe_rnc_sin_atributos,numérica,Sin transformación (0/1)
+fe_sin_establecimientos_5km,numérica,Sin transformación (0/1)
+mun_agri_value_mxn,numérica,Yeo-Johnson + escalamiento robusto
+denue_sector_shannon_5km,numérica,Yeo-Johnson + escalamiento robusto
+fe_sin_poblacion_5km,numérica,Sin transformación (0/1)
+mun_agri_irrigated_share,numérica,Yeo-Johnson + escalamiento robusto
+fe_share_retail,numérica,Escalamiento robusto
 fe_carriles_4mas,numérica,Sin transformación (0/1)
-road_velocidad,numérica,Estandarización
-fe_share_retail,numérica,Estandarización
-denue_sector_shannon_5km,numérica,Yeo-Johnson
-fe_agri_valor_por_ha,numérica,Yeo-Johnson
-mun_agri_irrigated_share,numérica,Yeo-Johnson
-mun_agri_crop_shannon,numérica,Estandarización
-fe_share_servicios_viajero,numérica,Yeo-Johnson
-mun_agri_loss_share,numérica,Yeo-Johnson
-fe_concentracion_pob,numérica,Yeo-Johnson
+fe_share_servicios_viajero,numérica,Yeo-Johnson + escalamiento robusto
+fe_sin_poblacion_20km,numérica,Sin transformación (0/1)
+pop_nearest_locality,numérica,Yeo-Johnson + escalamiento robusto
+n_localities_20km,numérica,Escalamiento robusto
+road_velocidad,numérica,Escalamiento robusto
+mun_agri_top_crop_share,numérica,Escalamiento robusto
+atipico__road_carriles,indicador de atípico,Sin transformación (0/1)
+atipico__road_velocidad,indicador de atípico,Sin transformación (0/1)
+atipico__road_ancho,indicador de atípico,Sin transformación (0/1)
+atipico__n_intersections_1km,indicador de atípico,Sin transformación (0/1)
+atipico__prectotcorr_mean,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_mean,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_max_mean,indicador de atípico,Sin transformación (0/1)
+atipico__ws10m_mean,indicador de atípico,Sin transformación (0/1)
+atipico__prectotcorr_std,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_std,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_max_std,indicador de atípico,Sin transformación (0/1)
+atipico__ws10m_std,indicador de atípico,Sin transformación (0/1)
+atipico__prectotcorr_p10,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_p10,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_max_p10,indicador de atípico,Sin transformación (0/1)
+atipico__ws10m_p10,indicador de atípico,Sin transformación (0/1)
+atipico__prectotcorr_p90,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_p90,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_max_p90,indicador de atípico,Sin transformación (0/1)
+atipico__ws10m_p90,indicador de atípico,Sin transformación (0/1)
+atipico__prectotcorr_seasonal_amplitude,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_seasonal_amplitude,indicador de atípico,Sin transformación (0/1)
+atipico__t2m_max_seasonal_amplitude,indicador de atípico,Sin transformación (0/1)
+atipico__ws10m_seasonal_amplitude,indicador de atípico,Sin transformación (0/1)
+atipico__denue_n_gas_stations_5km,indicador de atípico,Sin transformación (0/1)
+atipico__denue_sector_shannon_5km,indicador de atípico,Sin transformación (0/1)
+atipico__rural_pop_share_5km,indicador de atípico,Sin transformación (0/1)
+atipico__rural_pop_share_10km,indicador de atípico,Sin transformación (0/1)
+atipico__pct_dwellings_electricity_10km,indicador de atípico,Sin transformación (0/1)
+atipico__n_localities_20km,indicador de atípico,Sin transformación (0/1)
+atipico__rural_pop_share_20km,indicador de atípico,Sin transformación (0/1)
+atipico__pop_nearest_locality,indicador de atípico,Sin transformación (0/1)
+atipico__mun_agri_value_mxn,indicador de atípico,Sin transformación (0/1)
+atipico__mun_agri_top_crop_share,indicador de atípico,Sin transformación (0/1)
+atipico__mun_agri_irrigated_share,indicador de atípico,Sin transformación (0/1)
+atipico__fe_pop_urbana_10km,indicador de atípico,Sin transformación (0/1)
+atipico__fe_share_servicios_viajero,indicador de atípico,Sin transformación (0/1)
+atipico__fe_share_retail,indicador de atípico,Sin transformación (0/1)
+atipico__fe_agri_cosechada_share,indicador de atípico,Sin transformación (0/1)
+atipico__fe_pop_anillo_10_20km,indicador de atípico,Sin transformación (0/1)
 road_tipo_vial,categórica,One-hot
 road_circula,categórica,One-hot
 road_cond_pav,categórica,One-hot
