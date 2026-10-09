@@ -79,13 +79,13 @@ dist_nearest_locality_m,float64,100.0,46,D,INEGI Censo 2020 ITER,2020,punto,Snap
 pop_nearest_locality,int64,100.0,41,D,INEGI Censo 2020 ITER,2020,localidad,Snapshot 2020; localidades como puntos; '*' confidencial -> NaN; población flotante turística no captada,bajo
 cve_mun,str,100.0,18,,,,,,
 mun_assignment_method,str,100.0,1,,,,,,
-mun_agri_sown_ha,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_harvested_ha,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_value_mxn,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_n_crops,int64,100.0,16,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_crop_shannon,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_top_crop,str,100.0,4,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_top_crop_share,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_irrigated_share,float64,100.0,18,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
-mun_agri_loss_share,float64,100.0,2,D,SIAP/DGSIAP,2024,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_sown_ha,float64,100.0,18,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_harvested_ha,float64,100.0,18,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_value_mxn,float64,100.0,18,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_n_crops,int64,100.0,15,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_crop_shannon,float64,100.0,18,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_top_crop,str,100.0,5,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_top_crop_share,float64,100.0,18,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_irrigated_share,float64,100.0,18,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
+mun_agri_loss_share,float64,100.0,2,D,SIAP/DGSIAP,2025,municipal,"Contexto MUNICIPAL, no predial; CTN del mismo municipio comparten valor",medio: agrupar por municipio en validación espacial
 spatial_block,int64,100.0,8,,,,,,

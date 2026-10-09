@@ -56,6 +56,6 @@ mun_agri_harvested_ha,descartada: redundante (|rho|>0.9),D,SIAP/DGSIAP,municipal
 mun_agri_value_mxn,seleccionada,D,SIAP/DGSIAP,municipal
 mun_agri_n_crops,seleccionada,D,SIAP/DGSIAP,municipal
 mun_agri_crop_shannon,seleccionada,D,SIAP/DGSIAP,municipal
-mun_agri_top_crop_share,descartada: redundante (|rho|>0.9),D,SIAP/DGSIAP,municipal
+mun_agri_top_crop_share,seleccionada,D,SIAP/DGSIAP,municipal
 mun_agri_irrigated_share,seleccionada,D,SIAP/DGSIAP,municipal
 mun_agri_loss_share,seleccionada,D,SIAP/DGSIAP,municipal

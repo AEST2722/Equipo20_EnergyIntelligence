@@ -53,3 +53,8 @@ timestamp,step,decision,reason
 2026-10-04T23:06:18,s01b,3 puntos a más de 500 m de un tramo RNC (sites),Revisar coordenadas o cobertura de la caja leída
 2026-10-05T00:24:45,s05,Municipios sin registro agrícola 2025: ['15058'],"Puede ser municipio urbano (p. ej. alcaldías CDMX) -> faltante estructural, no aleatorio"
 2026-10-05T00:26:48,s01b,"Atributos RNC usados (ctn): ['TIPO_VIAL', 'COND_PAV', 'RECUBRI', 'CARRILES', 'NIVEL', 'PEAJE', 'ADMINISTRA', 'JURISDI', 'CIRCULA', 'VELOCIDAD', 'ANCHO']",Detectados por nombre de campo
+2026-10-09T05:44:11,s01b,"Atributos RNC usados (sites): ['TIPO_VIAL', 'COND_PAV', 'RECUBRI', 'CARRILES', 'NIVEL', 'PEAJE', 'ADMINISTRA', 'JURISDI', 'CIRCULA', 'VELOCIDAD', 'ANCHO']",Detectados por nombre de campo
+2026-10-09T05:46:08,s01b,3 puntos a más de 500 m de un tramo RNC (sites),Revisar coordenadas o cobertura de la caja leída
+2026-10-09T07:20:50,s05,Municipios sin registro agrícola 2025: ['15058'],"Puede ser municipio urbano (p. ej. alcaldías CDMX) -> faltante estructural, no aleatorio"
+2026-10-09T07:22:39,s01b,"Atributos RNC usados (ctn): ['TIPO_VIAL', 'COND_PAV', 'RECUBRI', 'CARRILES', 'NIVEL', 'PEAJE', 'ADMINISTRA', 'JURISDI', 'CIRCULA', 'VELOCIDAD', 'ANCHO']",Detectados por nombre de campo
+2026-10-09T07:31:14,s08,"Tabla de modelado: 1075 sitios, 79 features, 23 en prueba externa",Target log_tdpa; prueba externa = sitios sobre MEX-095D

@@ -1,6 +1,6 @@
 # Data Quality Report – CTN_Master
 
-Generado: 2026-10-04T22:30:40 | Corredor: MEX-095D_CDMX_ACAPULCO | CRS de cálculo: EPSG:6372
+Generado: 2026-10-09T07:31:18 | Corredor: MEX-095D_CDMX_ACAPULCO | CRS de cálculo: EPSG:6372
 
 - CTN: 46 | Features: 90 | Fuentes integradas: features_road.csv, features_nasa_power.csv, features_denue.csv, features_censo.csv, features_dgsiap.csv
 - CTN con geometría RNC_SNAPPED: 46 de 46
@@ -14,7 +14,7 @@ Generado: 2026-10-04T22:30:40 | Corredor: MEX-095D_CDMX_ACAPULCO | CRS de cálcu
 - INEGI DENUE: fecha de consulta
 - INEGI RNC: 2025
 - NASA POWER: 2015-2024
-- SIAP/DGSIAP: 2024
+- SIAP/DGSIAP: 2025
 
 ## Features con completeness < 100%
 - road_cond_pav: 89.1%

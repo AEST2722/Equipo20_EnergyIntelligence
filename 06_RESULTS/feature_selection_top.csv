@@ -55,7 +55,7 @@ mun_agri_harvested_ha,redundante
 mun_agri_value_mxn,seleccionada
 mun_agri_n_crops,seleccionada
 mun_agri_crop_shannon,seleccionada
-mun_agri_top_crop_share,seleccionada
+mun_agri_top_crop_share,redundante
 mun_agri_irrigated_share,seleccionada
 mun_agri_loss_share,seleccionada
 toll_road,seleccionada
