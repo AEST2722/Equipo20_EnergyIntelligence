@@ -1,0 +1,2 @@
+﻿rmse_log,mae_log,r2_log,mae_veh_dia,rmse_veh_dia,wape_pct,conjunto,recorte,algoritmo,n_test
+0.6634001018789265,0.4954380908957753,0.285078264271424,16093.957689874282,24807.404823185283,44.7146725793743,Filtro + PCA,False,GBoost,23

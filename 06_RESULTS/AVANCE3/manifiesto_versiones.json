@@ -1,0 +1,27 @@
+{
+  "proyecto": "GreenStops",
+  "avance": 3,
+  "fecha_utc": "2026-10-17T23:50:32.889540+00:00",
+  "dataset_relativo": "03_PROCESSED/FE_TOP_Model_Table.csv",
+  "dataset_sha256": "6ffe2ae49ae99d5b98f18f0fb4c885e28a47e549926eba6cb4a81568fecff673",
+  "notebook_sha256_guardado": null,
+  "git_commit": "76d5f2adce4ff57eeea3312a31b29c7115440a92",
+  "git_cambios_locales": true,
+  "n_desarrollo": 703,
+  "n_prueba_externa": 23,
+  "n_folds": 5,
+  "purga_km": 40.0,
+  "variable_objetivo": "log_tdpa",
+  "transformacion_objetivo": "log",
+  "umbral_mejora_pct": 25.0,
+  "ganador_run_name": "GBoost__Filtro+PCA__recorte_0",
+  "semilla": 20,
+  "versiones": {
+    "python": "3.14.6",
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1"
+  },
+  "futuros_trackers": "Campos compatibles con futura instrumentación MLflow/DagsHub; no se conectan aquí"
+}

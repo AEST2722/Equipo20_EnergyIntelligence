@@ -1,0 +1,96 @@
+﻿feature_transformada,tipo
+denue_n_gas_stations_5km,numérica
+n_intersections_1km,numérica
+rural_pop_share_10km,numérica
+rural_pop_share_20km,numérica
+rural_pop_share_5km,numérica
+fe_hay_gasolinera_5km,numérica
+fe_pop_urbana_10km,numérica
+pct_dwellings_electricity_10km,numérica
+road_carriles,numérica
+fe_pop_anillo_10_20km,numérica
+road_ancho,numérica
+fe_peaje,numérica
+fe_agri_cosechada_share,numérica
+fe_rnc_sin_atributos,numérica
+fe_sin_establecimientos_5km,numérica
+mun_agri_value_mxn,numérica
+denue_sector_shannon_5km,numérica
+fe_sin_poblacion_5km,numérica
+mun_agri_irrigated_share,numérica
+fe_share_retail,numérica
+fe_carriles_4mas,numérica
+fe_share_servicios_viajero,numérica
+fe_sin_poblacion_20km,numérica
+pop_nearest_locality,numérica
+n_localities_20km,numérica
+road_velocidad,numérica
+mun_agri_top_crop_share,numérica
+atipico__road_carriles,indicador de atípico
+atipico__road_velocidad,indicador de atípico
+atipico__road_ancho,indicador de atípico
+atipico__n_intersections_1km,indicador de atípico
+atipico__prectotcorr_mean,indicador de atípico
+atipico__t2m_mean,indicador de atípico
+atipico__t2m_max_mean,indicador de atípico
+atipico__ws10m_mean,indicador de atípico
+atipico__prectotcorr_std,indicador de atípico
+atipico__t2m_std,indicador de atípico
+atipico__t2m_max_std,indicador de atípico
+atipico__ws10m_std,indicador de atípico
+atipico__prectotcorr_p10,indicador de atípico
+atipico__t2m_p10,indicador de atípico
+atipico__t2m_max_p10,indicador de atípico
+atipico__ws10m_p10,indicador de atípico
+atipico__prectotcorr_p90,indicador de atípico
+atipico__t2m_p90,indicador de atípico
+atipico__t2m_max_p90,indicador de atípico
+atipico__ws10m_p90,indicador de atípico
+atipico__prectotcorr_seasonal_amplitude,indicador de atípico
+atipico__t2m_seasonal_amplitude,indicador de atípico
+atipico__t2m_max_seasonal_amplitude,indicador de atípico
+atipico__ws10m_seasonal_amplitude,indicador de atípico
+atipico__denue_n_gas_stations_5km,indicador de atípico
+atipico__denue_sector_shannon_5km,indicador de atípico
+atipico__rural_pop_share_5km,indicador de atípico
+atipico__rural_pop_share_10km,indicador de atípico
+atipico__pct_dwellings_electricity_10km,indicador de atípico
+atipico__n_localities_20km,indicador de atípico
+atipico__rural_pop_share_20km,indicador de atípico
+atipico__pop_nearest_locality,indicador de atípico
+atipico__mun_agri_value_mxn,indicador de atípico
+atipico__mun_agri_top_crop_share,indicador de atípico
+atipico__mun_agri_irrigated_share,indicador de atípico
+atipico__fe_pop_urbana_10km,indicador de atípico
+atipico__fe_share_servicios_viajero,indicador de atípico
+atipico__fe_share_retail,indicador de atípico
+atipico__fe_agri_cosechada_share,indicador de atípico
+atipico__fe_pop_anillo_10_20km,indicador de atípico
+road_tipo_vial_Avenida,one-hot categórica
+road_tipo_vial_Boulevard,one-hot categórica
+road_tipo_vial_Calle,one-hot categórica
+road_tipo_vial_Carretera,one-hot categórica
+road_tipo_vial_Enlace,one-hot categórica
+road_tipo_vial_infrequent_sklearn,one-hot categórica
+road_circula_Dos sentidos,one-hot categórica
+road_circula_Un sentido,one-hot categórica
+road_circula_infrequent_sklearn,one-hot categórica
+road_cond_pav_Con pavimento,one-hot categórica
+road_cond_pav_Desconocido,one-hot categórica
+road_cond_pav_infrequent_sklearn,one-hot categórica
+road_recubri_Asfalto,one-hot categórica
+road_recubri_Concreto,one-hot categórica
+road_recubri_Desconocido,one-hot categórica
+road_recubri_infrequent_sklearn,one-hot categórica
+road_administra_Desconocido,one-hot categórica
+road_administra_Estatal,one-hot categórica
+road_administra_Federal,one-hot categórica
+road_administra_Municipal,one-hot categórica
+road_administra_infrequent_sklearn,one-hot categórica
+road_nivel_0,one-hot categórica
+road_nivel_1,one-hot categórica
+road_nivel_infrequent_sklearn,one-hot categórica
+clima_PC1,clima PCA
+clima_PC2,clima PCA
+clima_PC3,clima PCA
+clima_PC4,clima PCA
