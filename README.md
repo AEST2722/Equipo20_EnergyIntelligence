@@ -60,6 +60,7 @@ python src/s08_build_model_table.py              # TOP_Model_Table + CTN_Predict
 python src/s07_build_master.py                   # CTN_Master + Data Quality Report
 jupyter notebook 04_NOTEBOOKS/02_EDA_TOP_Model_Table.ipynb   # EDA principal (Avance 1)
 jupyter notebook 04_NOTEBOOKS/01_EDA_CTN_Master.ipynb        # EDA complementario del corredor
+jupyter notebook 04_NOTEBOOKS/Avance3.20.ipynb              # baseline espacial para TDPA
 ```
 
 PDF de Datos Viales: pongan en `01_RAW/sict_tdpa/` los de Morelos, CDMX, Estado de México, Guerrero y Puebla
@@ -75,7 +76,7 @@ porque las features se calculan alrededor de cada sitio. `s06_sict_tdpa.py` qued
 01_RAW/            originales inmutables por fuente (los pesados no se versionan; ver download_log)
 02_INTERIM/        corredor, TOP ubicados, series NASA, tablas fuente recortadas al corredor
 03_PROCESSED/      ctn_base, features_*.csv, CTN_Master, CTN_Master_preprocessed
-04_NOTEBOOKS/      01_EDA_CTN_Master.ipynb
+04_NOTEBOOKS/      notebooks EDA y avances 1–3 (incluye Avance3.20.ipynb)
 06_RESULTS/        data_quality_report.md, figuras del EDA, selección de features
 07_TEAM_LOG/       decision_log.csv (snaps, cambios de ruta, decisiones manuales)
 src/               scripts s01–s07 y utilidades
