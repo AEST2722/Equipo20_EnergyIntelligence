@@ -1,0 +1,2 @@
+﻿rmse_log,mae_log,r2_log,mae_veh_dia,rmse_veh_dia,wape_pct,modelo,hiperparametros
+0.8854334320494736,0.7267372976050887,-0.2735595748166846,19796.902862031293,27148.494967745624,55.002756103823344,Ridge,"{'alpha': 10, 'fit_intercept': True}"
