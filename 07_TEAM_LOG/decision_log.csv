@@ -58,3 +58,8 @@ timestamp,step,decision,reason
 2026-10-09T07:20:50,s05,Municipios sin registro agrícola 2025: ['15058'],"Puede ser municipio urbano (p. ej. alcaldías CDMX) -> faltante estructural, no aleatorio"
 2026-10-09T07:22:39,s01b,"Atributos RNC usados (ctn): ['TIPO_VIAL', 'COND_PAV', 'RECUBRI', 'CARRILES', 'NIVEL', 'PEAJE', 'ADMINISTRA', 'JURISDI', 'CIRCULA', 'VELOCIDAD', 'ANCHO']",Detectados por nombre de campo
 2026-10-09T07:31:14,s08,"Tabla de modelado: 1075 sitios, 79 features, 23 en prueba externa",Target log_tdpa; prueba externa = sitios sobre MEX-095D
+2026-10-31T22:40:15,s09,Ciudades a >5 km de la red: ['ZM Oaxaca'],Revisar bbox o coordenadas
+2026-10-31T22:40:46,s09,63 puntos (sites) a >500 m de la red interurbana,Pueden estar sobre vialidades urbanas excluidas; revisar
+2026-10-31T22:40:46,s09,"Red interurbana: excluidos tipos ['Andador', 'Calle', 'Callejón', 'Cerrada', 'Cerrada privada', 'Peatonal', 'Privada', 'Prolongación', 'Retorno', 'Retorno U', 'Vereda']; velocidad RNC o por defecto (cuota 100, carretera 70, enlace 50, otras 40 km/h)",Tiempo de viaje como impedancia; ruta más rápida entre 21 ciudades
+2026-10-31T22:43:54,s10,FE_TOP_Model_Table_v2.csv = FE_TOP_Model_Table.csv + features_red_sites.csv,Tabla nueva; la original no se modifica
+2026-10-31T22:43:54,s10,FE_CTN_Prediction_Table_v2.csv = FE_CTN_Prediction_Table.csv + features_red.csv,Tabla nueva; la original no se modifica
