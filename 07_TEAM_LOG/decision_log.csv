@@ -63,3 +63,7 @@ timestamp,step,decision,reason
 2026-10-31T22:40:46,s09,"Red interurbana: excluidos tipos ['Andador', 'Calle', 'Callejón', 'Cerrada', 'Cerrada privada', 'Peatonal', 'Privada', 'Prolongación', 'Retorno', 'Retorno U', 'Vereda']; velocidad RNC o por defecto (cuota 100, carretera 70, enlace 50, otras 40 km/h)",Tiempo de viaje como impedancia; ruta más rápida entre 21 ciudades
 2026-10-31T22:43:54,s10,FE_TOP_Model_Table_v2.csv = FE_TOP_Model_Table.csv + features_red_sites.csv,Tabla nueva; la original no se modifica
 2026-10-31T22:43:54,s10,FE_CTN_Prediction_Table_v2.csv = FE_CTN_Prediction_Table.csv + features_red.csv,Tabla nueva; la original no se modifica
+2026-11-05T13:03:16,s11,Uso de suelo INEGI Serie VII (usv250s7gw.shp); campo DESCRIPCIO; clases por palabra clave; 0.7% del área en 'otros',Buffers de 1 y 5 km (multiescala del sponsor); áreas en EPSG proyectado
+2026-11-05T13:05:48,s11,Uso de suelo INEGI Serie VII (usv250s7gw.shp); campo DESCRIPCIO; clases por palabra clave; 0.5% del área en 'otros',Buffers de 1 y 5 km (multiescala del sponsor); áreas en EPSG proyectado
+2026-11-05T13:06:23,s12,FE_TOP_Model_Table_v3.csv = FE_TOP_Model_Table_v2.csv + features_uso_suelo_sites.csv,Tabla nueva; la anterior no se modifica
+2026-11-05T13:06:23,s12,FE_CTN_Prediction_Table_v3.csv = FE_CTN_Prediction_Table_v2.csv + features_uso_suelo.csv,Tabla nueva; la anterior no se modifica
