@@ -1,0 +1,4 @@
+﻿arquetipo,n_ctn,km_desde,km_hasta,tdpa_mediana,kwh_dia_medio,agricola_5km,forestal_5km,urbano_5km,pob_10km
+Periurbano · tránsito alto,8,0.0,354.0,36872.0,516.0,15.5,20.6,55.8,684802.5
+Agrícola · tránsito alto,10,10.0,110.0,32294.5,358.5,57.7,17.3,14.5,137867.5
+Montaña/forestal · tránsito medio,28,30.0,342.6,10583.5,207.5,21.5,67.9,3.0,14600.5
